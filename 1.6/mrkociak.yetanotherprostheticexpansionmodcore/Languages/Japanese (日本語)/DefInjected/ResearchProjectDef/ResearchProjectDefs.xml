@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: advanced bionic replacements -->
-  <BIE_AdvancedBionics.label>先進人工技術</BIE_AdvancedBionics.label>
+  <BIE_AdvancedBionics.label>先進バイオニクス</BIE_AdvancedBionics.label>
   <!-- EN: Build more expensive and efficient high-tech bionic body parts to replace lost limbs, organs and eyes. Requires a skilled doctor to attach. -->
   <BIE_AdvancedBionics.description>より高価で高性能な先進的人工身体部品を製作できるようになります。失われた肢体や臓器、眼を置換できます。取り付けには熟練の医師が必要です。</BIE_AdvancedBionics.description>
   <!-- EN:
@@ -160,5 +160,20 @@
     <li>subject_story->新たな可能性を解き放つ隠れたつながりを明らかにした</li>
     <li>subject_gerund->進歩の要素を断片のようにつなぎ合わせる</li>
   </BIE_AdvancedBionics.generalRules.rulesStrings>
+
+  <!-- ウルトラテック義肢の研究についての日本語化、パッチで追加される形式なのでextractできてないので手動で何とかする -->
+  <!-- 設定項目的な都合で、2つ存在する -->
+
+  <!-- 通常版 -->
+  <!-- EN: ultratech replacements -->
+  <BIE_UltratechBionics.label>ウルトラテック義肢</BIE_UltratechBionics.label>
+  <!-- EN: Build ultratech body parts to replace lost limbs, organs and eyes. Requires a skilled doctor to attach. -->
+  <BIE_UltratechBionics.description>ウルトラテック相当の人工身体部品を製作できるようになります。取り付けには熟練の医師が必要です。</BIE_UltratechBionics.description>
+
+  <!-- ロイヤリティ(テックプリント)版 -->
+  <!-- EN: ultratech replacements -->
+  <BIE_UltratechBionics_CraftableUltratechRoyalty.label>ウルトラテック義肢</BIE_UltratechBionics_CraftableUltratechRoyalty.label>
+  <!-- EN: Build ultratech body parts to replace lost limbs, organs and eyes. Requires a skilled doctor to attach. -->
+  <BIE_UltratechBionics_CraftableUltratechRoyalty.description>ウルトラテック相当の人工身体部品を製作できるようになります。取り付けには熟練の医師が必要です。</BIE_UltratechBionics_CraftableUltratechRoyalty.description>
 
 </LanguageData>

@@ -46,8 +46,8 @@
 |ティア|修飾子|元単語|対応する研究|本ティアの義肢はベースゲームにもともとあるか？|
 |-|-|-|-|-|
 |1|アルコテック|archotech|(なし)|⭕️|
-|2|ウルトラテックテック|ultratech|Ultratech replacements|✖️|
-|3|先進人工|advanced bionic|先進人工義肢|✖️|
+|2|ウルトラテックテック|ultratech|ウルトラテック義肢|✖️|
+|3|先進人工|advanced bionic|先進バイオニクス|✖️|
 |4|強化|bionic|バイオニクス|⭕️|
 |5|人造|prosthetic|人工装具|⭕️|
 
