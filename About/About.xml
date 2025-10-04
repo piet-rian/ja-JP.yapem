@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-    <packageId>ja.JP.depended.mod.package.id</packageId>
-    <name>RimworldTranslationMod</name>
-    <!-- <name>depended mod name(ja-JP)</name> -->
+    <packageId>ja.JP.mrkociak.yetanotherprostheticexpansionmodcore</packageId>
+    <name>Yet another prosthetic expansion mod - Core(ja-JP)</name>
     <authors>
         <li>piet-rian</li>
         <li>...</li>
@@ -20,14 +19,14 @@
 
     <modDependencies>
         <li>
-            <packageId>depended.mod.package.id</packageId>
-            <displayName>depended mod name</displayName>
-            <steamWorkshopUrl>steam://url/CommunityFilePage/_workshopnumber_</steamWorkshopUrl>
+            <packageId>mrkociak.yetanotherprostheticexpansionmodcore</packageId>
+            <displayName>Yet another prosthetic expansion mod - Core</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2808872704</steamWorkshopUrl>
         </li>
     </modDependencies>
 
     <loadAfter>
-        <li>depended.mod.package.id</li>
+        <li>mrkociak.yetanotherprostheticexpansionmodcore</li>
         <!-- <li>additional.mod.package.id</li> -->
     </loadAfter>
 

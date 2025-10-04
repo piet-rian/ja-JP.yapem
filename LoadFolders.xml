@@ -3,7 +3,7 @@
 
   <v1.6>
     <!-- 翻訳対象 -->
-    <li>1.6/depended.mod.package.id</li>
+    <li>1.6/mrkociak.yetanotherprostheticexpansionmodcore</li>
 
     <!-- ファイル構成が被らない派生Modは同時翻訳可能, 基本的にはやらないがやるとなったときのためのメモとして残す -->
     <!--
