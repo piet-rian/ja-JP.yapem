@@ -19,12 +19,17 @@ applyTo: \**\Languages\Japanese (日本語)\**\*.xml
 * 原文の言語は `<!-- zz: xxx -->` というコメントタグ内に記載されている `zz` で判断する
 * 翻訳先(訳文)は日本語(ja-JP)
 * 訳文は原文の直下にあるタグ内の `TODO` の部分に記載する
+* 翻訳は原文と用語集の内容を元に行うこと
+  * タグ名から訳文を作成しないこと
 
 ### 例: 日本語化前
 
 ```xml
 <!-- EN: A simple vest, providing a decent layer of insulation from both heat and cold. -->
 <Apparel_Vest.description>TODO</Apparel_Vest.description>
+
+<!-- EN: prosthetic eye -->
+<SimpleProstheticBIE_Eye.label>TODO</SimpleProstheticBIE_Eye.label>
 ```
 
 ### 例: 日本語化後
@@ -32,6 +37,9 @@ applyTo: \**\Languages\Japanese (日本語)\**\*.xml
 ```xml
 <!-- EN: A simple vest, providing a decent layer of insulation from both heat and cold. -->
 <Apparel_Vest.description>シンプルなベストで、暑さと寒さの両方に対する適度な断熱層を提供します。</Apparel_Vest.description>
+
+<!-- EN: prosthetic eye -->
+<SimpleProstheticBIE_Eye.label>人工眼</SimpleProstheticBIE_Eye.label>
 ```
 
 ## 日本語化に関しての特別な指示
