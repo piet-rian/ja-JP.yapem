@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ultratech arm -->
+  <BIE_UltratechBionicArm.label>TODO</BIE_UltratechBionicArm.label>
+  <!-- EN: An ultratech-level arm replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. Its appearance can be adjusted by the user at will, with an option to perfectly mimic a biological arm if they so desire. -->
+  <BIE_UltratechBionicArm.description>TODO</BIE_UltratechBionicArm.description>
+  
+  <!-- EN: ultratech ear -->
+  <BIE_UltratechBionicEar.label>TODO</BIE_UltratechBionicEar.label>
+  <!-- EN: An ultratech-level ear replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. It features audio filters that enable real-time adjustment of sensitivity to specific sounds and frequencies. -->
+  <BIE_UltratechBionicEar.description>TODO</BIE_UltratechBionicEar.description>
+  
+  <!-- EN: ultratech eye -->
+  <BIE_UltratechBionicEye.label>TODO</BIE_UltratechBionicEye.label>
+  <!-- EN: An ultratech-level eye replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. Its appearance can be changed by the user at will, with no pattern or color limitations, which has sparked bizarre fashion trends and rendered retina scanners nearly obsolete as a security measure. -->
+  <BIE_UltratechBionicEye.description>TODO</BIE_UltratechBionicEye.description>
+  
+  <!-- EN: ultratech heart -->
+  <BIE_UltratechBionicHeart.label>TODO</BIE_UltratechBionicHeart.label>
+  <!-- EN: An ultratech-level heart replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. A regular release of biowelder mechanites and coagulating factors into the bloodstream ensures a quick and safe recovery from injuries. -->
+  <BIE_UltratechBionicHeart.description>TODO</BIE_UltratechBionicHeart.description>
+  
+  <!-- EN: ultratech jaw -->
+  <BIE_UltratechBionicJaw.label>TODO</BIE_UltratechBionicJaw.label>
+  <!-- EN: An ultratech-level jaw replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. It features an advanced voice modulator and an autonomous self-cleaning system, making it especially favored by diplomats and by those with a crippling aversion to dentists. -->
+  <BIE_UltratechBionicJaw.description>TODO</BIE_UltratechBionicJaw.description>
+  
+  <!-- EN: ultratech kidney -->
+  <BIE_UltratechBionicKidney.label>TODO</BIE_UltratechBionicKidney.label>
+  <!-- EN: An ultratech-level kidney replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. Its advanced microfilters and viruskiller mechanites ensure a high resistance to and quick recovery from diseases and intake of toxic substances. -->
+  <BIE_UltratechBionicKidney.description>TODO</BIE_UltratechBionicKidney.description>
+  
+  <!-- EN: ultratech leg -->
+  <BIE_UltratechBionicLeg.label>TODO</BIE_UltratechBionicLeg.label>
+  <!-- EN: An ultratech-level leg replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. Its appearance can be adjusted by the user at will, with an option to perfectly mimic a biological leg if they so desire. -->
+  <BIE_UltratechBionicLeg.description>TODO</BIE_UltratechBionicLeg.description>
+  
+  <!-- EN: ultratech liver -->
+  <BIE_UltratechBionicLiver.label>TODO</BIE_UltratechBionicLiver.label>
+  <!-- EN: An ultratech-level liver replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. Its advanced microfilters and viruskiller mechanites ensure a high resistance to and quick recovery from diseases and intake of toxic substances. -->
+  <BIE_UltratechBionicLiver.description>TODO</BIE_UltratechBionicLiver.description>
+  
+  <!-- EN: ultratech lung -->
+  <BIE_UltratechBionicLung.label>TODO</BIE_UltratechBionicLung.label>
+  <!-- EN: An ultratech-level lung replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. Its compact oxygen storage system keeps the user safe from being deprived of air for prolonged periods of time. -->
+  <BIE_UltratechBionicLung.description>TODO</BIE_UltratechBionicLung.description>
+  
+  <!-- EN: ultratech nose -->
+  <BIE_UltratechBionicNose.label>TODO</BIE_UltratechBionicNose.label>
+  <!-- EN: An ultratech-level nose replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. It features olfactory filters that enable real-time adjustment of sensitivity to specific smells. -->
+  <BIE_UltratechBionicNose.description>TODO</BIE_UltratechBionicNose.description>
+  
+  <!-- EN: ultratech skin -->
+  <BIE_UltratechBionicSkin.label>TODO</BIE_UltratechBionicSkin.label>
+  <!-- EN: A small mechanite-infused patch of artificial skin that quickly spreads to cover the user's body upon installation. It's more durable and pleasant to look at than natural skin. The ability to change its color, texture or even smell at will has made it very popular amongst glitterworld models. -->
+  <BIE_UltratechBionicSkin.description>TODO</BIE_UltratechBionicSkin.description>
+  
+  <!-- EN: ultratech spine -->
+  <BIE_UltratechBionicSpine.label>TODO</BIE_UltratechBionicSpine.label>
+  <!-- EN: An ultratech-level spine replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. Its incredible durability and flexibility greatly increases the user's strength and mobility. -->
+  <BIE_UltratechBionicSpine.description>TODO</BIE_UltratechBionicSpine.description>
+  
+  <!-- EN: ultratech stomach -->
+  <BIE_UltratechStomach.label>TODO</BIE_UltratechStomach.label>
+  <!-- EN: An ultratech-level stomach replacement, built with cutting-edge biocomponents and equipped with self-replicating, multi-purpose mechanites that allow it to outperform most man-made bionics in every way. It allows for extraction of nutrients from substances normally not digestible by humans. -->
+  <BIE_UltratechStomach.description>TODO</BIE_UltratechStomach.description>
+  
+</LanguageData>

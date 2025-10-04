@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: prosthetic eye -->
+  <SimpleProstheticBIE_Eye.label>TODO</SimpleProstheticBIE_Eye.label>
+  <!-- EN: A eye prosthesis. It contains simple light sensors and video recorders. The lower image quality and slight delay quickly become noticeable, but it's better than being blind. -->
+  <SimpleProstheticBIE_Eye.description>TODO</SimpleProstheticBIE_Eye.description>
+  
+  <!-- EN: prosthetic finger -->
+  <SimpleProstheticBIE_Finger.label>TODO</SimpleProstheticBIE_Finger.label>
+  <!-- EN: A finger prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real finger. -->
+  <SimpleProstheticBIE_Finger.description>TODO</SimpleProstheticBIE_Finger.description>
+  
+  <!-- EN: prosthetic foot -->
+  <SimpleProstheticBIE_Foot.label>TODO</SimpleProstheticBIE_Foot.label>
+  <!-- EN: A foot prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real foot. -->
+  <SimpleProstheticBIE_Foot.description>TODO</SimpleProstheticBIE_Foot.description>
+  
+  <!-- EN: prosthetic hand -->
+  <SimpleProstheticBIE_Hand.label>TODO</SimpleProstheticBIE_Hand.label>
+  <!-- EN: A hand prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real hand. -->
+  <SimpleProstheticBIE_Hand.description>TODO</SimpleProstheticBIE_Hand.description>
+  
+  <!-- EN: prosthetic kidney -->
+  <SimpleProstheticBIE_Kidney.label>TODO</SimpleProstheticBIE_Kidney.label>
+  <!-- EN: A kidney prosthesis. It contains simple sensors and a set of filters for the purpose of filtering out any toxins from the body. Users often report struggling with sicknesses, but it's better than the alternative. -->
+  <SimpleProstheticBIE_Kidney.description>TODO</SimpleProstheticBIE_Kidney.description>
+  
+  <!-- EN: prosthetic liver -->
+  <SimpleProstheticBIE_Liver.label>TODO</SimpleProstheticBIE_Liver.label>
+  <!-- EN: A liver prosthesis. It contains simple sensors and chemical synthesizers that help in digestion. Users often report its inefficiency, but it's better than the alternative. -->
+  <SimpleProstheticBIE_Liver.description>TODO</SimpleProstheticBIE_Liver.description>
+  
+  <!-- EN: prosthetic lung -->
+  <SimpleProstheticBIE_Lung.label>TODO</SimpleProstheticBIE_Lung.label>
+  <!-- EN: A lung prosthesis. It contains simple filters and miniature tanks for storing oxygen. Users often report feeling exhausted after simple physical tasks, but it's better than the alternative. -->
+  <SimpleProstheticBIE_Lung.description>TODO</SimpleProstheticBIE_Lung.description>
+  
+  <!-- EN: prosthetic nose -->
+  <SimpleProstheticBIE_Nose.label>TODO</SimpleProstheticBIE_Nose.label>
+  <!-- EN: A modular nose prosthesis. Looks almost like a natural nose, though it quickly becomes noticeable that aesthetics have been prioritized over functionality. -->
+  <SimpleProstheticBIE_Nose.description>TODO</SimpleProstheticBIE_Nose.description>
+  
+  <!-- EN: prosthetic stomach -->
+  <SimpleProstheticBIE_Stomach.label>TODO</SimpleProstheticBIE_Stomach.label>
+  <!-- EN: A stomach prosthesis. It contains simple sensors and chemical synthesizers that help in digestion. Users often report its inefficiency, but it's better than the alternative. -->
+  <SimpleProstheticBIE_Stomach.description>TODO</SimpleProstheticBIE_Stomach.description>
+  
+  <!-- EN: prosthetic toe -->
+  <SimpleProstheticBIE_Toe.label>TODO</SimpleProstheticBIE_Toe.label>
+  <!-- EN: A toe prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real toe. -->
+  <SimpleProstheticBIE_Toe.description>TODO</SimpleProstheticBIE_Toe.description>
+  
+</LanguageData>

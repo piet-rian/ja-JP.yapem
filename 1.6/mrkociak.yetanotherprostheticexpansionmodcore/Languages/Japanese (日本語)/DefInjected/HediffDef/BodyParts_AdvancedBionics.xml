@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced bionic arm -->
+  <BIE_AdvancedBionicArm.label>TODO</BIE_AdvancedBionicArm.label>
+  <!-- EN: An installed advanced bionic arm. -->
+  <BIE_AdvancedBionicArm.description>TODO</BIE_AdvancedBionicArm.description>
+  <!-- EN: fist -->
+  <BIE_AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BIE_AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an advanced bionic arm -->
+  <BIE_AdvancedBionicArm.labelNoun>TODO</BIE_AdvancedBionicArm.labelNoun>
+  
+  <!-- EN: advanced bionic ear -->
+  <BIE_AdvancedBionicEar.label>TODO</BIE_AdvancedBionicEar.label>
+  <!-- EN: An installed advanced bionic ear. -->
+  <BIE_AdvancedBionicEar.description>TODO</BIE_AdvancedBionicEar.description>
+  <!-- EN: an advanced bionic ear -->
+  <BIE_AdvancedBionicEar.labelNoun>TODO</BIE_AdvancedBionicEar.labelNoun>
+  
+  <!-- EN: advanced bionic eye -->
+  <BIE_AdvancedBionicEye.label>TODO</BIE_AdvancedBionicEye.label>
+  <!-- EN: An installed advanced bionic eye. -->
+  <BIE_AdvancedBionicEye.description>TODO</BIE_AdvancedBionicEye.description>
+  <!-- EN: an advanced bionic eye -->
+  <BIE_AdvancedBionicEye.labelNoun>TODO</BIE_AdvancedBionicEye.labelNoun>
+  
+  <!-- EN: advanced bionic finger -->
+  <BIE_AdvancedBionicFinger.label>TODO</BIE_AdvancedBionicFinger.label>
+  <!-- EN: An installed advanced bionic finger. -->
+  <BIE_AdvancedBionicFinger.description>TODO</BIE_AdvancedBionicFinger.description>
+  <!-- EN: an advanced bionic finger -->
+  <BIE_AdvancedBionicFinger.labelNoun>TODO</BIE_AdvancedBionicFinger.labelNoun>
+  
+  <!-- EN: advanced bionic foot -->
+  <BIE_AdvancedBionicFoot.label>TODO</BIE_AdvancedBionicFoot.label>
+  <!-- EN: An installed advanced bionic foot. -->
+  <BIE_AdvancedBionicFoot.description>TODO</BIE_AdvancedBionicFoot.description>
+  <!-- EN: an advanced bionic foot -->
+  <BIE_AdvancedBionicFoot.labelNoun>TODO</BIE_AdvancedBionicFoot.labelNoun>
+  
+  <!-- EN: advanced bionic hand -->
+  <BIE_AdvancedBionicHand.label>TODO</BIE_AdvancedBionicHand.label>
+  <!-- EN: An installed advanced bionic hand. -->
+  <BIE_AdvancedBionicHand.description>TODO</BIE_AdvancedBionicHand.description>
+  <!-- EN: fist -->
+  <BIE_AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BIE_AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an advanced bionic hand -->
+  <BIE_AdvancedBionicHand.labelNoun>TODO</BIE_AdvancedBionicHand.labelNoun>
+  
+  <!-- EN: advanced bionic heart -->
+  <BIE_AdvancedBionicHeart.label>TODO</BIE_AdvancedBionicHeart.label>
+  <!-- EN: An installed advanced bionic heart. -->
+  <BIE_AdvancedBionicHeart.description>TODO</BIE_AdvancedBionicHeart.description>
+  <!-- EN: an advanced bionic heart -->
+  <BIE_AdvancedBionicHeart.labelNoun>TODO</BIE_AdvancedBionicHeart.labelNoun>
+  
+  <!-- EN: advanced bionic jaw -->
+  <BIE_AdvancedBionicJaw.label>TODO</BIE_AdvancedBionicJaw.label>
+  <!-- EN: An installed advanced bionic jaw. -->
+  <BIE_AdvancedBionicJaw.description>TODO</BIE_AdvancedBionicJaw.description>
+  <!-- EN: an advanced bionic jaw -->
+  <BIE_AdvancedBionicJaw.labelNoun>TODO</BIE_AdvancedBionicJaw.labelNoun>
+  
+  <!-- EN: advanced bionic kidney -->
+  <BIE_AdvancedBionicKidney.label>TODO</BIE_AdvancedBionicKidney.label>
+  <!-- EN: An installed advanced bionic kidney. -->
+  <BIE_AdvancedBionicKidney.description>TODO</BIE_AdvancedBionicKidney.description>
+  <!-- EN: an advanced bionic kidney -->
+  <BIE_AdvancedBionicKidney.labelNoun>TODO</BIE_AdvancedBionicKidney.labelNoun>
+  
+  <!-- EN: advanced bionic leg -->
+  <BIE_AdvancedBionicLeg.label>TODO</BIE_AdvancedBionicLeg.label>
+  <!-- EN: An installed advanced bionic leg. -->
+  <BIE_AdvancedBionicLeg.description>TODO</BIE_AdvancedBionicLeg.description>
+  <!-- EN: an advanced bionic leg -->
+  <BIE_AdvancedBionicLeg.labelNoun>TODO</BIE_AdvancedBionicLeg.labelNoun>
+  
+  <!-- EN: advanced bionic liver -->
+  <BIE_AdvancedBionicLiver.label>TODO</BIE_AdvancedBionicLiver.label>
+  <!-- EN: An installed advanced bionic liver. -->
+  <BIE_AdvancedBionicLiver.description>TODO</BIE_AdvancedBionicLiver.description>
+  <!-- EN: an advanced bionic liver -->
+  <BIE_AdvancedBionicLiver.labelNoun>TODO</BIE_AdvancedBionicLiver.labelNoun>
+  
+  <!-- EN: advanced bionic lung -->
+  <BIE_AdvancedBionicLung.label>TODO</BIE_AdvancedBionicLung.label>
+  <!-- EN: An installed advanced bionic lung. -->
+  <BIE_AdvancedBionicLung.description>TODO</BIE_AdvancedBionicLung.description>
+  <!-- EN: an advanced bionic lung -->
+  <BIE_AdvancedBionicLung.labelNoun>TODO</BIE_AdvancedBionicLung.labelNoun>
+  
+  <!-- EN: advanced bionic nose -->
+  <BIE_AdvancedBionicNose.label>TODO</BIE_AdvancedBionicNose.label>
+  <!-- EN: An installed advanced bionic nose. -->
+  <BIE_AdvancedBionicNose.description>TODO</BIE_AdvancedBionicNose.description>
+  <!-- EN: an advanced bionic nose -->
+  <BIE_AdvancedBionicNose.labelNoun>TODO</BIE_AdvancedBionicNose.labelNoun>
+  
+  <!-- EN: advanced bionic spine -->
+  <BIE_AdvancedBionicSpine.label>TODO</BIE_AdvancedBionicSpine.label>
+  <!-- EN: An installed advanced bionic spine. -->
+  <BIE_AdvancedBionicSpine.description>TODO</BIE_AdvancedBionicSpine.description>
+  <!-- EN: an advanced bionic spine -->
+  <BIE_AdvancedBionicSpine.labelNoun>TODO</BIE_AdvancedBionicSpine.labelNoun>
+  
+  <!-- EN: advanced bionic stomach -->
+  <BIE_AdvancedBionicStomach.label>TODO</BIE_AdvancedBionicStomach.label>
+  <!-- EN: An installed advanced bionic stomach. -->
+  <BIE_AdvancedBionicStomach.description>TODO</BIE_AdvancedBionicStomach.description>
+  <!-- EN: a advanced bionic stomach -->
+  <BIE_AdvancedBionicStomach.labelNoun>TODO</BIE_AdvancedBionicStomach.labelNoun>
+  
+  <!-- EN: advanced bionic toe -->
+  <BIE_AdvancedBionicToe.label>TODO</BIE_AdvancedBionicToe.label>
+  <!-- EN: An installed advanced bionic toe. -->
+  <BIE_AdvancedBionicToe.description>TODO</BIE_AdvancedBionicToe.description>
+  <!-- EN: an advanced bionic toe -->
+  <BIE_AdvancedBionicToe.labelNoun>TODO</BIE_AdvancedBionicToe.labelNoun>
+  
+</LanguageData>

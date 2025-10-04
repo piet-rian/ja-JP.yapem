@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic finger -->
+  <BIE_BionicFinger.label>TODO</BIE_BionicFinger.label>
+  <!-- EN: An advanced artificial finger. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological finger in almost every way. -->
+  <BIE_BionicFinger.description>TODO</BIE_BionicFinger.description>
+  
+  <!-- EN: bionic foot -->
+  <BIE_BionicFoot.label>TODO</BIE_BionicFoot.label>
+  <!-- EN: An advanced artificial foot. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological foot in almost every way. -->
+  <BIE_BionicFoot.description>TODO</BIE_BionicFoot.description>
+  
+  <!-- EN: bionic hand -->
+  <BIE_BionicHand.label>TODO</BIE_BionicHand.label>
+  <!-- EN: An advanced artificial hand. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological hand in almost every way. -->
+  <BIE_BionicHand.description>TODO</BIE_BionicHand.description>
+  
+  <!-- EN: bionic kidney -->
+  <BIE_BionicKidney.label>TODO</BIE_BionicKidney.label>
+  <!-- EN: An advanced artificial kidney. It has a variety of synthetic tissues that simulate the work of a real kidney, plus a set of advanced filtering units for better protection against harmful substances. It is better than a biological kidney in almost every way. -->
+  <BIE_BionicKidney.description>TODO</BIE_BionicKidney.description>
+  
+  <!-- EN: bionic liver -->
+  <BIE_BionicLiver.label>TODO</BIE_BionicLiver.label>
+  <!-- EN: An advanced artificial liver. It has a variety of synthetic tissues that simulate the work of a real liver, plus a set of advanced filtering units for better protection against harmful substances. It is better than a biological liver in almost every way. -->
+  <BIE_BionicLiver.description>TODO</BIE_BionicLiver.description>
+  
+  <!-- EN: bionic lung -->
+  <BIE_BionicLung.label>TODO</BIE_BionicLung.label>
+  <!-- EN: An advanced artificial lung. It has a variety of synthetic tissues for a realistic breathing experience. It is better than a biological lung in almost every way. -->
+  <BIE_BionicLung.description>TODO</BIE_BionicLung.description>
+  
+  <!-- EN: bionic nose -->
+  <BIE_BionicNose.label>TODO</BIE_BionicNose.label>
+  <!-- EN: An advanced artificial nose. Advanced sensors give the user a greater sense of smell and an ability to turn it off at will, while extra filters provide a superior breathing experience.  A lattice-dust healing system allows it to recover from damage. It is better than a biological nose in almost every way. -->
+  <BIE_BionicNose.description>TODO</BIE_BionicNose.description>
+  
+  <!-- EN: bionic toe -->
+  <BIE_BionicToe.label>TODO</BIE_BionicToe.label>
+  <!-- EN: An advanced artificial toe. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological toe in almost every way. -->
+  <BIE_BionicToe.description>TODO</BIE_BionicToe.description>
+  
+</LanguageData>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic finger -->
+  <BIE_BionicFinger.label>TODO</BIE_BionicFinger.label>
+  <!-- EN: An installed bionic finger. -->
+  <BIE_BionicFinger.description>TODO</BIE_BionicFinger.description>
+  <!-- EN: a bionic finger -->
+  <BIE_BionicFinger.labelNoun>TODO</BIE_BionicFinger.labelNoun>
+  
+  <!-- EN: bionic foot -->
+  <BIE_BionicFoot.label>TODO</BIE_BionicFoot.label>
+  <!-- EN: An installed bionic foot. -->
+  <BIE_BionicFoot.description>TODO</BIE_BionicFoot.description>
+  <!-- EN: a bionic foot -->
+  <BIE_BionicFoot.labelNoun>TODO</BIE_BionicFoot.labelNoun>
+  
+  <!-- EN: bionic hand -->
+  <BIE_BionicHand.label>TODO</BIE_BionicHand.label>
+  <!-- EN: An installed bionic hand. -->
+  <BIE_BionicHand.description>TODO</BIE_BionicHand.description>
+  <!-- EN: fist -->
+  <BIE_BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BIE_BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic hand -->
+  <BIE_BionicHand.labelNoun>TODO</BIE_BionicHand.labelNoun>
+  
+  <!-- EN: bionic kidney -->
+  <BIE_BionicKidney.label>TODO</BIE_BionicKidney.label>
+  <!-- EN: An installed bionic kidney. -->
+  <BIE_BionicKidney.description>TODO</BIE_BionicKidney.description>
+  <!-- EN: a bionic kidney -->
+  <BIE_BionicKidney.labelNoun>TODO</BIE_BionicKidney.labelNoun>
+  
+  <!-- EN: bionic liver -->
+  <BIE_BionicLiver.label>TODO</BIE_BionicLiver.label>
+  <!-- EN: An installed bionic liver. -->
+  <BIE_BionicLiver.description>TODO</BIE_BionicLiver.description>
+  <!-- EN: a bionic liver -->
+  <BIE_BionicLiver.labelNoun>TODO</BIE_BionicLiver.labelNoun>
+  
+  <!-- EN: bionic lung -->
+  <BIE_BionicLung.label>TODO</BIE_BionicLung.label>
+  <!-- EN: An installed bionic lung. -->
+  <BIE_BionicLung.description>TODO</BIE_BionicLung.description>
+  <!-- EN: a bionic lung -->
+  <BIE_BionicLung.labelNoun>TODO</BIE_BionicLung.labelNoun>
+  
+  <!-- EN: bionic nose -->
+  <BIE_BionicNose.label>TODO</BIE_BionicNose.label>
+  <!-- EN: An installed bionic nose. -->
+  <BIE_BionicNose.description>TODO</BIE_BionicNose.description>
+  <!-- EN: a bionic nose -->
+  <BIE_BionicNose.labelNoun>TODO</BIE_BionicNose.labelNoun>
+  
+  <!-- EN: bionic toe -->
+  <BIE_BionicToe.label>TODO</BIE_BionicToe.label>
+  <!-- EN: An installed bionic toe. -->
+  <BIE_BionicToe.description>TODO</BIE_BionicToe.description>
+  <!-- EN: a bionic toe -->
+  <BIE_BionicToe.labelNoun>TODO</BIE_BionicToe.labelNoun>
+  
+</LanguageData>

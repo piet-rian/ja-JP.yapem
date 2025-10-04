@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install archotech skin -->
+  <InstallSoSArchotechSkin.label>TODO</InstallSoSArchotechSkin.label>
+  <!-- EN: Install archotech skin. -->
+  <InstallSoSArchotechSkin.description>TODO</InstallSoSArchotechSkin.description>
+  <!-- EN: Installing archotech skin. -->
+  <InstallSoSArchotechSkin.jobString>TODO</InstallSoSArchotechSkin.jobString>
+  
+  <!-- EN: remove archotech skin -->
+  <RemoveSoSArchotechSkin.label>TODO</RemoveSoSArchotechSkin.label>
+  <!-- EN: Remove archotech skin. -->
+  <RemoveSoSArchotechSkin.description>TODO</RemoveSoSArchotechSkin.description>
+  <!-- EN: Removing archotech skin. -->
+  <RemoveSoSArchotechSkin.jobString>TODO</RemoveSoSArchotechSkin.jobString>
+  
+  <!-- EN: install archotech ear -->
+  <SoSInstallArchotechEar.label>TODO</SoSInstallArchotechEar.label>
+  <!-- EN: Install an archotech ear. -->
+  <SoSInstallArchotechEar.description>TODO</SoSInstallArchotechEar.description>
+  <!-- EN: Installing archotech ear. -->
+  <SoSInstallArchotechEar.jobString>TODO</SoSInstallArchotechEar.jobString>
+  
+  <!-- EN: install archotech heart -->
+  <SoSInstallArchotechHeart.label>TODO</SoSInstallArchotechHeart.label>
+  <!-- EN: Install an archotech heart. -->
+  <SoSInstallArchotechHeart.description>TODO</SoSInstallArchotechHeart.description>
+  <!-- EN: Installing archotech heart. -->
+  <SoSInstallArchotechHeart.jobString>TODO</SoSInstallArchotechHeart.jobString>
+  
+  <!-- EN: install archotech jaw -->
+  <SoSInstallArchotechJaw.label>TODO</SoSInstallArchotechJaw.label>
+  <!-- EN: Install an archotech jaw. -->
+  <SoSInstallArchotechJaw.description>TODO</SoSInstallArchotechJaw.description>
+  <!-- EN: Installing archotech jaw. -->
+  <SoSInstallArchotechJaw.jobString>TODO</SoSInstallArchotechJaw.jobString>
+  
+  <!-- EN: install archotech kidney -->
+  <SoSInstallArchotechKidney.label>TODO</SoSInstallArchotechKidney.label>
+  <!-- EN: Install an archotech kidney. -->
+  <SoSInstallArchotechKidney.description>TODO</SoSInstallArchotechKidney.description>
+  <!-- EN: Installing archotech kidney. -->
+  <SoSInstallArchotechKidney.jobString>TODO</SoSInstallArchotechKidney.jobString>
+  
+  <!-- EN: install archotech liver -->
+  <SoSInstallArchotechLiver.label>TODO</SoSInstallArchotechLiver.label>
+  <!-- EN: Install an archotech liver. -->
+  <SoSInstallArchotechLiver.description>TODO</SoSInstallArchotechLiver.description>
+  <!-- EN: Installing archotech liver. -->
+  <SoSInstallArchotechLiver.jobString>TODO</SoSInstallArchotechLiver.jobString>
+  
+  <!-- EN: install archotech lung -->
+  <SoSInstallArchotechLung.label>TODO</SoSInstallArchotechLung.label>
+  <!-- EN: Install an archotech lung. -->
+  <SoSInstallArchotechLung.description>TODO</SoSInstallArchotechLung.description>
+  <!-- EN: Installing archotech lung. -->
+  <SoSInstallArchotechLung.jobString>TODO</SoSInstallArchotechLung.jobString>
+  
+  <!-- EN: install archotech nose -->
+  <SoSInstallArchotechNose.label>TODO</SoSInstallArchotechNose.label>
+  <!-- EN: Install an archotech nose. -->
+  <SoSInstallArchotechNose.description>TODO</SoSInstallArchotechNose.description>
+  <!-- EN: Installing archotech nose. -->
+  <SoSInstallArchotechNose.jobString>TODO</SoSInstallArchotechNose.jobString>
+  
+  <!-- EN: install archotech spine -->
+  <SoSInstallArchotechSpine.label>TODO</SoSInstallArchotechSpine.label>
+  <!-- EN: Install an archotech spine. -->
+  <SoSInstallArchotechSpine.description>TODO</SoSInstallArchotechSpine.description>
+  <!-- EN: Installing archotech spine. -->
+  <SoSInstallArchotechSpine.jobString>TODO</SoSInstallArchotechSpine.jobString>
+  
+  <!-- EN: install archotech stomach -->
+  <SoSInstallArchotechStomach.label>TODO</SoSInstallArchotechStomach.label>
+  <!-- EN: Install an archotech stomach. -->
+  <SoSInstallArchotechStomach.description>TODO</SoSInstallArchotechStomach.description>
+  <!-- EN: Installing archotech stomach. -->
+  <SoSInstallArchotechStomach.jobString>TODO</SoSInstallArchotechStomach.jobString>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: salvage advanced bionics -->
+  <BIE_SalvageAdvancedBionics.label>TODO</BIE_SalvageAdvancedBionics.label>
+  <!-- EN: Salvage advanced bionic body parts for resources. -->
+  <BIE_SalvageAdvancedBionics.description>TODO</BIE_SalvageAdvancedBionics.description>
+  <!-- EN: Salvaging advanced bionic body part. -->
+  <BIE_SalvageAdvancedBionics.jobString>TODO</BIE_SalvageAdvancedBionics.jobString>
+  
+  <!-- EN: salvage bionics -->
+  <BIE_SalvageBionics.label>TODO</BIE_SalvageBionics.label>
+  <!-- EN: Salvage bionic body parts for resources. -->
+  <BIE_SalvageBionics.description>TODO</BIE_SalvageBionics.description>
+  <!-- EN: Salvaging bionic body part. -->
+  <BIE_SalvageBionics.jobString>TODO</BIE_SalvageBionics.jobString>
+  
+  <!-- EN: salvage prostheses -->
+  <BIE_SalvageProstheses.label>TODO</BIE_SalvageProstheses.label>
+  <!-- EN: Salvage prosthetic body parts for resources. -->
+  <BIE_SalvageProstheses.description>TODO</BIE_SalvageProstheses.description>
+  <!-- EN: Salvaging prosthetic body part. -->
+  <BIE_SalvageProstheses.jobString>TODO</BIE_SalvageProstheses.jobString>
+  
+</LanguageData>

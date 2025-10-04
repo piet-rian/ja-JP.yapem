@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install ultratech ear -->
+  <BIE_InstallUltratechBionicEar.label>TODO</BIE_InstallUltratechBionicEar.label>
+  <!-- EN: Install an ultratech ear. -->
+  <BIE_InstallUltratechBionicEar.description>TODO</BIE_InstallUltratechBionicEar.description>
+  <!-- EN: Installing ultratech ear. -->
+  <BIE_InstallUltratechBionicEar.jobString>TODO</BIE_InstallUltratechBionicEar.jobString>
+  
+  <!-- EN: install ultratech heart -->
+  <BIE_InstallUltratechBionicHeart.label>TODO</BIE_InstallUltratechBionicHeart.label>
+  <!-- EN: Install an advanced bioni cheart. -->
+  <BIE_InstallUltratechBionicHeart.description>TODO</BIE_InstallUltratechBionicHeart.description>
+  <!-- EN: Installing ultratech heart. -->
+  <BIE_InstallUltratechBionicHeart.jobString>TODO</BIE_InstallUltratechBionicHeart.jobString>
+  
+  <!-- EN: install ultratech jaw -->
+  <BIE_InstallUltratechBionicJaw.label>TODO</BIE_InstallUltratechBionicJaw.label>
+  <!-- EN: Install an ultratech jaw. -->
+  <BIE_InstallUltratechBionicJaw.description>TODO</BIE_InstallUltratechBionicJaw.description>
+  <!-- EN: Installing ultratech jaw. -->
+  <BIE_InstallUltratechBionicJaw.jobString>TODO</BIE_InstallUltratechBionicJaw.jobString>
+  
+  <!-- EN: install ultratech kidney -->
+  <BIE_InstallUltratechBionicKidney.label>TODO</BIE_InstallUltratechBionicKidney.label>
+  <!-- EN: Install an ultratech kidney. -->
+  <BIE_InstallUltratechBionicKidney.description>TODO</BIE_InstallUltratechBionicKidney.description>
+  <!-- EN: Installing ultratech kidney. -->
+  <BIE_InstallUltratechBionicKidney.jobString>TODO</BIE_InstallUltratechBionicKidney.jobString>
+  
+  <!-- EN: install ultratech liver -->
+  <BIE_InstallUltratechBionicLiver.label>TODO</BIE_InstallUltratechBionicLiver.label>
+  <!-- EN: Install an ultratech liver. -->
+  <BIE_InstallUltratechBionicLiver.description>TODO</BIE_InstallUltratechBionicLiver.description>
+  <!-- EN: Installing ultratech liver. -->
+  <BIE_InstallUltratechBionicLiver.jobString>TODO</BIE_InstallUltratechBionicLiver.jobString>
+  
+  <!-- EN: install ultratech lung -->
+  <BIE_InstallUltratechBionicLung.label>TODO</BIE_InstallUltratechBionicLung.label>
+  <!-- EN: Install an ultratech lung. -->
+  <BIE_InstallUltratechBionicLung.description>TODO</BIE_InstallUltratechBionicLung.description>
+  <!-- EN: Installing ultratech lung. -->
+  <BIE_InstallUltratechBionicLung.jobString>TODO</BIE_InstallUltratechBionicLung.jobString>
+  
+  <!-- EN: install ultratech nose -->
+  <BIE_InstallUltratechBionicNose.label>TODO</BIE_InstallUltratechBionicNose.label>
+  <!-- EN: Install an ultratech nose. -->
+  <BIE_InstallUltratechBionicNose.description>TODO</BIE_InstallUltratechBionicNose.description>
+  <!-- EN: Installing ultratech nose. -->
+  <BIE_InstallUltratechBionicNose.jobString>TODO</BIE_InstallUltratechBionicNose.jobString>
+  
+  <!-- EN: install ultratech stomach -->
+  <BIE_InstallUltratechStomach.label>TODO</BIE_InstallUltratechStomach.label>
+  <!-- EN: Install a ultratech stomach. -->
+  <BIE_InstallUltratechStomach.description>TODO</BIE_InstallUltratechStomach.description>
+  <!-- EN: Installing ultratech stomach. -->
+  <BIE_InstallUltratechStomach.jobString>TODO</BIE_InstallUltratechStomach.jobString>
+  
+  <!-- EN: install ultratech arm -->
+  <InstallBIE_UltratechBionicArm.label>TODO</InstallBIE_UltratechBionicArm.label>
+  <!-- EN: Install an ultratech arm. -->
+  <InstallBIE_UltratechBionicArm.description>TODO</InstallBIE_UltratechBionicArm.description>
+  <!-- EN: Installing ultratech arm. -->
+  <InstallBIE_UltratechBionicArm.jobString>TODO</InstallBIE_UltratechBionicArm.jobString>
+  
+  <!-- EN: install ultratech eye -->
+  <InstallBIE_UltratechBionicEye.label>TODO</InstallBIE_UltratechBionicEye.label>
+  <!-- EN: Install an ultratech eye. -->
+  <InstallBIE_UltratechBionicEye.description>TODO</InstallBIE_UltratechBionicEye.description>
+  <!-- EN: Installing ultratech eye. -->
+  <InstallBIE_UltratechBionicEye.jobString>TODO</InstallBIE_UltratechBionicEye.jobString>
+  
+  <!-- EN: install ultratech leg -->
+  <InstallBIE_UltratechBionicLeg.label>TODO</InstallBIE_UltratechBionicLeg.label>
+  <!-- EN: Install an ultratech leg. -->
+  <InstallBIE_UltratechBionicLeg.description>TODO</InstallBIE_UltratechBionicLeg.description>
+  <!-- EN: Installing ultratech leg. -->
+  <InstallBIE_UltratechBionicLeg.jobString>TODO</InstallBIE_UltratechBionicLeg.jobString>
+  
+  <!-- EN: install ultratech skin -->
+  <InstallBIE_UltratechBionicSkin.label>TODO</InstallBIE_UltratechBionicSkin.label>
+  <!-- EN: Install ultratech skin. -->
+  <InstallBIE_UltratechBionicSkin.description>TODO</InstallBIE_UltratechBionicSkin.description>
+  <!-- EN: Installing ultratech skin. -->
+  <InstallBIE_UltratechBionicSkin.jobString>TODO</InstallBIE_UltratechBionicSkin.jobString>
+  
+  <!-- EN: install ultratech spine -->
+  <InstallBIE_UltratechBionicSpine.label>TODO</InstallBIE_UltratechBionicSpine.label>
+  <!-- EN: Install an ultratech spine. -->
+  <InstallBIE_UltratechBionicSpine.description>TODO</InstallBIE_UltratechBionicSpine.description>
+  <!-- EN: Installing ultratech spine. -->
+  <InstallBIE_UltratechBionicSpine.jobString>TODO</InstallBIE_UltratechBionicSpine.jobString>
+  
+  <!-- EN: remove ultratech skin -->
+  <RemoveBIE_UltratechBionicSkin.label>TODO</RemoveBIE_UltratechBionicSkin.label>
+  <!-- EN: Remove ultratech skin. -->
+  <RemoveBIE_UltratechBionicSkin.description>TODO</RemoveBIE_UltratechBionicSkin.description>
+  <!-- EN: Removing ultratech skin. -->
+  <RemoveBIE_UltratechBionicSkin.jobString>TODO</RemoveBIE_UltratechBionicSkin.jobString>
+  
+</LanguageData>

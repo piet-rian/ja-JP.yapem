@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install advanced bionic ear -->
+  <BIE_InstallAdvancedBionicEar.label>TODO</BIE_InstallAdvancedBionicEar.label>
+  <!-- EN: Install an advanced bionic ear. -->
+  <BIE_InstallAdvancedBionicEar.description>TODO</BIE_InstallAdvancedBionicEar.description>
+  <!-- EN: Installing advanced bionic ear. -->
+  <BIE_InstallAdvancedBionicEar.jobString>TODO</BIE_InstallAdvancedBionicEar.jobString>
+  
+  <!-- EN: install advanced bionic finger -->
+  <BIE_InstallAdvancedBionicFinger.label>TODO</BIE_InstallAdvancedBionicFinger.label>
+  <!-- EN: Install an advanced bionic finger. -->
+  <BIE_InstallAdvancedBionicFinger.description>TODO</BIE_InstallAdvancedBionicFinger.description>
+  <!-- EN: Installing advanced bionic finger. -->
+  <BIE_InstallAdvancedBionicFinger.jobString>TODO</BIE_InstallAdvancedBionicFinger.jobString>
+  
+  <!-- EN: install advanced bionic foot -->
+  <BIE_InstallAdvancedBionicFoot.label>TODO</BIE_InstallAdvancedBionicFoot.label>
+  <!-- EN: Install an advanced bionic foot. -->
+  <BIE_InstallAdvancedBionicFoot.description>TODO</BIE_InstallAdvancedBionicFoot.description>
+  <!-- EN: Installing advanced bionic foot. -->
+  <BIE_InstallAdvancedBionicFoot.jobString>TODO</BIE_InstallAdvancedBionicFoot.jobString>
+  
+  <!-- EN: install advanced bionic hand -->
+  <BIE_InstallAdvancedBionicHand.label>TODO</BIE_InstallAdvancedBionicHand.label>
+  <!-- EN: Install an advanced bionic hand. -->
+  <BIE_InstallAdvancedBionicHand.description>TODO</BIE_InstallAdvancedBionicHand.description>
+  <!-- EN: Installing advanced bionic hand. -->
+  <BIE_InstallAdvancedBionicHand.jobString>TODO</BIE_InstallAdvancedBionicHand.jobString>
+  
+  <!-- EN: install advanced bionic heart -->
+  <BIE_InstallAdvancedBionicHeart.label>TODO</BIE_InstallAdvancedBionicHeart.label>
+  <!-- EN: Install an advanced bionic heart. -->
+  <BIE_InstallAdvancedBionicHeart.description>TODO</BIE_InstallAdvancedBionicHeart.description>
+  <!-- EN: Installing advanced bionic heart. -->
+  <BIE_InstallAdvancedBionicHeart.jobString>TODO</BIE_InstallAdvancedBionicHeart.jobString>
+  
+  <!-- EN: install advanced bionic jaw -->
+  <BIE_InstallAdvancedBionicJaw.label>TODO</BIE_InstallAdvancedBionicJaw.label>
+  <!-- EN: Install an advanced bionic jaw. -->
+  <BIE_InstallAdvancedBionicJaw.description>TODO</BIE_InstallAdvancedBionicJaw.description>
+  <!-- EN: Installing advanced bionic jaw. -->
+  <BIE_InstallAdvancedBionicJaw.jobString>TODO</BIE_InstallAdvancedBionicJaw.jobString>
+  
+  <!-- EN: install advanced bionic kidney -->
+  <BIE_InstallAdvancedBionicKidney.label>TODO</BIE_InstallAdvancedBionicKidney.label>
+  <!-- EN: Install an advanced bionic kidney. -->
+  <BIE_InstallAdvancedBionicKidney.description>TODO</BIE_InstallAdvancedBionicKidney.description>
+  <!-- EN: Installing advanced bionic kidney. -->
+  <BIE_InstallAdvancedBionicKidney.jobString>TODO</BIE_InstallAdvancedBionicKidney.jobString>
+  
+  <!-- EN: install advanced bionic liver -->
+  <BIE_InstallAdvancedBionicLiver.label>TODO</BIE_InstallAdvancedBionicLiver.label>
+  <!-- EN: Install an advanced bionic liver. -->
+  <BIE_InstallAdvancedBionicLiver.description>TODO</BIE_InstallAdvancedBionicLiver.description>
+  <!-- EN: Installing advanced bionic liver. -->
+  <BIE_InstallAdvancedBionicLiver.jobString>TODO</BIE_InstallAdvancedBionicLiver.jobString>
+  
+  <!-- EN: install advanced bionic lung -->
+  <BIE_InstallAdvancedBionicLung.label>TODO</BIE_InstallAdvancedBionicLung.label>
+  <!-- EN: Install an advanced bionic lung. -->
+  <BIE_InstallAdvancedBionicLung.description>TODO</BIE_InstallAdvancedBionicLung.description>
+  <!-- EN: Installing advanced bionic lung. -->
+  <BIE_InstallAdvancedBionicLung.jobString>TODO</BIE_InstallAdvancedBionicLung.jobString>
+  
+  <!-- EN: install advanced bionic nose -->
+  <BIE_InstallAdvancedBionicNose.label>TODO</BIE_InstallAdvancedBionicNose.label>
+  <!-- EN: Install an advanced bionic nose. -->
+  <BIE_InstallAdvancedBionicNose.description>TODO</BIE_InstallAdvancedBionicNose.description>
+  <!-- EN: Installing advanced bionic nose. -->
+  <BIE_InstallAdvancedBionicNose.jobString>TODO</BIE_InstallAdvancedBionicNose.jobString>
+  
+  <!-- EN: install advanced bionic stomach -->
+  <BIE_InstallAdvancedBionicStomach.label>TODO</BIE_InstallAdvancedBionicStomach.label>
+  <!-- EN: Install a advanced bionic stomach. -->
+  <BIE_InstallAdvancedBionicStomach.description>TODO</BIE_InstallAdvancedBionicStomach.description>
+  <!-- EN: Installing advanced bionic stomach. -->
+  <BIE_InstallAdvancedBionicStomach.jobString>TODO</BIE_InstallAdvancedBionicStomach.jobString>
+  
+  <!-- EN: install advanced bionic toe -->
+  <BIE_InstallAdvancedBionicToe.label>TODO</BIE_InstallAdvancedBionicToe.label>
+  <!-- EN: Install an advanced bionic toe. -->
+  <BIE_InstallAdvancedBionicToe.description>TODO</BIE_InstallAdvancedBionicToe.description>
+  <!-- EN: Installing advanced bionic toe. -->
+  <BIE_InstallAdvancedBionicToe.jobString>TODO</BIE_InstallAdvancedBionicToe.jobString>
+  
+  <!-- EN: make advanced bionic arm -->
+  <BIE_MakeAdvancedBionicArm.label>TODO</BIE_MakeAdvancedBionicArm.label>
+  <!-- EN: Make an advanced bionic arm. -->
+  <BIE_MakeAdvancedBionicArm.description>TODO</BIE_MakeAdvancedBionicArm.description>
+  <!-- EN: Making advanced bionic arm. -->
+  <BIE_MakeAdvancedBionicArm.jobString>TODO</BIE_MakeAdvancedBionicArm.jobString>
+  
+  <!-- EN: make advanced bionic ear -->
+  <BIE_MakeAdvancedBionicEar.label>TODO</BIE_MakeAdvancedBionicEar.label>
+  <!-- EN: Make an advanced bionic ear. -->
+  <BIE_MakeAdvancedBionicEar.description>TODO</BIE_MakeAdvancedBionicEar.description>
+  <!-- EN: Making advanced bionic ear. -->
+  <BIE_MakeAdvancedBionicEar.jobString>TODO</BIE_MakeAdvancedBionicEar.jobString>
+  
+  <!-- EN: make advanced bionic eye -->
+  <BIE_MakeAdvancedBionicEye.label>TODO</BIE_MakeAdvancedBionicEye.label>
+  <!-- EN: Make an advanced bionic eye. -->
+  <BIE_MakeAdvancedBionicEye.description>TODO</BIE_MakeAdvancedBionicEye.description>
+  <!-- EN: Making advanced bionic eye. -->
+  <BIE_MakeAdvancedBionicEye.jobString>TODO</BIE_MakeAdvancedBionicEye.jobString>
+  
+  <!-- EN: make advanced bionic finger -->
+  <BIE_MakeAdvancedBionicFinger.label>TODO</BIE_MakeAdvancedBionicFinger.label>
+  <!-- EN: Make an advanced bionic finger. -->
+  <BIE_MakeAdvancedBionicFinger.description>TODO</BIE_MakeAdvancedBionicFinger.description>
+  <!-- EN: Making advanced bionic finger. -->
+  <BIE_MakeAdvancedBionicFinger.jobString>TODO</BIE_MakeAdvancedBionicFinger.jobString>
+  
+  <!-- EN: make advanced bionic foot -->
+  <BIE_MakeAdvancedBionicFoot.label>TODO</BIE_MakeAdvancedBionicFoot.label>
+  <!-- EN: Make an advanced bionic foot. -->
+  <BIE_MakeAdvancedBionicFoot.description>TODO</BIE_MakeAdvancedBionicFoot.description>
+  <!-- EN: Making advanced bionic foot. -->
+  <BIE_MakeAdvancedBionicFoot.jobString>TODO</BIE_MakeAdvancedBionicFoot.jobString>
+  
+  <!-- EN: make advanced bionic hand -->
+  <BIE_MakeAdvancedBionicHand.label>TODO</BIE_MakeAdvancedBionicHand.label>
+  <!-- EN: Make an advanced bionic hand. -->
+  <BIE_MakeAdvancedBionicHand.description>TODO</BIE_MakeAdvancedBionicHand.description>
+  <!-- EN: Making advanced bionic hand. -->
+  <BIE_MakeAdvancedBionicHand.jobString>TODO</BIE_MakeAdvancedBionicHand.jobString>
+  
+  <!-- EN: make advanced bionic heart -->
+  <BIE_MakeAdvancedBionicHeart.label>TODO</BIE_MakeAdvancedBionicHeart.label>
+  <!-- EN: Make an advanced bionic heart. -->
+  <BIE_MakeAdvancedBionicHeart.description>TODO</BIE_MakeAdvancedBionicHeart.description>
+  <!-- EN: Making advanced bionic heart. -->
+  <BIE_MakeAdvancedBionicHeart.jobString>TODO</BIE_MakeAdvancedBionicHeart.jobString>
+  
+  <!-- EN: make advanced bionic jaw -->
+  <BIE_MakeAdvancedBionicJaw.label>TODO</BIE_MakeAdvancedBionicJaw.label>
+  <!-- EN: Make an advanced bionic jaw. -->
+  <BIE_MakeAdvancedBionicJaw.description>TODO</BIE_MakeAdvancedBionicJaw.description>
+  <!-- EN: Making advanced bionic jaw. -->
+  <BIE_MakeAdvancedBionicJaw.jobString>TODO</BIE_MakeAdvancedBionicJaw.jobString>
+  
+  <!-- EN: make advanced bionic kidney -->
+  <BIE_MakeAdvancedBionicKidney.label>TODO</BIE_MakeAdvancedBionicKidney.label>
+  <!-- EN: Make an advanced bionic kidney. -->
+  <BIE_MakeAdvancedBionicKidney.description>TODO</BIE_MakeAdvancedBionicKidney.description>
+  <!-- EN: Making advanced bionic kidney. -->
+  <BIE_MakeAdvancedBionicKidney.jobString>TODO</BIE_MakeAdvancedBionicKidney.jobString>
+  
+  <!-- EN: make advanced bionic leg -->
+  <BIE_MakeAdvancedBionicLeg.label>TODO</BIE_MakeAdvancedBionicLeg.label>
+  <!-- EN: Make an advanced bionic leg. -->
+  <BIE_MakeAdvancedBionicLeg.description>TODO</BIE_MakeAdvancedBionicLeg.description>
+  <!-- EN: Making advanced bionic leg. -->
+  <BIE_MakeAdvancedBionicLeg.jobString>TODO</BIE_MakeAdvancedBionicLeg.jobString>
+  
+  <!-- EN: make advanced bionic liver -->
+  <BIE_MakeAdvancedBionicLiver.label>TODO</BIE_MakeAdvancedBionicLiver.label>
+  <!-- EN: Make an advanced bionic liver. -->
+  <BIE_MakeAdvancedBionicLiver.description>TODO</BIE_MakeAdvancedBionicLiver.description>
+  <!-- EN: Making advanced bionic liver. -->
+  <BIE_MakeAdvancedBionicLiver.jobString>TODO</BIE_MakeAdvancedBionicLiver.jobString>
+  
+  <!-- EN: make advanced bionic lung -->
+  <BIE_MakeAdvancedBionicLung.label>TODO</BIE_MakeAdvancedBionicLung.label>
+  <!-- EN: Make an advanced bionic lung. -->
+  <BIE_MakeAdvancedBionicLung.description>TODO</BIE_MakeAdvancedBionicLung.description>
+  <!-- EN: Making advanced bionic lung. -->
+  <BIE_MakeAdvancedBionicLung.jobString>TODO</BIE_MakeAdvancedBionicLung.jobString>
+  
+  <!-- EN: make advanced bionic nose -->
+  <BIE_MakeAdvancedBionicNose.label>TODO</BIE_MakeAdvancedBionicNose.label>
+  <!-- EN: Make an advanced bionic nose. -->
+  <BIE_MakeAdvancedBionicNose.description>TODO</BIE_MakeAdvancedBionicNose.description>
+  <!-- EN: Making advanced bionic nose. -->
+  <BIE_MakeAdvancedBionicNose.jobString>TODO</BIE_MakeAdvancedBionicNose.jobString>
+  
+  <!-- EN: make advanced bionic spine -->
+  <BIE_MakeAdvancedBionicSpine.label>TODO</BIE_MakeAdvancedBionicSpine.label>
+  <!-- EN: Make an advanced bionic spine. -->
+  <BIE_MakeAdvancedBionicSpine.description>TODO</BIE_MakeAdvancedBionicSpine.description>
+  <!-- EN: Making advanced bionic spine. -->
+  <BIE_MakeAdvancedBionicSpine.jobString>TODO</BIE_MakeAdvancedBionicSpine.jobString>
+  
+  <!-- EN: make advanced bionic stomach -->
+  <BIE_MakeAdvancedBionicStomach.label>TODO</BIE_MakeAdvancedBionicStomach.label>
+  <!-- EN: Make an advanced bionic stomach. -->
+  <BIE_MakeAdvancedBionicStomach.description>TODO</BIE_MakeAdvancedBionicStomach.description>
+  <!-- EN: Making advanced bionic stomach. -->
+  <BIE_MakeAdvancedBionicStomach.jobString>TODO</BIE_MakeAdvancedBionicStomach.jobString>
+  
+  <!-- EN: make advanced bionic toe -->
+  <BIE_MakeAdvancedBionicToe.label>TODO</BIE_MakeAdvancedBionicToe.label>
+  <!-- EN: Make an advanced bionic toe. -->
+  <BIE_MakeAdvancedBionicToe.description>TODO</BIE_MakeAdvancedBionicToe.description>
+  <!-- EN: Making advanced bionic toe. -->
+  <BIE_MakeAdvancedBionicToe.jobString>TODO</BIE_MakeAdvancedBionicToe.jobString>
+  
+  <!-- EN: install advanced bionic arm -->
+  <InstallBIE_AdvancedBionicArm.label>TODO</InstallBIE_AdvancedBionicArm.label>
+  <!-- EN: Install an advanced bionic arm. -->
+  <InstallBIE_AdvancedBionicArm.description>TODO</InstallBIE_AdvancedBionicArm.description>
+  <!-- EN: Installing advanced bionic arm. -->
+  <InstallBIE_AdvancedBionicArm.jobString>TODO</InstallBIE_AdvancedBionicArm.jobString>
+  
+  <!-- EN: install advanced bionic eye -->
+  <InstallBIE_AdvancedBionicEye.label>TODO</InstallBIE_AdvancedBionicEye.label>
+  <!-- EN: Install an advanced bionic eye. -->
+  <InstallBIE_AdvancedBionicEye.description>TODO</InstallBIE_AdvancedBionicEye.description>
+  <!-- EN: Installing advanced bionic eye. -->
+  <InstallBIE_AdvancedBionicEye.jobString>TODO</InstallBIE_AdvancedBionicEye.jobString>
+  
+  <!-- EN: install advanced bionic leg -->
+  <InstallBIE_AdvancedBionicLeg.label>TODO</InstallBIE_AdvancedBionicLeg.label>
+  <!-- EN: Install an advanced bionic leg. -->
+  <InstallBIE_AdvancedBionicLeg.description>TODO</InstallBIE_AdvancedBionicLeg.description>
+  <!-- EN: Installing advanced bionic leg. -->
+  <InstallBIE_AdvancedBionicLeg.jobString>TODO</InstallBIE_AdvancedBionicLeg.jobString>
+  
+  <!-- EN: install advanced bionic spine -->
+  <InstallBIE_AdvancedBionicSpine.label>TODO</InstallBIE_AdvancedBionicSpine.label>
+  <!-- EN: Install an advanced bionic spine. -->
+  <InstallBIE_AdvancedBionicSpine.description>TODO</InstallBIE_AdvancedBionicSpine.description>
+  <!-- EN: Installing advanced bionic spine. -->
+  <InstallBIE_AdvancedBionicSpine.jobString>TODO</InstallBIE_AdvancedBionicSpine.jobString>
+  
+</LanguageData>

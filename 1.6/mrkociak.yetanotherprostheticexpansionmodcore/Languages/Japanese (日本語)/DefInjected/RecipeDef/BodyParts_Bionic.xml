@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install bionic finger -->
+  <BIE_InstallBionicFinger.label>TODO</BIE_InstallBionicFinger.label>
+  <!-- EN: Install a bionic finger. -->
+  <BIE_InstallBionicFinger.description>TODO</BIE_InstallBionicFinger.description>
+  <!-- EN: Installing bionic finger. -->
+  <BIE_InstallBionicFinger.jobString>TODO</BIE_InstallBionicFinger.jobString>
+  
+  <!-- EN: install bionic foot -->
+  <BIE_InstallBionicFoot.label>TODO</BIE_InstallBionicFoot.label>
+  <!-- EN: Install a bionic foot. -->
+  <BIE_InstallBionicFoot.description>TODO</BIE_InstallBionicFoot.description>
+  <!-- EN: Installing bionic foot. -->
+  <BIE_InstallBionicFoot.jobString>TODO</BIE_InstallBionicFoot.jobString>
+  
+  <!-- EN: install bionic hand -->
+  <BIE_InstallBionicHand.label>TODO</BIE_InstallBionicHand.label>
+  <!-- EN: Install a bionic hand. -->
+  <BIE_InstallBionicHand.description>TODO</BIE_InstallBionicHand.description>
+  <!-- EN: Installing bionic hand. -->
+  <BIE_InstallBionicHand.jobString>TODO</BIE_InstallBionicHand.jobString>
+  
+  <!-- EN: install bionic kidney -->
+  <BIE_InstallBionicKidney.label>TODO</BIE_InstallBionicKidney.label>
+  <!-- EN: Install a bionic kidney. -->
+  <BIE_InstallBionicKidney.description>TODO</BIE_InstallBionicKidney.description>
+  <!-- EN: Installing bionic kidney. -->
+  <BIE_InstallBionicKidney.jobString>TODO</BIE_InstallBionicKidney.jobString>
+  
+  <!-- EN: install bionic liver -->
+  <BIE_InstallBionicLiver.label>TODO</BIE_InstallBionicLiver.label>
+  <!-- EN: Install a bionic liver. -->
+  <BIE_InstallBionicLiver.description>TODO</BIE_InstallBionicLiver.description>
+  <!-- EN: Installing bionic liver. -->
+  <BIE_InstallBionicLiver.jobString>TODO</BIE_InstallBionicLiver.jobString>
+  
+  <!-- EN: install bionic lung -->
+  <BIE_InstallBionicLung.label>TODO</BIE_InstallBionicLung.label>
+  <!-- EN: Install a bionic lung. -->
+  <BIE_InstallBionicLung.description>TODO</BIE_InstallBionicLung.description>
+  <!-- EN: Installing bionic lung. -->
+  <BIE_InstallBionicLung.jobString>TODO</BIE_InstallBionicLung.jobString>
+  
+  <!-- EN: install bionic nose -->
+  <BIE_InstallBionicNose.label>TODO</BIE_InstallBionicNose.label>
+  <!-- EN: Install a bionic nose. -->
+  <BIE_InstallBionicNose.description>TODO</BIE_InstallBionicNose.description>
+  <!-- EN: Installing bionic nose. -->
+  <BIE_InstallBionicNose.jobString>TODO</BIE_InstallBionicNose.jobString>
+  
+  <!-- EN: install bionic toe -->
+  <BIE_InstallBionicToe.label>TODO</BIE_InstallBionicToe.label>
+  <!-- EN: Install a bionic toe. -->
+  <BIE_InstallBionicToe.description>TODO</BIE_InstallBionicToe.description>
+  <!-- EN: Installing bionic toe. -->
+  <BIE_InstallBionicToe.jobString>TODO</BIE_InstallBionicToe.jobString>
+  
+</LanguageData>

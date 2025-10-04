@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech ear -->
+  <SoSArchotechEar.label>TODO</SoSArchotechEar.label>
+  <!-- EN: An installed archotech ear. -->
+  <SoSArchotechEar.description>TODO</SoSArchotechEar.description>
+  <!-- EN: an archotech ear -->
+  <SoSArchotechEar.labelNoun>TODO</SoSArchotechEar.labelNoun>
+  
+  <!-- EN: archotech heart -->
+  <SoSArchotechHeart.label>TODO</SoSArchotechHeart.label>
+  <!-- EN: An installed archotech heart. -->
+  <SoSArchotechHeart.description>TODO</SoSArchotechHeart.description>
+  <!-- EN: an archotech heart -->
+  <SoSArchotechHeart.labelNoun>TODO</SoSArchotechHeart.labelNoun>
+  
+  <!-- EN: archotech jaw -->
+  <SoSArchotechJaw.label>TODO</SoSArchotechJaw.label>
+  <!-- EN: An installed archotech jaw. -->
+  <SoSArchotechJaw.description>TODO</SoSArchotechJaw.description>
+  <!-- EN: teeth -->
+  <SoSArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>TODO</SoSArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>
+  <!-- EN: an archotech jaw -->
+  <SoSArchotechJaw.labelNoun>TODO</SoSArchotechJaw.labelNoun>
+  
+  <!-- EN: archotech kidney -->
+  <SoSArchotechKidney.label>TODO</SoSArchotechKidney.label>
+  <!-- EN: An installed archotech kidney. -->
+  <SoSArchotechKidney.description>TODO</SoSArchotechKidney.description>
+  <!-- EN: an archotech kidney -->
+  <SoSArchotechKidney.labelNoun>TODO</SoSArchotechKidney.labelNoun>
+  
+  <!-- EN: archotech liver -->
+  <SoSArchotechLiver.label>TODO</SoSArchotechLiver.label>
+  <!-- EN: An installed archotech liver. -->
+  <SoSArchotechLiver.description>TODO</SoSArchotechLiver.description>
+  <!-- EN: an archotech liver -->
+  <SoSArchotechLiver.labelNoun>TODO</SoSArchotechLiver.labelNoun>
+  
+  <!-- EN: archotech lung -->
+  <SoSArchotechLung.label>TODO</SoSArchotechLung.label>
+  <!-- EN: An installed archotech lung. -->
+  <SoSArchotechLung.description>TODO</SoSArchotechLung.description>
+  <!-- EN: an archotech lung -->
+  <SoSArchotechLung.labelNoun>TODO</SoSArchotechLung.labelNoun>
+  
+  <!-- EN: archotech nose -->
+  <SoSArchotechNose.label>TODO</SoSArchotechNose.label>
+  <!-- EN: An installed archotech nose. -->
+  <SoSArchotechNose.description>TODO</SoSArchotechNose.description>
+  <!-- EN: an archotech nose -->
+  <SoSArchotechNose.labelNoun>TODO</SoSArchotechNose.labelNoun>
+  
+  <!-- EN: archotech skin -->
+  <SoSArchotechSkin.label>TODO</SoSArchotechSkin.label>
+  <!-- EN: Installed archotech skin. -->
+  <SoSArchotechSkin.description>TODO</SoSArchotechSkin.description>
+  
+  <!-- EN: archotech spine -->
+  <SoSArchotechSpine.label>TODO</SoSArchotechSpine.label>
+  <!-- EN: An installed archotech spine. -->
+  <SoSArchotechSpine.description>TODO</SoSArchotechSpine.description>
+  <!-- EN: an archotech spine -->
+  <SoSArchotechSpine.labelNoun>TODO</SoSArchotechSpine.labelNoun>
+  
+  <!-- EN: archotech stomach -->
+  <SoSArchotechStomach.label>TODO</SoSArchotechStomach.label>
+  <!-- EN: An installed archotech stomach. -->
+  <SoSArchotechStomach.description>TODO</SoSArchotechStomach.description>
+  <!-- EN: an archotech stomach -->
+  <SoSArchotechStomach.labelNoun>TODO</SoSArchotechStomach.labelNoun>
+  
+</LanguageData>
