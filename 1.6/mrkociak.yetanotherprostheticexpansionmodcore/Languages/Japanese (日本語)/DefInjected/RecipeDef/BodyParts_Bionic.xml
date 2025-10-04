@@ -2,59 +2,59 @@
 <LanguageData>
 
   <!-- EN: install bionic finger -->
-  <BIE_InstallBionicFinger.label>人工指を取り付ける</BIE_InstallBionicFinger.label>
+  <BIE_InstallBionicFinger.label>強化指を取り付ける</BIE_InstallBionicFinger.label>
   <!-- EN: Install a bionic finger. -->
-  <BIE_InstallBionicFinger.description>欠損した指に人工指を外科的に取り付けます。</BIE_InstallBionicFinger.description>
+  <BIE_InstallBionicFinger.description>欠損した指に強化指を外科的に取り付けます。</BIE_InstallBionicFinger.description>
   <!-- EN: Installing bionic finger. -->
-  <BIE_InstallBionicFinger.jobString>人工指の取り付け中</BIE_InstallBionicFinger.jobString>
+  <BIE_InstallBionicFinger.jobString>強化指の取り付け中</BIE_InstallBionicFinger.jobString>
 
   <!-- EN: install bionic foot -->
-  <BIE_InstallBionicFoot.label>人工足を取り付ける</BIE_InstallBionicFoot.label>
+  <BIE_InstallBionicFoot.label>強化足を取り付ける</BIE_InstallBionicFoot.label>
   <!-- EN: Install a bionic foot. -->
-  <BIE_InstallBionicFoot.description>欠損した足に人工足を外科的に取り付けます。</BIE_InstallBionicFoot.description>
+  <BIE_InstallBionicFoot.description>欠損した足に強化足を外科的に取り付けます。</BIE_InstallBionicFoot.description>
   <!-- EN: Installing bionic foot. -->
-  <BIE_InstallBionicFoot.jobString>人工足の取り付け中</BIE_InstallBionicFoot.jobString>
+  <BIE_InstallBionicFoot.jobString>強化足の取り付け中</BIE_InstallBionicFoot.jobString>
 
   <!-- EN: install bionic hand -->
-  <BIE_InstallBionicHand.label>人工手を取り付ける</BIE_InstallBionicHand.label>
+  <BIE_InstallBionicHand.label>強化手を取り付ける</BIE_InstallBionicHand.label>
   <!-- EN: Install a bionic hand. -->
-  <BIE_InstallBionicHand.description>欠損した手に人工手を外科的に取り付けます。</BIE_InstallBionicHand.description>
+  <BIE_InstallBionicHand.description>欠損した手に強化手を外科的に取り付けます。</BIE_InstallBionicHand.description>
   <!-- EN: Installing bionic hand. -->
-  <BIE_InstallBionicHand.jobString>人工手の取り付け中</BIE_InstallBionicHand.jobString>
+  <BIE_InstallBionicHand.jobString>強化手の取り付け中</BIE_InstallBionicHand.jobString>
 
   <!-- EN: install bionic kidney -->
-  <BIE_InstallBionicKidney.label>人工腎臓を取り付ける</BIE_InstallBionicKidney.label>
+  <BIE_InstallBionicKidney.label>強化腎臓を取り付ける</BIE_InstallBionicKidney.label>
   <!-- EN: Install a bionic kidney. -->
-  <BIE_InstallBionicKidney.description>損傷した腎臓を人工腎臓で置換します。</BIE_InstallBionicKidney.description>
+  <BIE_InstallBionicKidney.description>損傷した腎臓を強化腎臓で置換します。</BIE_InstallBionicKidney.description>
   <!-- EN: Installing bionic kidney. -->
-  <BIE_InstallBionicKidney.jobString>人工腎臓の取り付け中</BIE_InstallBionicKidney.jobString>
+  <BIE_InstallBionicKidney.jobString>強化腎臓の取り付け中</BIE_InstallBionicKidney.jobString>
 
   <!-- EN: install bionic liver -->
-  <BIE_InstallBionicLiver.label>人工肝臓を取り付ける</BIE_InstallBionicLiver.label>
+  <BIE_InstallBionicLiver.label>強化肝臓を取り付ける</BIE_InstallBionicLiver.label>
   <!-- EN: Install a bionic liver. -->
-  <BIE_InstallBionicLiver.description>機能不全の肝臓を人工肝臓で置換します。</BIE_InstallBionicLiver.description>
+  <BIE_InstallBionicLiver.description>機能不全の肝臓を強化肝臓で置換します。</BIE_InstallBionicLiver.description>
   <!-- EN: Installing bionic liver. -->
-  <BIE_InstallBionicLiver.jobString>人工肝臓の取り付け中</BIE_InstallBionicLiver.jobString>
+  <BIE_InstallBionicLiver.jobString>強化肝臓の取り付け中</BIE_InstallBionicLiver.jobString>
 
   <!-- EN: install bionic lung -->
-  <BIE_InstallBionicLung.label>人工肺を取り付ける</BIE_InstallBionicLung.label>
+  <BIE_InstallBionicLung.label>強化肺を取り付ける</BIE_InstallBionicLung.label>
   <!-- EN: Install a bionic lung. -->
-  <BIE_InstallBionicLung.description>呼吸機能を回復するために肺を人工肺で置換します。</BIE_InstallBionicLung.description>
+  <BIE_InstallBionicLung.description>呼吸機能を回復するために肺を強化肺で置換します。</BIE_InstallBionicLung.description>
   <!-- EN: Installing bionic lung. -->
-  <BIE_InstallBionicLung.jobString>人工肺の取り付け中</BIE_InstallBionicLung.jobString>
+  <BIE_InstallBionicLung.jobString>強化肺の取り付け中</BIE_InstallBionicLung.jobString>
 
   <!-- EN: install bionic nose -->
-  <BIE_InstallBionicNose.label>人工鼻を取り付ける</BIE_InstallBionicNose.label>
+  <BIE_InstallBionicNose.label>強化鼻を取り付ける</BIE_InstallBionicNose.label>
   <!-- EN: Install a bionic nose. -->
-  <BIE_InstallBionicNose.description>嗅覚や呼吸補助のために鼻を人工鼻で置換します。</BIE_InstallBionicNose.description>
+  <BIE_InstallBionicNose.description>嗅覚や呼吸補助のために鼻を強化鼻で置換します。</BIE_InstallBionicNose.description>
   <!-- EN: Installing bionic nose. -->
-  <BIE_InstallBionicNose.jobString>人工鼻の取り付け中</BIE_InstallBionicNose.jobString>
+  <BIE_InstallBionicNose.jobString>強化鼻の取り付け中</BIE_InstallBionicNose.jobString>
 
   <!-- EN: install bionic toe -->
-  <BIE_InstallBionicToe.label>人工趾を取り付ける</BIE_InstallBionicToe.label>
+  <BIE_InstallBionicToe.label>強化趾を取り付ける</BIE_InstallBionicToe.label>
   <!-- EN: Install a bionic toe. -->
-  <BIE_InstallBionicToe.description>欠損した趾に人工趾を外科的に取り付けます。</BIE_InstallBionicToe.description>
+  <BIE_InstallBionicToe.description>欠損した趾に強化趾を外科的に取り付けます。</BIE_InstallBionicToe.description>
   <!-- EN: Installing bionic toe. -->
-  <BIE_InstallBionicToe.jobString>人工趾の取り付け中</BIE_InstallBionicToe.jobString>
+  <BIE_InstallBionicToe.jobString>強化趾の取り付け中</BIE_InstallBionicToe.jobString>
 
 </LanguageData>
