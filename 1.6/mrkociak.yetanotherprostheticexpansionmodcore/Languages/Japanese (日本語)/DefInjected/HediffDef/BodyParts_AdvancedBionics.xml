@@ -1,120 +1,120 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: advanced bionic arm -->
-  <BIE_AdvancedBionicArm.label>TODO</BIE_AdvancedBionicArm.label>
+  <BIE_AdvancedBionicArm.label>先進人工上肢</BIE_AdvancedBionicArm.label>
   <!-- EN: An installed advanced bionic arm. -->
-  <BIE_AdvancedBionicArm.description>TODO</BIE_AdvancedBionicArm.description>
+  <BIE_AdvancedBionicArm.description>装着された先進的な人工上肢。</BIE_AdvancedBionicArm.description>
   <!-- EN: fist -->
-  <BIE_AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BIE_AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BIE_AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>拳</BIE_AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an advanced bionic arm -->
-  <BIE_AdvancedBionicArm.labelNoun>TODO</BIE_AdvancedBionicArm.labelNoun>
-  
+  <BIE_AdvancedBionicArm.labelNoun>先進人工上肢</BIE_AdvancedBionicArm.labelNoun>
+
   <!-- EN: advanced bionic ear -->
-  <BIE_AdvancedBionicEar.label>TODO</BIE_AdvancedBionicEar.label>
+  <BIE_AdvancedBionicEar.label>先進人工耳</BIE_AdvancedBionicEar.label>
   <!-- EN: An installed advanced bionic ear. -->
-  <BIE_AdvancedBionicEar.description>TODO</BIE_AdvancedBionicEar.description>
+  <BIE_AdvancedBionicEar.description>装着された先進的な人工耳。</BIE_AdvancedBionicEar.description>
   <!-- EN: an advanced bionic ear -->
-  <BIE_AdvancedBionicEar.labelNoun>TODO</BIE_AdvancedBionicEar.labelNoun>
-  
+  <BIE_AdvancedBionicEar.labelNoun>先進人工耳</BIE_AdvancedBionicEar.labelNoun>
+
   <!-- EN: advanced bionic eye -->
-  <BIE_AdvancedBionicEye.label>TODO</BIE_AdvancedBionicEye.label>
+  <BIE_AdvancedBionicEye.label>先進人工眼</BIE_AdvancedBionicEye.label>
   <!-- EN: An installed advanced bionic eye. -->
-  <BIE_AdvancedBionicEye.description>TODO</BIE_AdvancedBionicEye.description>
+  <BIE_AdvancedBionicEye.description>装着された先進的な人工眼。</BIE_AdvancedBionicEye.description>
   <!-- EN: an advanced bionic eye -->
-  <BIE_AdvancedBionicEye.labelNoun>TODO</BIE_AdvancedBionicEye.labelNoun>
-  
+  <BIE_AdvancedBionicEye.labelNoun>先進人工眼</BIE_AdvancedBionicEye.labelNoun>
+
   <!-- EN: advanced bionic finger -->
-  <BIE_AdvancedBionicFinger.label>TODO</BIE_AdvancedBionicFinger.label>
+  <BIE_AdvancedBionicFinger.label>先進人工指</BIE_AdvancedBionicFinger.label>
   <!-- EN: An installed advanced bionic finger. -->
-  <BIE_AdvancedBionicFinger.description>TODO</BIE_AdvancedBionicFinger.description>
+  <BIE_AdvancedBionicFinger.description>装着された先進的な人工指。</BIE_AdvancedBionicFinger.description>
   <!-- EN: an advanced bionic finger -->
-  <BIE_AdvancedBionicFinger.labelNoun>TODO</BIE_AdvancedBionicFinger.labelNoun>
-  
+  <BIE_AdvancedBionicFinger.labelNoun>先進人工指</BIE_AdvancedBionicFinger.labelNoun>
+
   <!-- EN: advanced bionic foot -->
-  <BIE_AdvancedBionicFoot.label>TODO</BIE_AdvancedBionicFoot.label>
+  <BIE_AdvancedBionicFoot.label>先進人工足</BIE_AdvancedBionicFoot.label>
   <!-- EN: An installed advanced bionic foot. -->
-  <BIE_AdvancedBionicFoot.description>TODO</BIE_AdvancedBionicFoot.description>
+  <BIE_AdvancedBionicFoot.description>装着された先進的な人工足。</BIE_AdvancedBionicFoot.description>
   <!-- EN: an advanced bionic foot -->
-  <BIE_AdvancedBionicFoot.labelNoun>TODO</BIE_AdvancedBionicFoot.labelNoun>
-  
+  <BIE_AdvancedBionicFoot.labelNoun>先進人工足</BIE_AdvancedBionicFoot.labelNoun>
+
   <!-- EN: advanced bionic hand -->
-  <BIE_AdvancedBionicHand.label>TODO</BIE_AdvancedBionicHand.label>
+  <BIE_AdvancedBionicHand.label>先進人工手</BIE_AdvancedBionicHand.label>
   <!-- EN: An installed advanced bionic hand. -->
-  <BIE_AdvancedBionicHand.description>TODO</BIE_AdvancedBionicHand.description>
+  <BIE_AdvancedBionicHand.description>装着された先進的な人工手。</BIE_AdvancedBionicHand.description>
   <!-- EN: fist -->
-  <BIE_AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BIE_AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BIE_AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>拳</BIE_AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an advanced bionic hand -->
-  <BIE_AdvancedBionicHand.labelNoun>TODO</BIE_AdvancedBionicHand.labelNoun>
-  
+  <BIE_AdvancedBionicHand.labelNoun>先進人工手</BIE_AdvancedBionicHand.labelNoun>
+
   <!-- EN: advanced bionic heart -->
-  <BIE_AdvancedBionicHeart.label>TODO</BIE_AdvancedBionicHeart.label>
+  <BIE_AdvancedBionicHeart.label>先進人工心臓</BIE_AdvancedBionicHeart.label>
   <!-- EN: An installed advanced bionic heart. -->
-  <BIE_AdvancedBionicHeart.description>TODO</BIE_AdvancedBionicHeart.description>
+  <BIE_AdvancedBionicHeart.description>装着された先進的な人工心臓。</BIE_AdvancedBionicHeart.description>
   <!-- EN: an advanced bionic heart -->
-  <BIE_AdvancedBionicHeart.labelNoun>TODO</BIE_AdvancedBionicHeart.labelNoun>
-  
+  <BIE_AdvancedBionicHeart.labelNoun>先進人工心臓</BIE_AdvancedBionicHeart.labelNoun>
+
   <!-- EN: advanced bionic jaw -->
-  <BIE_AdvancedBionicJaw.label>TODO</BIE_AdvancedBionicJaw.label>
+  <BIE_AdvancedBionicJaw.label>先進人工顎</BIE_AdvancedBionicJaw.label>
   <!-- EN: An installed advanced bionic jaw. -->
-  <BIE_AdvancedBionicJaw.description>TODO</BIE_AdvancedBionicJaw.description>
+  <BIE_AdvancedBionicJaw.description>装着された先進的な人工顎。</BIE_AdvancedBionicJaw.description>
   <!-- EN: an advanced bionic jaw -->
-  <BIE_AdvancedBionicJaw.labelNoun>TODO</BIE_AdvancedBionicJaw.labelNoun>
-  
+  <BIE_AdvancedBionicJaw.labelNoun>先進人工顎</BIE_AdvancedBionicJaw.labelNoun>
+
   <!-- EN: advanced bionic kidney -->
-  <BIE_AdvancedBionicKidney.label>TODO</BIE_AdvancedBionicKidney.label>
+  <BIE_AdvancedBionicKidney.label>先進人工腎臓</BIE_AdvancedBionicKidney.label>
   <!-- EN: An installed advanced bionic kidney. -->
-  <BIE_AdvancedBionicKidney.description>TODO</BIE_AdvancedBionicKidney.description>
+  <BIE_AdvancedBionicKidney.description>装着された先進的な人工腎臓。</BIE_AdvancedBionicKidney.description>
   <!-- EN: an advanced bionic kidney -->
-  <BIE_AdvancedBionicKidney.labelNoun>TODO</BIE_AdvancedBionicKidney.labelNoun>
-  
+  <BIE_AdvancedBionicKidney.labelNoun>先進人工腎臓</BIE_AdvancedBionicKidney.labelNoun>
+
   <!-- EN: advanced bionic leg -->
-  <BIE_AdvancedBionicLeg.label>TODO</BIE_AdvancedBionicLeg.label>
+  <BIE_AdvancedBionicLeg.label>先進人工下肢</BIE_AdvancedBionicLeg.label>
   <!-- EN: An installed advanced bionic leg. -->
-  <BIE_AdvancedBionicLeg.description>TODO</BIE_AdvancedBionicLeg.description>
+  <BIE_AdvancedBionicLeg.description>装着された先進的な人工下肢。</BIE_AdvancedBionicLeg.description>
   <!-- EN: an advanced bionic leg -->
-  <BIE_AdvancedBionicLeg.labelNoun>TODO</BIE_AdvancedBionicLeg.labelNoun>
-  
+  <BIE_AdvancedBionicLeg.labelNoun>先進人工下肢</BIE_AdvancedBionicLeg.labelNoun>
+
   <!-- EN: advanced bionic liver -->
-  <BIE_AdvancedBionicLiver.label>TODO</BIE_AdvancedBionicLiver.label>
+  <BIE_AdvancedBionicLiver.label>先進人工肝臓</BIE_AdvancedBionicLiver.label>
   <!-- EN: An installed advanced bionic liver. -->
-  <BIE_AdvancedBionicLiver.description>TODO</BIE_AdvancedBionicLiver.description>
+  <BIE_AdvancedBionicLiver.description>装着された先進的な人工肝臓。</BIE_AdvancedBionicLiver.description>
   <!-- EN: an advanced bionic liver -->
-  <BIE_AdvancedBionicLiver.labelNoun>TODO</BIE_AdvancedBionicLiver.labelNoun>
-  
+  <BIE_AdvancedBionicLiver.labelNoun>先進人工肝臓</BIE_AdvancedBionicLiver.labelNoun>
+
   <!-- EN: advanced bionic lung -->
-  <BIE_AdvancedBionicLung.label>TODO</BIE_AdvancedBionicLung.label>
+  <BIE_AdvancedBionicLung.label>先進人工肺</BIE_AdvancedBionicLung.label>
   <!-- EN: An installed advanced bionic lung. -->
-  <BIE_AdvancedBionicLung.description>TODO</BIE_AdvancedBionicLung.description>
+  <BIE_AdvancedBionicLung.description>装着された先進的な人工肺。</BIE_AdvancedBionicLung.description>
   <!-- EN: an advanced bionic lung -->
-  <BIE_AdvancedBionicLung.labelNoun>TODO</BIE_AdvancedBionicLung.labelNoun>
-  
+  <BIE_AdvancedBionicLung.labelNoun>先進人工肺</BIE_AdvancedBionicLung.labelNoun>
+
   <!-- EN: advanced bionic nose -->
-  <BIE_AdvancedBionicNose.label>TODO</BIE_AdvancedBionicNose.label>
+  <BIE_AdvancedBionicNose.label>先進人工鼻</BIE_AdvancedBionicNose.label>
   <!-- EN: An installed advanced bionic nose. -->
-  <BIE_AdvancedBionicNose.description>TODO</BIE_AdvancedBionicNose.description>
+  <BIE_AdvancedBionicNose.description>装着された先進的な人工鼻。</BIE_AdvancedBionicNose.description>
   <!-- EN: an advanced bionic nose -->
-  <BIE_AdvancedBionicNose.labelNoun>TODO</BIE_AdvancedBionicNose.labelNoun>
-  
+  <BIE_AdvancedBionicNose.labelNoun>先進人工鼻</BIE_AdvancedBionicNose.labelNoun>
+
   <!-- EN: advanced bionic spine -->
-  <BIE_AdvancedBionicSpine.label>TODO</BIE_AdvancedBionicSpine.label>
+  <BIE_AdvancedBionicSpine.label>先進人工脊椎</BIE_AdvancedBionicSpine.label>
   <!-- EN: An installed advanced bionic spine. -->
-  <BIE_AdvancedBionicSpine.description>TODO</BIE_AdvancedBionicSpine.description>
+  <BIE_AdvancedBionicSpine.description>装着された先進的な人工脊椎。</BIE_AdvancedBionicSpine.description>
   <!-- EN: an advanced bionic spine -->
-  <BIE_AdvancedBionicSpine.labelNoun>TODO</BIE_AdvancedBionicSpine.labelNoun>
-  
+  <BIE_AdvancedBionicSpine.labelNoun>先進人工脊椎</BIE_AdvancedBionicSpine.labelNoun>
+
   <!-- EN: advanced bionic stomach -->
-  <BIE_AdvancedBionicStomach.label>TODO</BIE_AdvancedBionicStomach.label>
+  <BIE_AdvancedBionicStomach.label>先進人工胃</BIE_AdvancedBionicStomach.label>
   <!-- EN: An installed advanced bionic stomach. -->
-  <BIE_AdvancedBionicStomach.description>TODO</BIE_AdvancedBionicStomach.description>
+  <BIE_AdvancedBionicStomach.description>装着された先進的な人工胃。</BIE_AdvancedBionicStomach.description>
   <!-- EN: a advanced bionic stomach -->
-  <BIE_AdvancedBionicStomach.labelNoun>TODO</BIE_AdvancedBionicStomach.labelNoun>
-  
+  <BIE_AdvancedBionicStomach.labelNoun>先進人工胃</BIE_AdvancedBionicStomach.labelNoun>
+
   <!-- EN: advanced bionic toe -->
-  <BIE_AdvancedBionicToe.label>TODO</BIE_AdvancedBionicToe.label>
+  <BIE_AdvancedBionicToe.label>先進人工趾</BIE_AdvancedBionicToe.label>
   <!-- EN: An installed advanced bionic toe. -->
-  <BIE_AdvancedBionicToe.description>TODO</BIE_AdvancedBionicToe.description>
+  <BIE_AdvancedBionicToe.description>装着された先進的な人工趾。</BIE_AdvancedBionicToe.description>
   <!-- EN: an advanced bionic toe -->
-  <BIE_AdvancedBionicToe.labelNoun>TODO</BIE_AdvancedBionicToe.labelNoun>
-  
+  <BIE_AdvancedBionicToe.labelNoun>先進人工趾</BIE_AdvancedBionicToe.labelNoun>
+
 </LanguageData>

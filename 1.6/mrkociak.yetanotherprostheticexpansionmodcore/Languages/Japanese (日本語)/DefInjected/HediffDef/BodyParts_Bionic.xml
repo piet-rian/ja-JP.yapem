@@ -1,62 +1,62 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: bionic finger -->
-  <BIE_BionicFinger.label>TODO</BIE_BionicFinger.label>
+  <BIE_BionicFinger.label>人工指</BIE_BionicFinger.label>
   <!-- EN: An installed bionic finger. -->
-  <BIE_BionicFinger.description>TODO</BIE_BionicFinger.description>
+  <BIE_BionicFinger.description>装着された人工指。</BIE_BionicFinger.description>
   <!-- EN: a bionic finger -->
-  <BIE_BionicFinger.labelNoun>TODO</BIE_BionicFinger.labelNoun>
-  
+  <BIE_BionicFinger.labelNoun>人工指</BIE_BionicFinger.labelNoun>
+
   <!-- EN: bionic foot -->
-  <BIE_BionicFoot.label>TODO</BIE_BionicFoot.label>
+  <BIE_BionicFoot.label>人工足</BIE_BionicFoot.label>
   <!-- EN: An installed bionic foot. -->
-  <BIE_BionicFoot.description>TODO</BIE_BionicFoot.description>
+  <BIE_BionicFoot.description>装着された人工足。</BIE_BionicFoot.description>
   <!-- EN: a bionic foot -->
-  <BIE_BionicFoot.labelNoun>TODO</BIE_BionicFoot.labelNoun>
-  
+  <BIE_BionicFoot.labelNoun>人工足</BIE_BionicFoot.labelNoun>
+
   <!-- EN: bionic hand -->
-  <BIE_BionicHand.label>TODO</BIE_BionicHand.label>
+  <BIE_BionicHand.label>人工手</BIE_BionicHand.label>
   <!-- EN: An installed bionic hand. -->
-  <BIE_BionicHand.description>TODO</BIE_BionicHand.description>
+  <BIE_BionicHand.description>装着された人工手。</BIE_BionicHand.description>
   <!-- EN: fist -->
-  <BIE_BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BIE_BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BIE_BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>拳</BIE_BionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic hand -->
-  <BIE_BionicHand.labelNoun>TODO</BIE_BionicHand.labelNoun>
-  
+  <BIE_BionicHand.labelNoun>人工手</BIE_BionicHand.labelNoun>
+
   <!-- EN: bionic kidney -->
-  <BIE_BionicKidney.label>TODO</BIE_BionicKidney.label>
+  <BIE_BionicKidney.label>人工腎臓</BIE_BionicKidney.label>
   <!-- EN: An installed bionic kidney. -->
-  <BIE_BionicKidney.description>TODO</BIE_BionicKidney.description>
+  <BIE_BionicKidney.description>装着された人工腎臓。</BIE_BionicKidney.description>
   <!-- EN: a bionic kidney -->
-  <BIE_BionicKidney.labelNoun>TODO</BIE_BionicKidney.labelNoun>
-  
+  <BIE_BionicKidney.labelNoun>人工腎臓</BIE_BionicKidney.labelNoun>
+
   <!-- EN: bionic liver -->
-  <BIE_BionicLiver.label>TODO</BIE_BionicLiver.label>
+  <BIE_BionicLiver.label>人工肝臓</BIE_BionicLiver.label>
   <!-- EN: An installed bionic liver. -->
-  <BIE_BionicLiver.description>TODO</BIE_BionicLiver.description>
+  <BIE_BionicLiver.description>装着された人工肝臓。</BIE_BionicLiver.description>
   <!-- EN: a bionic liver -->
-  <BIE_BionicLiver.labelNoun>TODO</BIE_BionicLiver.labelNoun>
-  
+  <BIE_BionicLiver.labelNoun>人工肝臓</BIE_BionicLiver.labelNoun>
+
   <!-- EN: bionic lung -->
-  <BIE_BionicLung.label>TODO</BIE_BionicLung.label>
+  <BIE_BionicLung.label>人工肺</BIE_BionicLung.label>
   <!-- EN: An installed bionic lung. -->
-  <BIE_BionicLung.description>TODO</BIE_BionicLung.description>
+  <BIE_BionicLung.description>装着された人工肺。</BIE_BionicLung.description>
   <!-- EN: a bionic lung -->
-  <BIE_BionicLung.labelNoun>TODO</BIE_BionicLung.labelNoun>
-  
+  <BIE_BionicLung.labelNoun>人工肺</BIE_BionicLung.labelNoun>
+
   <!-- EN: bionic nose -->
-  <BIE_BionicNose.label>TODO</BIE_BionicNose.label>
+  <BIE_BionicNose.label>人工鼻</BIE_BionicNose.label>
   <!-- EN: An installed bionic nose. -->
-  <BIE_BionicNose.description>TODO</BIE_BionicNose.description>
+  <BIE_BionicNose.description>装着された人工鼻。</BIE_BionicNose.description>
   <!-- EN: a bionic nose -->
-  <BIE_BionicNose.labelNoun>TODO</BIE_BionicNose.labelNoun>
-  
+  <BIE_BionicNose.labelNoun>人工鼻</BIE_BionicNose.labelNoun>
+
   <!-- EN: bionic toe -->
-  <BIE_BionicToe.label>TODO</BIE_BionicToe.label>
+  <BIE_BionicToe.label>人工趾</BIE_BionicToe.label>
   <!-- EN: An installed bionic toe. -->
-  <BIE_BionicToe.description>TODO</BIE_BionicToe.description>
+  <BIE_BionicToe.description>装着された人工趾。</BIE_BionicToe.description>
   <!-- EN: a bionic toe -->
-  <BIE_BionicToe.labelNoun>TODO</BIE_BionicToe.labelNoun>
-  
+  <BIE_BionicToe.labelNoun>人工趾</BIE_BionicToe.labelNoun>
+
 </LanguageData>

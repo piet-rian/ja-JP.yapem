@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: bionic finger -->
-  <BIE_BionicFinger.label>TODO</BIE_BionicFinger.label>
+  <BIE_BionicFinger.label>人工指</BIE_BionicFinger.label>
   <!-- EN: An advanced artificial finger. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological finger in almost every way. -->
-  <BIE_BionicFinger.description>TODO</BIE_BionicFinger.description>
-  
+  <BIE_BionicFinger.description>高機能な人工指。静音ミニサーボで強力な把持力を発揮し、バイオジェル神経リンクが精密な制御を可能にする。ラティスダスト治癒システムにより損傷から回復でき、生体の指をほとんど全ての面で上回る。</BIE_BionicFinger.description>
+
   <!-- EN: bionic foot -->
-  <BIE_BionicFoot.label>TODO</BIE_BionicFoot.label>
+  <BIE_BionicFoot.label>人工足</BIE_BionicFoot.label>
   <!-- EN: An advanced artificial foot. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological foot in almost every way. -->
-  <BIE_BionicFoot.description>TODO</BIE_BionicFoot.description>
-  
+  <BIE_BionicFoot.description>高機能な人工足。静音ミニサーボが優れた駆動力を発揮し、バイオジェル神経リンクが精密な運動制御を提供する。ラティスダスト治癒システムにより損傷から回復し、生体の足をほとんど全ての面で上回る。</BIE_BionicFoot.description>
+
   <!-- EN: bionic hand -->
-  <BIE_BionicHand.label>TODO</BIE_BionicHand.label>
+  <BIE_BionicHand.label>人工手</BIE_BionicHand.label>
   <!-- EN: An advanced artificial hand. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological hand in almost every way. -->
-  <BIE_BionicHand.description>TODO</BIE_BionicHand.description>
-  
+  <BIE_BionicHand.description>高機能な人工手。静音ミニサーボにより高い把持力を実現し、バイオジェル神経リンクが精密な指先操作を可能にする。ラティスダスト治癒システムで損傷から回復し、生体の手をほとんど全ての面で上回る。</BIE_BionicHand.description>
+
   <!-- EN: bionic kidney -->
-  <BIE_BionicKidney.label>TODO</BIE_BionicKidney.label>
+  <BIE_BionicKidney.label>人工腎臓</BIE_BionicKidney.label>
   <!-- EN: An advanced artificial kidney. It has a variety of synthetic tissues that simulate the work of a real kidney, plus a set of advanced filtering units for better protection against harmful substances. It is better than a biological kidney in almost every way. -->
-  <BIE_BionicKidney.description>TODO</BIE_BionicKidney.description>
-  
+  <BIE_BionicKidney.description>高機能な人工腎臓。実際の腎臓の機能を模した合成組織と、高度なろ過ユニット群を備え、有害物質からの防護性が高い。生体の腎臓をほとんど全ての面で上回る。</BIE_BionicKidney.description>
+
   <!-- EN: bionic liver -->
-  <BIE_BionicLiver.label>TODO</BIE_BionicLiver.label>
+  <BIE_BionicLiver.label>人工肝臓</BIE_BionicLiver.label>
   <!-- EN: An advanced artificial liver. It has a variety of synthetic tissues that simulate the work of a real liver, plus a set of advanced filtering units for better protection against harmful substances. It is better than a biological liver in almost every way. -->
-  <BIE_BionicLiver.description>TODO</BIE_BionicLiver.description>
-  
+  <BIE_BionicLiver.description>高機能な人工肝臓。実臓器の働きを模した合成組織と高度なろ過ユニットを備え、有害物質からの防御能力が高い。生体の肝臓をほとんど全ての面で上回る。</BIE_BionicLiver.description>
+
   <!-- EN: bionic lung -->
-  <BIE_BionicLung.label>TODO</BIE_BionicLung.label>
+  <BIE_BionicLung.label>人工肺</BIE_BionicLung.label>
   <!-- EN: An advanced artificial lung. It has a variety of synthetic tissues for a realistic breathing experience. It is better than a biological lung in almost every way. -->
-  <BIE_BionicLung.description>TODO</BIE_BionicLung.description>
-  
+  <BIE_BionicLung.description>高機能な人工肺。呼吸の感覚を再現する多様な合成組織を備え、生体の肺をほとんど全ての面で上回る。</BIE_BionicLung.description>
+
   <!-- EN: bionic nose -->
-  <BIE_BionicNose.label>TODO</BIE_BionicNose.label>
+  <BIE_BionicNose.label>人工鼻</BIE_BionicNose.label>
   <!-- EN: An advanced artificial nose. Advanced sensors give the user a greater sense of smell and an ability to turn it off at will, while extra filters provide a superior breathing experience.  A lattice-dust healing system allows it to recover from damage. It is better than a biological nose in almost every way. -->
-  <BIE_BionicNose.description>TODO</BIE_BionicNose.description>
-  
+  <BIE_BionicNose.description>高機能な人工鼻。高度なセンサーで嗅覚が拡張され、任意で感度を切り替えられるほか、追加フィルターにより優れた呼吸環境を提供する。ラティスダスト治癒システムで損傷から回復し、生体の鼻をほとんど全ての面で上回る。</BIE_BionicNose.description>
+
   <!-- EN: bionic toe -->
-  <BIE_BionicToe.label>TODO</BIE_BionicToe.label>
+  <BIE_BionicToe.label>人工趾</BIE_BionicToe.label>
   <!-- EN: An advanced artificial toe. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological toe in almost every way. -->
-  <BIE_BionicToe.description>TODO</BIE_BionicToe.description>
-  
+  <BIE_BionicToe.description>高機能な人工趾。静音ミニサーボが優れた駆動力を発揮し、バイオジェル神経リンクが精密な制御を提供する。ラティスダスト治癒システムにより損傷から回復し、生体の趾をほとんど全ての面で上回る。</BIE_BionicToe.description>
+
 </LanguageData>

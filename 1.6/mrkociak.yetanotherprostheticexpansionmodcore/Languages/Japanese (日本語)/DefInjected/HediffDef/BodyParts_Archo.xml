@@ -1,74 +1,74 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: archotech ear -->
-  <SoSArchotechEar.label>TODO</SoSArchotechEar.label>
+  <SoSArchotechEar.label>アルコテック耳</SoSArchotechEar.label>
   <!-- EN: An installed archotech ear. -->
-  <SoSArchotechEar.description>TODO</SoSArchotechEar.description>
+  <SoSArchotechEar.description>装着されたアルコテック製の耳。</SoSArchotechEar.description>
   <!-- EN: an archotech ear -->
-  <SoSArchotechEar.labelNoun>TODO</SoSArchotechEar.labelNoun>
-  
+  <SoSArchotechEar.labelNoun>アルコテック耳</SoSArchotechEar.labelNoun>
+
   <!-- EN: archotech heart -->
-  <SoSArchotechHeart.label>TODO</SoSArchotechHeart.label>
+  <SoSArchotechHeart.label>アルコテック心臓</SoSArchotechHeart.label>
   <!-- EN: An installed archotech heart. -->
-  <SoSArchotechHeart.description>TODO</SoSArchotechHeart.description>
+  <SoSArchotechHeart.description>装着されたアルコテック製の心臓。</SoSArchotechHeart.description>
   <!-- EN: an archotech heart -->
-  <SoSArchotechHeart.labelNoun>TODO</SoSArchotechHeart.labelNoun>
-  
+  <SoSArchotechHeart.labelNoun>アルコテック心臓</SoSArchotechHeart.labelNoun>
+
   <!-- EN: archotech jaw -->
-  <SoSArchotechJaw.label>TODO</SoSArchotechJaw.label>
+  <SoSArchotechJaw.label>アルコテック顎</SoSArchotechJaw.label>
   <!-- EN: An installed archotech jaw. -->
-  <SoSArchotechJaw.description>TODO</SoSArchotechJaw.description>
+  <SoSArchotechJaw.description>装着されたアルコテック製の顎。</SoSArchotechJaw.description>
   <!-- EN: teeth -->
-  <SoSArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>TODO</SoSArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>
+  <SoSArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>歯</SoSArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>
   <!-- EN: an archotech jaw -->
-  <SoSArchotechJaw.labelNoun>TODO</SoSArchotechJaw.labelNoun>
-  
+  <SoSArchotechJaw.labelNoun>アルコテック顎</SoSArchotechJaw.labelNoun>
+
   <!-- EN: archotech kidney -->
-  <SoSArchotechKidney.label>TODO</SoSArchotechKidney.label>
+  <SoSArchotechKidney.label>アルコテック腎臓</SoSArchotechKidney.label>
   <!-- EN: An installed archotech kidney. -->
-  <SoSArchotechKidney.description>TODO</SoSArchotechKidney.description>
+  <SoSArchotechKidney.description>装着されたアルコテック製の腎臓。</SoSArchotechKidney.description>
   <!-- EN: an archotech kidney -->
-  <SoSArchotechKidney.labelNoun>TODO</SoSArchotechKidney.labelNoun>
-  
+  <SoSArchotechKidney.labelNoun>アルコテック腎臓</SoSArchotechKidney.labelNoun>
+
   <!-- EN: archotech liver -->
-  <SoSArchotechLiver.label>TODO</SoSArchotechLiver.label>
+  <SoSArchotechLiver.label>アルコテック肝臓</SoSArchotechLiver.label>
   <!-- EN: An installed archotech liver. -->
-  <SoSArchotechLiver.description>TODO</SoSArchotechLiver.description>
+  <SoSArchotechLiver.description>装着されたアルコテック製の肝臓。</SoSArchotechLiver.description>
   <!-- EN: an archotech liver -->
-  <SoSArchotechLiver.labelNoun>TODO</SoSArchotechLiver.labelNoun>
-  
+  <SoSArchotechLiver.labelNoun>アルコテック肝臓</SoSArchotechLiver.labelNoun>
+
   <!-- EN: archotech lung -->
-  <SoSArchotechLung.label>TODO</SoSArchotechLung.label>
+  <SoSArchotechLung.label>アルコテック肺</SoSArchotechLung.label>
   <!-- EN: An installed archotech lung. -->
-  <SoSArchotechLung.description>TODO</SoSArchotechLung.description>
+  <SoSArchotechLung.description>装着されたアルコテック製の肺。</SoSArchotechLung.description>
   <!-- EN: an archotech lung -->
-  <SoSArchotechLung.labelNoun>TODO</SoSArchotechLung.labelNoun>
-  
+  <SoSArchotechLung.labelNoun>アルコテック肺</SoSArchotechLung.labelNoun>
+
   <!-- EN: archotech nose -->
-  <SoSArchotechNose.label>TODO</SoSArchotechNose.label>
+  <SoSArchotechNose.label>アルコテック鼻</SoSArchotechNose.label>
   <!-- EN: An installed archotech nose. -->
-  <SoSArchotechNose.description>TODO</SoSArchotechNose.description>
+  <SoSArchotechNose.description>装着されたアルコテック製の鼻。</SoSArchotechNose.description>
   <!-- EN: an archotech nose -->
-  <SoSArchotechNose.labelNoun>TODO</SoSArchotechNose.labelNoun>
-  
+  <SoSArchotechNose.labelNoun>アルコテック鼻</SoSArchotechNose.labelNoun>
+
   <!-- EN: archotech skin -->
-  <SoSArchotechSkin.label>TODO</SoSArchotechSkin.label>
+  <SoSArchotechSkin.label>アルコテック皮膚</SoSArchotechSkin.label>
   <!-- EN: Installed archotech skin. -->
-  <SoSArchotechSkin.description>TODO</SoSArchotechSkin.description>
-  
+  <SoSArchotechSkin.description>装着されたアルコテック皮膚。</SoSArchotechSkin.description>
+
   <!-- EN: archotech spine -->
-  <SoSArchotechSpine.label>TODO</SoSArchotechSpine.label>
+  <SoSArchotechSpine.label>アルコテック脊椎</SoSArchotechSpine.label>
   <!-- EN: An installed archotech spine. -->
-  <SoSArchotechSpine.description>TODO</SoSArchotechSpine.description>
+  <SoSArchotechSpine.description>装着されたアルコテック製の脊椎。</SoSArchotechSpine.description>
   <!-- EN: an archotech spine -->
-  <SoSArchotechSpine.labelNoun>TODO</SoSArchotechSpine.labelNoun>
-  
+  <SoSArchotechSpine.labelNoun>アルコテック脊椎</SoSArchotechSpine.labelNoun>
+
   <!-- EN: archotech stomach -->
-  <SoSArchotechStomach.label>TODO</SoSArchotechStomach.label>
+  <SoSArchotechStomach.label>アルコテック胃</SoSArchotechStomach.label>
   <!-- EN: An installed archotech stomach. -->
-  <SoSArchotechStomach.description>TODO</SoSArchotechStomach.description>
+  <SoSArchotechStomach.description>装着されたアルコテック製の胃。</SoSArchotechStomach.description>
   <!-- EN: an archotech stomach -->
-  <SoSArchotechStomach.labelNoun>TODO</SoSArchotechStomach.labelNoun>
-  
+  <SoSArchotechStomach.labelNoun>アルコテック胃</SoSArchotechStomach.labelNoun>
+
 </LanguageData>

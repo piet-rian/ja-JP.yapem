@@ -1,74 +1,74 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: install prosthetic eye -->
-  <InstallSimpleProstheticBIE_Eye.label>TODO</InstallSimpleProstheticBIE_Eye.label>
+  <InstallSimpleProstheticBIE_Eye.label>義眼を取り付ける</InstallSimpleProstheticBIE_Eye.label>
   <!-- EN: Install a prosthetic eye. -->
-  <InstallSimpleProstheticBIE_Eye.description>TODO</InstallSimpleProstheticBIE_Eye.description>
+  <InstallSimpleProstheticBIE_Eye.description>視力を補うために義眼を外科的に取り付けます。</InstallSimpleProstheticBIE_Eye.description>
   <!-- EN: Installing prosthetic eye. -->
-  <InstallSimpleProstheticBIE_Eye.jobString>TODO</InstallSimpleProstheticBIE_Eye.jobString>
-  
+  <InstallSimpleProstheticBIE_Eye.jobString>義眼の取り付け中</InstallSimpleProstheticBIE_Eye.jobString>
+
   <!-- EN: install prosthetic finger -->
-  <InstallSimpleProstheticBIE_Finger.label>TODO</InstallSimpleProstheticBIE_Finger.label>
+  <InstallSimpleProstheticBIE_Finger.label>義指を取り付ける</InstallSimpleProstheticBIE_Finger.label>
   <!-- EN: Install a prosthetic finger. -->
-  <InstallSimpleProstheticBIE_Finger.description>TODO</InstallSimpleProstheticBIE_Finger.description>
+  <InstallSimpleProstheticBIE_Finger.description>欠損した指に義指を外科的に取り付けます。</InstallSimpleProstheticBIE_Finger.description>
   <!-- EN: Installing prosthetic finger. -->
-  <InstallSimpleProstheticBIE_Finger.jobString>TODO</InstallSimpleProstheticBIE_Finger.jobString>
-  
+  <InstallSimpleProstheticBIE_Finger.jobString>義指の取り付け中</InstallSimpleProstheticBIE_Finger.jobString>
+
   <!-- EN: install prosthetic foot -->
-  <InstallSimpleProstheticBIE_Foot.label>TODO</InstallSimpleProstheticBIE_Foot.label>
+  <InstallSimpleProstheticBIE_Foot.label>義足を取り付ける</InstallSimpleProstheticBIE_Foot.label>
   <!-- EN: Install a prosthetic foot. -->
-  <InstallSimpleProstheticBIE_Foot.description>TODO</InstallSimpleProstheticBIE_Foot.description>
+  <InstallSimpleProstheticBIE_Foot.description>失われた足に義足を外科的に取り付けます。</InstallSimpleProstheticBIE_Foot.description>
   <!-- EN: Installing prosthetic foot. -->
-  <InstallSimpleProstheticBIE_Foot.jobString>TODO</InstallSimpleProstheticBIE_Foot.jobString>
-  
+  <InstallSimpleProstheticBIE_Foot.jobString>義足の取り付け中</InstallSimpleProstheticBIE_Foot.jobString>
+
   <!-- EN: install prosthetic hand -->
-  <InstallSimpleProstheticBIE_Hand.label>TODO</InstallSimpleProstheticBIE_Hand.label>
+  <InstallSimpleProstheticBIE_Hand.label>義手を取り付ける</InstallSimpleProstheticBIE_Hand.label>
   <!-- EN: Install a prosthetic hand. -->
-  <InstallSimpleProstheticBIE_Hand.description>TODO</InstallSimpleProstheticBIE_Hand.description>
+  <InstallSimpleProstheticBIE_Hand.description>欠損した手に義手を外科的に取り付けます。</InstallSimpleProstheticBIE_Hand.description>
   <!-- EN: Installing prosthetic hand. -->
-  <InstallSimpleProstheticBIE_Hand.jobString>TODO</InstallSimpleProstheticBIE_Hand.jobString>
-  
+  <InstallSimpleProstheticBIE_Hand.jobString>義手の取り付け中</InstallSimpleProstheticBIE_Hand.jobString>
+
   <!-- EN: install prosthetic kidney -->
-  <InstallSimpleProstheticBIE_Kidney.label>TODO</InstallSimpleProstheticBIE_Kidney.label>
+  <InstallSimpleProstheticBIE_Kidney.label>義腎を取り付ける</InstallSimpleProstheticBIE_Kidney.label>
   <!-- EN: Install a prosthetic kidney. -->
-  <InstallSimpleProstheticBIE_Kidney.description>TODO</InstallSimpleProstheticBIE_Kidney.description>
+  <InstallSimpleProstheticBIE_Kidney.description>損傷した腎臓を義腎で置換します。</InstallSimpleProstheticBIE_Kidney.description>
   <!-- EN: Installing prosthetic kidney. -->
-  <InstallSimpleProstheticBIE_Kidney.jobString>TODO</InstallSimpleProstheticBIE_Kidney.jobString>
-  
+  <InstallSimpleProstheticBIE_Kidney.jobString>義腎の取り付け中</InstallSimpleProstheticBIE_Kidney.jobString>
+
   <!-- EN: install prosthetic liver -->
-  <InstallSimpleProstheticBIE_Liver.label>TODO</InstallSimpleProstheticBIE_Liver.label>
+  <InstallSimpleProstheticBIE_Liver.label>義肝を取り付ける</InstallSimpleProstheticBIE_Liver.label>
   <!-- EN: Install a prosthetic liver. -->
-  <InstallSimpleProstheticBIE_Liver.description>TODO</InstallSimpleProstheticBIE_Liver.description>
+  <InstallSimpleProstheticBIE_Liver.description>機能不全の肝臓を義肝で置換します。</InstallSimpleProstheticBIE_Liver.description>
   <!-- EN: Installing prosthetic liver. -->
-  <InstallSimpleProstheticBIE_Liver.jobString>TODO</InstallSimpleProstheticBIE_Liver.jobString>
-  
+  <InstallSimpleProstheticBIE_Liver.jobString>義肝の取り付け中</InstallSimpleProstheticBIE_Liver.jobString>
+
   <!-- EN: install prosthetic lung -->
-  <InstallSimpleProstheticBIE_Lung.label>TODO</InstallSimpleProstheticBIE_Lung.label>
+  <InstallSimpleProstheticBIE_Lung.label>義肺を取り付ける</InstallSimpleProstheticBIE_Lung.label>
   <!-- EN: Install a prosthetic lung. -->
-  <InstallSimpleProstheticBIE_Lung.description>TODO</InstallSimpleProstheticBIE_Lung.description>
+  <InstallSimpleProstheticBIE_Lung.description>呼吸機能を補うために義肺を取り付けます。</InstallSimpleProstheticBIE_Lung.description>
   <!-- EN: Installing prosthetic lung. -->
-  <InstallSimpleProstheticBIE_Lung.jobString>TODO</InstallSimpleProstheticBIE_Lung.jobString>
-  
+  <InstallSimpleProstheticBIE_Lung.jobString>義肺の取り付け中</InstallSimpleProstheticBIE_Lung.jobString>
+
   <!-- EN: install prosthetic nose -->
-  <InstallSimpleProstheticBIE_Nose.label>TODO</InstallSimpleProstheticBIE_Nose.label>
+  <InstallSimpleProstheticBIE_Nose.label>義鼻を取り付ける</InstallSimpleProstheticBIE_Nose.label>
   <!-- EN: Install a prosthetic nose. -->
-  <InstallSimpleProstheticBIE_Nose.description>TODO</InstallSimpleProstheticBIE_Nose.description>
+  <InstallSimpleProstheticBIE_Nose.description>嗅覚や呼吸補助のために義鼻を取り付けます。</InstallSimpleProstheticBIE_Nose.description>
   <!-- EN: Installing prosthetic nose. -->
-  <InstallSimpleProstheticBIE_Nose.jobString>TODO</InstallSimpleProstheticBIE_Nose.jobString>
-  
+  <InstallSimpleProstheticBIE_Nose.jobString>義鼻の取り付け中</InstallSimpleProstheticBIE_Nose.jobString>
+
   <!-- EN: install prosthetic stomach -->
-  <InstallSimpleProstheticBIE_Stomach.label>TODO</InstallSimpleProstheticBIE_Stomach.label>
+  <InstallSimpleProstheticBIE_Stomach.label>義胃を取り付ける</InstallSimpleProstheticBIE_Stomach.label>
   <!-- EN: Install a prosthetic stomach. -->
-  <InstallSimpleProstheticBIE_Stomach.description>TODO</InstallSimpleProstheticBIE_Stomach.description>
+  <InstallSimpleProstheticBIE_Stomach.description>消化機能を補うために義胃を取り付けます。</InstallSimpleProstheticBIE_Stomach.description>
   <!-- EN: Installing prosthetic stomach. -->
-  <InstallSimpleProstheticBIE_Stomach.jobString>TODO</InstallSimpleProstheticBIE_Stomach.jobString>
-  
+  <InstallSimpleProstheticBIE_Stomach.jobString>義胃の取り付け中</InstallSimpleProstheticBIE_Stomach.jobString>
+
   <!-- EN: install prosthetic toe -->
-  <InstallSimpleProstheticBIE_Toe.label>TODO</InstallSimpleProstheticBIE_Toe.label>
+  <InstallSimpleProstheticBIE_Toe.label>義趾を取り付ける</InstallSimpleProstheticBIE_Toe.label>
   <!-- EN: Install a prosthetic toe. -->
-  <InstallSimpleProstheticBIE_Toe.description>TODO</InstallSimpleProstheticBIE_Toe.description>
+  <InstallSimpleProstheticBIE_Toe.description>欠損した趾に義趾を外科的に取り付けます。</InstallSimpleProstheticBIE_Toe.description>
   <!-- EN: Installing prosthetic toe. -->
-  <InstallSimpleProstheticBIE_Toe.jobString>TODO</InstallSimpleProstheticBIE_Toe.jobString>
-  
+  <InstallSimpleProstheticBIE_Toe.jobString>義趾の取り付け中</InstallSimpleProstheticBIE_Toe.jobString>
+
 </LanguageData>

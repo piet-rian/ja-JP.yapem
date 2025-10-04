@@ -1,102 +1,102 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: install ultratech ear -->
-  <BIE_InstallUltratechBionicEar.label>TODO</BIE_InstallUltratechBionicEar.label>
+  <BIE_InstallUltratechBionicEar.label>ウルトラテック耳を取り付ける</BIE_InstallUltratechBionicEar.label>
   <!-- EN: Install an ultratech ear. -->
-  <BIE_InstallUltratechBionicEar.description>TODO</BIE_InstallUltratechBionicEar.description>
+  <BIE_InstallUltratechBionicEar.description>最先端のウルトラテック耳を移植し、聴力と感覚を強化します。</BIE_InstallUltratechBionicEar.description>
   <!-- EN: Installing ultratech ear. -->
-  <BIE_InstallUltratechBionicEar.jobString>TODO</BIE_InstallUltratechBionicEar.jobString>
-  
+  <BIE_InstallUltratechBionicEar.jobString>ウルトラテック耳の取り付け中</BIE_InstallUltratechBionicEar.jobString>
+
   <!-- EN: install ultratech heart -->
-  <BIE_InstallUltratechBionicHeart.label>TODO</BIE_InstallUltratechBionicHeart.label>
+  <BIE_InstallUltratechBionicHeart.label>ウルトラテック心臓を取り付ける</BIE_InstallUltratechBionicHeart.label>
   <!-- EN: Install an advanced bioni cheart. -->
-  <BIE_InstallUltratechBionicHeart.description>TODO</BIE_InstallUltratechBionicHeart.description>
+  <BIE_InstallUltratechBionicHeart.description>ウルトラテック心臓を移植し、心機能を極めて高いレベルまで引き上げます。</BIE_InstallUltratechBionicHeart.description>
   <!-- EN: Installing ultratech heart. -->
-  <BIE_InstallUltratechBionicHeart.jobString>TODO</BIE_InstallUltratechBionicHeart.jobString>
-  
+  <BIE_InstallUltratechBionicHeart.jobString>ウルトラテック心臓の取り付け中</BIE_InstallUltratechBionicHeart.jobString>
+
   <!-- EN: install ultratech jaw -->
-  <BIE_InstallUltratechBionicJaw.label>TODO</BIE_InstallUltratechBionicJaw.label>
+  <BIE_InstallUltratechBionicJaw.label>ウルトラテック顎を取り付ける</BIE_InstallUltratechBionicJaw.label>
   <!-- EN: Install an ultratech jaw. -->
-  <BIE_InstallUltratechBionicJaw.description>TODO</BIE_InstallUltratechBionicJaw.description>
+  <BIE_InstallUltratechBionicJaw.description>ウルトラテック顎を移植します。</BIE_InstallUltratechBionicJaw.description>
   <!-- EN: Installing ultratech jaw. -->
-  <BIE_InstallUltratechBionicJaw.jobString>TODO</BIE_InstallUltratechBionicJaw.jobString>
-  
+  <BIE_InstallUltratechBionicJaw.jobString>ウルトラテック顎の取り付け中</BIE_InstallUltratechBionicJaw.jobString>
+
   <!-- EN: install ultratech kidney -->
-  <BIE_InstallUltratechBionicKidney.label>TODO</BIE_InstallUltratechBionicKidney.label>
+  <BIE_InstallUltratechBionicKidney.label>ウルトラテック腎臓を取り付ける</BIE_InstallUltratechBionicKidney.label>
   <!-- EN: Install an ultratech kidney. -->
-  <BIE_InstallUltratechBionicKidney.description>TODO</BIE_InstallUltratechBionicKidney.description>
+  <BIE_InstallUltratechBionicKidney.description>ウルトラテック腎臓を移植します。</BIE_InstallUltratechBionicKidney.description>
   <!-- EN: Installing ultratech kidney. -->
-  <BIE_InstallUltratechBionicKidney.jobString>TODO</BIE_InstallUltratechBionicKidney.jobString>
-  
+  <BIE_InstallUltratechBionicKidney.jobString>ウルトラテック腎臓の取り付け中</BIE_InstallUltratechBionicKidney.jobString>
+
   <!-- EN: install ultratech liver -->
-  <BIE_InstallUltratechBionicLiver.label>TODO</BIE_InstallUltratechBionicLiver.label>
+  <BIE_InstallUltratechBionicLiver.label>ウルトラテック肝臓を取り付ける</BIE_InstallUltratechBionicLiver.label>
   <!-- EN: Install an ultratech liver. -->
-  <BIE_InstallUltratechBionicLiver.description>TODO</BIE_InstallUltratechBionicLiver.description>
+  <BIE_InstallUltratechBionicLiver.description>ウルトラテック肝臓を移植します。</BIE_InstallUltratechBionicLiver.description>
   <!-- EN: Installing ultratech liver. -->
-  <BIE_InstallUltratechBionicLiver.jobString>TODO</BIE_InstallUltratechBionicLiver.jobString>
-  
+  <BIE_InstallUltratechBionicLiver.jobString>ウルトラテック肝臓の取り付け中</BIE_InstallUltratechBionicLiver.jobString>
+
   <!-- EN: install ultratech lung -->
-  <BIE_InstallUltratechBionicLung.label>TODO</BIE_InstallUltratechBionicLung.label>
+  <BIE_InstallUltratechBionicLung.label>ウルトラテック肺を取り付ける</BIE_InstallUltratechBionicLung.label>
   <!-- EN: Install an ultratech lung. -->
-  <BIE_InstallUltratechBionicLung.description>TODO</BIE_InstallUltratechBionicLung.description>
+  <BIE_InstallUltratechBionicLung.description>ウルトラテック肺を移植して呼吸機能を強化します。</BIE_InstallUltratechBionicLung.description>
   <!-- EN: Installing ultratech lung. -->
-  <BIE_InstallUltratechBionicLung.jobString>TODO</BIE_InstallUltratechBionicLung.jobString>
-  
+  <BIE_InstallUltratechBionicLung.jobString>ウルトラテック肺の取り付け中</BIE_InstallUltratechBionicLung.jobString>
+
   <!-- EN: install ultratech nose -->
-  <BIE_InstallUltratechBionicNose.label>TODO</BIE_InstallUltratechBionicNose.label>
+  <BIE_InstallUltratechBionicNose.label>ウルトラテック鼻を取り付ける</BIE_InstallUltratechBionicNose.label>
   <!-- EN: Install an ultratech nose. -->
-  <BIE_InstallUltratechBionicNose.description>TODO</BIE_InstallUltratechBionicNose.description>
+  <BIE_InstallUltratechBionicNose.description>ウルトラテック鼻を移植します。</BIE_InstallUltratechBionicNose.description>
   <!-- EN: Installing ultratech nose. -->
-  <BIE_InstallUltratechBionicNose.jobString>TODO</BIE_InstallUltratechBionicNose.jobString>
-  
+  <BIE_InstallUltratechBionicNose.jobString>ウルトラテック鼻の取り付け中</BIE_InstallUltratechBionicNose.jobString>
+
   <!-- EN: install ultratech stomach -->
-  <BIE_InstallUltratechStomach.label>TODO</BIE_InstallUltratechStomach.label>
+  <BIE_InstallUltratechStomach.label>ウルトラテック胃を取り付ける</BIE_InstallUltratechStomach.label>
   <!-- EN: Install a ultratech stomach. -->
-  <BIE_InstallUltratechStomach.description>TODO</BIE_InstallUltratechStomach.description>
+  <BIE_InstallUltratechStomach.description>ウルトラテック胃を移植します。</BIE_InstallUltratechStomach.description>
   <!-- EN: Installing ultratech stomach. -->
-  <BIE_InstallUltratechStomach.jobString>TODO</BIE_InstallUltratechStomach.jobString>
-  
+  <BIE_InstallUltratechStomach.jobString>ウルトラテック胃の取り付け中</BIE_InstallUltratechStomach.jobString>
+
   <!-- EN: install ultratech arm -->
-  <InstallBIE_UltratechBionicArm.label>TODO</InstallBIE_UltratechBionicArm.label>
+  <InstallBIE_UltratechBionicArm.label>ウルトラテック上肢を取り付ける</InstallBIE_UltratechBionicArm.label>
   <!-- EN: Install an ultratech arm. -->
-  <InstallBIE_UltratechBionicArm.description>TODO</InstallBIE_UltratechBionicArm.description>
+  <InstallBIE_UltratechBionicArm.description>ウルトラテックの上肢を移植し、卓越した操作性を持たせます。</InstallBIE_UltratechBionicArm.description>
   <!-- EN: Installing ultratech arm. -->
-  <InstallBIE_UltratechBionicArm.jobString>TODO</InstallBIE_UltratechBionicArm.jobString>
-  
+  <InstallBIE_UltratechBionicArm.jobString>ウルトラテック上肢の取り付け中</InstallBIE_UltratechBionicArm.jobString>
+
   <!-- EN: install ultratech eye -->
-  <InstallBIE_UltratechBionicEye.label>TODO</InstallBIE_UltratechBionicEye.label>
+  <InstallBIE_UltratechBionicEye.label>ウルトラテック眼を取り付ける</InstallBIE_UltratechBionicEye.label>
   <!-- EN: Install an ultratech eye. -->
-  <InstallBIE_UltratechBionicEye.description>TODO</InstallBIE_UltratechBionicEye.description>
+  <InstallBIE_UltratechBionicEye.description>ウルトラテック眼を移植し、視覚を強化します。</InstallBIE_UltratechBionicEye.description>
   <!-- EN: Installing ultratech eye. -->
-  <InstallBIE_UltratechBionicEye.jobString>TODO</InstallBIE_UltratechBionicEye.jobString>
-  
+  <InstallBIE_UltratechBionicEye.jobString>ウルトラテック眼の取り付け中</InstallBIE_UltratechBionicEye.jobString>
+
   <!-- EN: install ultratech leg -->
-  <InstallBIE_UltratechBionicLeg.label>TODO</InstallBIE_UltratechBionicLeg.label>
+  <InstallBIE_UltratechBionicLeg.label>ウルトラテック下肢を取り付ける</InstallBIE_UltratechBionicLeg.label>
   <!-- EN: Install an ultratech leg. -->
-  <InstallBIE_UltratechBionicLeg.description>TODO</InstallBIE_UltratechBionicLeg.description>
+  <InstallBIE_UltratechBionicLeg.description>ウルトラテックの下肢を移植し、高い機動性を与えます。</InstallBIE_UltratechBionicLeg.description>
   <!-- EN: Installing ultratech leg. -->
-  <InstallBIE_UltratechBionicLeg.jobString>TODO</InstallBIE_UltratechBionicLeg.jobString>
-  
+  <InstallBIE_UltratechBionicLeg.jobString>ウルトラテック下肢の取り付け中</InstallBIE_UltratechBionicLeg.jobString>
+
   <!-- EN: install ultratech skin -->
-  <InstallBIE_UltratechBionicSkin.label>TODO</InstallBIE_UltratechBionicSkin.label>
+  <InstallBIE_UltratechBionicSkin.label>ウルトラテック皮膚を取り付ける</InstallBIE_UltratechBionicSkin.label>
   <!-- EN: Install ultratech skin. -->
-  <InstallBIE_UltratechBionicSkin.description>TODO</InstallBIE_UltratechBionicSkin.description>
+  <InstallBIE_UltratechBionicSkin.description>ウルトラテック皮膚を移植します。</InstallBIE_UltratechBionicSkin.description>
   <!-- EN: Installing ultratech skin. -->
-  <InstallBIE_UltratechBionicSkin.jobString>TODO</InstallBIE_UltratechBionicSkin.jobString>
-  
+  <InstallBIE_UltratechBionicSkin.jobString>ウルトラテック皮膚の取り付け中</InstallBIE_UltratechBionicSkin.jobString>
+
   <!-- EN: install ultratech spine -->
-  <InstallBIE_UltratechBionicSpine.label>TODO</InstallBIE_UltratechBionicSpine.label>
+  <InstallBIE_UltratechBionicSpine.label>ウルトラテック脊椎を取り付ける</InstallBIE_UltratechBionicSpine.label>
   <!-- EN: Install an ultratech spine. -->
-  <InstallBIE_UltratechBionicSpine.description>TODO</InstallBIE_UltratechBionicSpine.description>
+  <InstallBIE_UltratechBionicSpine.description>ウルトラテック脊椎を移植し、身体能力を大幅に向上させます。</InstallBIE_UltratechBionicSpine.description>
   <!-- EN: Installing ultratech spine. -->
-  <InstallBIE_UltratechBionicSpine.jobString>TODO</InstallBIE_UltratechBionicSpine.jobString>
-  
+  <InstallBIE_UltratechBionicSpine.jobString>ウルトラテック脊椎の取り付け中</InstallBIE_UltratechBionicSpine.jobString>
+
   <!-- EN: remove ultratech skin -->
-  <RemoveBIE_UltratechBionicSkin.label>TODO</RemoveBIE_UltratechBionicSkin.label>
+  <RemoveBIE_UltratechBionicSkin.label>ウルトラテック皮膚を除去する</RemoveBIE_UltratechBionicSkin.label>
   <!-- EN: Remove ultratech skin. -->
-  <RemoveBIE_UltratechBionicSkin.description>TODO</RemoveBIE_UltratechBionicSkin.description>
+  <RemoveBIE_UltratechBionicSkin.description>移植されたウルトラテック皮膚を外科的に取り除きます。</RemoveBIE_UltratechBionicSkin.description>
   <!-- EN: Removing ultratech skin. -->
-  <RemoveBIE_UltratechBionicSkin.jobString>TODO</RemoveBIE_UltratechBionicSkin.jobString>
-  
+  <RemoveBIE_UltratechBionicSkin.jobString>ウルトラテック皮膚の除去中</RemoveBIE_UltratechBionicSkin.jobString>
+
 </LanguageData>

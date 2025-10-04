@@ -1,81 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: install archotech skin -->
-  <InstallSoSArchotechSkin.label>TODO</InstallSoSArchotechSkin.label>
+  <InstallSoSArchotechSkin.label>アルコテック皮膚を取り付ける</InstallSoSArchotechSkin.label>
   <!-- EN: Install archotech skin. -->
-  <InstallSoSArchotechSkin.description>TODO</InstallSoSArchotechSkin.description>
+  <InstallSoSArchotechSkin.description>究極の技術で作られたアルコテック皮膚を外科的に移植します。</InstallSoSArchotechSkin.description>
   <!-- EN: Installing archotech skin. -->
-  <InstallSoSArchotechSkin.jobString>TODO</InstallSoSArchotechSkin.jobString>
-  
+  <InstallSoSArchotechSkin.jobString>アルコテック皮膚の取り付け中</InstallSoSArchotechSkin.jobString>
+
   <!-- EN: remove archotech skin -->
-  <RemoveSoSArchotechSkin.label>TODO</RemoveSoSArchotechSkin.label>
+  <RemoveSoSArchotechSkin.label>アルコテック皮膚を除去する</RemoveSoSArchotechSkin.label>
   <!-- EN: Remove archotech skin. -->
-  <RemoveSoSArchotechSkin.description>TODO</RemoveSoSArchotechSkin.description>
+  <RemoveSoSArchotechSkin.description>移植されたアルコテック皮膚を外科的に除去します。</RemoveSoSArchotechSkin.description>
   <!-- EN: Removing archotech skin. -->
-  <RemoveSoSArchotechSkin.jobString>TODO</RemoveSoSArchotechSkin.jobString>
-  
+  <RemoveSoSArchotechSkin.jobString>アルコテック皮膚の除去中</RemoveSoSArchotechSkin.jobString>
+
   <!-- EN: install archotech ear -->
-  <SoSInstallArchotechEar.label>TODO</SoSInstallArchotechEar.label>
+  <SoSInstallArchotechEar.label>アルコテック耳を取り付ける</SoSInstallArchotechEar.label>
   <!-- EN: Install an archotech ear. -->
-  <SoSInstallArchotechEar.description>TODO</SoSInstallArchotechEar.description>
+  <SoSInstallArchotechEar.description>アルコテック技術の耳を移植し、聴力を大幅に向上させます。</SoSInstallArchotechEar.description>
   <!-- EN: Installing archotech ear. -->
-  <SoSInstallArchotechEar.jobString>TODO</SoSInstallArchotechEar.jobString>
-  
+  <SoSInstallArchotechEar.jobString>アルコテック耳の取り付け中</SoSInstallArchotechEar.jobString>
+
   <!-- EN: install archotech heart -->
-  <SoSInstallArchotechHeart.label>TODO</SoSInstallArchotechHeart.label>
+  <SoSInstallArchotechHeart.label>アルコテック心臓を取り付ける</SoSInstallArchotechHeart.label>
   <!-- EN: Install an archotech heart. -->
-  <SoSInstallArchotechHeart.description>TODO</SoSInstallArchotechHeart.description>
+  <SoSInstallArchotechHeart.description>アルコテック心臓を移植し、心機能を飛躍的に強化します。</SoSInstallArchotechHeart.description>
   <!-- EN: Installing archotech heart. -->
-  <SoSInstallArchotechHeart.jobString>TODO</SoSInstallArchotechHeart.jobString>
-  
+  <SoSInstallArchotechHeart.jobString>アルコテック心臓の取り付け中</SoSInstallArchotechHeart.jobString>
+
   <!-- EN: install archotech jaw -->
-  <SoSInstallArchotechJaw.label>TODO</SoSInstallArchotechJaw.label>
+  <SoSInstallArchotechJaw.label>アルコテック顎を取り付ける</SoSInstallArchotechJaw.label>
   <!-- EN: Install an archotech jaw. -->
-  <SoSInstallArchotechJaw.description>TODO</SoSInstallArchotechJaw.description>
+  <SoSInstallArchotechJaw.description>アルコテック顎を移植します。</SoSInstallArchotechJaw.description>
   <!-- EN: Installing archotech jaw. -->
-  <SoSInstallArchotechJaw.jobString>TODO</SoSInstallArchotechJaw.jobString>
-  
+  <SoSInstallArchotechJaw.jobString>アルコテック顎の取り付け中</SoSInstallArchotechJaw.jobString>
+
   <!-- EN: install archotech kidney -->
-  <SoSInstallArchotechKidney.label>TODO</SoSInstallArchotechKidney.label>
+  <SoSInstallArchotechKidney.label>アルコテック腎臓を取り付ける</SoSInstallArchotechKidney.label>
   <!-- EN: Install an archotech kidney. -->
-  <SoSInstallArchotechKidney.description>TODO</SoSInstallArchotechKidney.description>
+  <SoSInstallArchotechKidney.description>アルコテック腎臓を移植します。</SoSInstallArchotechKidney.description>
   <!-- EN: Installing archotech kidney. -->
-  <SoSInstallArchotechKidney.jobString>TODO</SoSInstallArchotechKidney.jobString>
-  
+  <SoSInstallArchotechKidney.jobString>アルコテック腎臓の取り付け中</SoSInstallArchotechKidney.jobString>
+
   <!-- EN: install archotech liver -->
-  <SoSInstallArchotechLiver.label>TODO</SoSInstallArchotechLiver.label>
+  <SoSInstallArchotechLiver.label>アルコテック肝臓を取り付ける</SoSInstallArchotechLiver.label>
   <!-- EN: Install an archotech liver. -->
-  <SoSInstallArchotechLiver.description>TODO</SoSInstallArchotechLiver.description>
+  <SoSInstallArchotechLiver.description>アルコテック肝臓を移植します。</SoSInstallArchotechLiver.description>
   <!-- EN: Installing archotech liver. -->
-  <SoSInstallArchotechLiver.jobString>TODO</SoSInstallArchotechLiver.jobString>
-  
+  <SoSInstallArchotechLiver.jobString>アルコテック肝臓の取り付け中</SoSInstallArchotechLiver.jobString>
+
   <!-- EN: install archotech lung -->
-  <SoSInstallArchotechLung.label>TODO</SoSInstallArchotechLung.label>
+  <SoSInstallArchotechLung.label>アルコテック肺を取り付ける</SoSInstallArchotechLung.label>
   <!-- EN: Install an archotech lung. -->
-  <SoSInstallArchotechLung.description>TODO</SoSInstallArchotechLung.description>
+  <SoSInstallArchotechLung.description>アルコテック肺を移植し、呼吸機能を改善します。</SoSInstallArchotechLung.description>
   <!-- EN: Installing archotech lung. -->
-  <SoSInstallArchotechLung.jobString>TODO</SoSInstallArchotechLung.jobString>
-  
+  <SoSInstallArchotechLung.jobString>アルコテック肺の取り付け中</SoSInstallArchotechLung.jobString>
+
   <!-- EN: install archotech nose -->
-  <SoSInstallArchotechNose.label>TODO</SoSInstallArchotechNose.label>
+  <SoSInstallArchotechNose.label>アルコテック鼻を取り付ける</SoSInstallArchotechNose.label>
   <!-- EN: Install an archotech nose. -->
-  <SoSInstallArchotechNose.description>TODO</SoSInstallArchotechNose.description>
+  <SoSInstallArchotechNose.description>アルコテック鼻を移植します。</SoSInstallArchotechNose.description>
   <!-- EN: Installing archotech nose. -->
-  <SoSInstallArchotechNose.jobString>TODO</SoSInstallArchotechNose.jobString>
-  
+  <SoSInstallArchotechNose.jobString>アルコテック鼻の取り付け中</SoSInstallArchotechNose.jobString>
+
   <!-- EN: install archotech spine -->
-  <SoSInstallArchotechSpine.label>TODO</SoSInstallArchotechSpine.label>
+  <SoSInstallArchotechSpine.label>アルコテック脊椎を取り付ける</SoSInstallArchotechSpine.label>
   <!-- EN: Install an archotech spine. -->
-  <SoSInstallArchotechSpine.description>TODO</SoSInstallArchotechSpine.description>
+  <SoSInstallArchotechSpine.description>アルコテック脊椎を移植し、運動機能を強化します。</SoSInstallArchotechSpine.description>
   <!-- EN: Installing archotech spine. -->
-  <SoSInstallArchotechSpine.jobString>TODO</SoSInstallArchotechSpine.jobString>
-  
+  <SoSInstallArchotechSpine.jobString>アルコテック脊椎の取り付け中</SoSInstallArchotechSpine.jobString>
+
   <!-- EN: install archotech stomach -->
-  <SoSInstallArchotechStomach.label>TODO</SoSInstallArchotechStomach.label>
+  <SoSInstallArchotechStomach.label>アルコテック胃を取り付ける</SoSInstallArchotechStomach.label>
   <!-- EN: Install an archotech stomach. -->
-  <SoSInstallArchotechStomach.description>TODO</SoSInstallArchotechStomach.description>
+  <SoSInstallArchotechStomach.description>アルコテック胃を移植します。</SoSInstallArchotechStomach.description>
   <!-- EN: Installing archotech stomach. -->
-  <SoSInstallArchotechStomach.jobString>TODO</SoSInstallArchotechStomach.jobString>
-  
+  <SoSInstallArchotechStomach.jobString>アルコテック胃の取り付け中</SoSInstallArchotechStomach.jobString>
+
 </LanguageData>

@@ -1,54 +1,54 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: archotech ear -->
-  <SoSArchotechEar.label>TODO</SoSArchotechEar.label>
+  <SoSArchotechEar.label>アルコテック耳</SoSArchotechEar.label>
   <!-- EN: An artifical ear built by an archotech. It can hear sounds as soft as a mosquito's heartbeat, but is selective enough to pick out a single word whispered in a crowded room. The outer portion can reshape itself at will and even generate various adornments. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechEar.description>TODO</SoSArchotechEar.description>
-  
+  <SoSArchotechEar.description>アルコテックが作り出した人工耳。蚊の鼓動ほどの弱い音まで聞き取れる一方、雑踏の中でささやかれた一語を選り分けることも可能。外郭は自在に形状を変え、装飾を生成することさえある。見た目は自然の肉に近く感じられるが、プラステールより損傷に強く、損傷しても時間とともに自己修復する。その内部機構は人類の理解を超えている。</SoSArchotechEar.description>
+
   <!-- EN: archotech heart -->
-  <SoSArchotechHeart.label>TODO</SoSArchotechHeart.label>
+  <SoSArchotechHeart.label>アルコテック心臓</SoSArchotechHeart.label>
   <!-- EN: An artifical heart built by an archotech. Although it never beats uncomfortably fast, it can sustain superhuman levels of athletic activity. It somehow modifies the bloodstream, causing blood to flow back into wounds. Users also report faster wound healing. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechHeart.description>TODO</SoSArchotechHeart.description>
-  
+  <SoSArchotechHeart.description>アルコテック製の人工心臓。鼓動は過度に速くならないが、超人的な運動能力を持続できる。血流を何らかの方法で改変し、血液が傷口に逆流するように見えることがあり、傷の治癒が早まると報告されている。外観は生体組織に似るがプラステールより損傷に強く、損傷があっても時間をかけて修復する。内部構造は人の理解を超えている。</SoSArchotechHeart.description>
+
   <!-- EN: archotech jaw -->
-  <SoSArchotechJaw.label>TODO</SoSArchotechJaw.label>
+  <SoSArchotechJaw.label>アルコテック顎</SoSArchotechJaw.label>
   <!-- EN: An artifical jaw built by an archotech. It can reshape itself at will to match a viewer's sense of beauty, and the voice it projects is simply sublime. This not only improves the user's appearance, but increases their social impact substantially. The muscles are strong enough to crush a femur, yet delicate enough to nibble a lover's neck. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechJaw.description>TODO</SoSArchotechJaw.description>
-  
+  <SoSArchotechJaw.description>アルコテック製の人工顎。視覚上の美的好みに合わせて自在に形状を変え、発する声は格別に美しい。外見の向上により社会的影響力も大きく増す。筋力は大腿骨を砕くほど強靭でありながら、恋人の首筋をそっと摘むような繊細さも兼ね備える。生体のように見えるがプラステールより損傷に強く、損傷しても自己修復する。その内部構造は人智を超える。</SoSArchotechJaw.description>
+
   <!-- EN: archotech kidney -->
-  <SoSArchotechKidney.label>TODO</SoSArchotechKidney.label>
+  <SoSArchotechKidney.label>アルコテック腎臓</SoSArchotechKidney.label>
   <!-- EN: An artifical kidney built by an archotech. It is capable of filtering out toxins, radioisotopes, and pathogens of all kinds. Users gain immunity more rapidly and can endure toxic exposure for longer. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechKidney.description>TODO</SoSArchotechKidney.description>
-  
+  <SoSArchotechKidney.description>アルコテック製の人工腎臓。毒素や放射性同位体、あらゆる病原体をろ過する能力を持ち、免疫獲得が迅速になり、有毒環境への耐性が向上する。見た目は生体に近いがプラステールより損傷に強く、損傷があっても時間をかけて自己修復する。その内部機構は不明である。</SoSArchotechKidney.description>
+
   <!-- EN: archotech liver -->
-  <SoSArchotechLiver.label>TODO</SoSArchotechLiver.label>
+  <SoSArchotechLiver.label>アルコテック肝臓</SoSArchotechLiver.label>
   <!-- EN: An artifical liver built by an archotech. It is capable of breaking down any chemical toxin, and even neutralizing radioactive isotopes through exotic physics. In conjunction with archotech kidneys, it provides complete immunity to toxic exposure. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechLiver.description>TODO</SoSArchotechLiver.description>
-  
+  <SoSArchotechLiver.description>アルコテック製の人工肝臓。あらゆる化学毒素を分解し、奇妙な物理現象で放射性同位体を中和する能力を持つ。アルコテック腎臓と組み合わせることで毒性曝露に対する完全な免疫を提供する。見た目は生体に似るがプラステールより損傷に強く、損傷があっても自己修復する。その内部は謎に包まれている。</SoSArchotechLiver.description>
+
   <!-- EN: archotech lung -->
-  <SoSArchotechLung.label>TODO</SoSArchotechLung.label>
+  <SoSArchotechLung.label>アルコテック肺</SoSArchotechLung.label>
   <!-- EN: An artifical lung built by an archotech. It can extract trace amounts of oxygen from planetary atmospheres that would kill a baseline human, and is immune to caustic gases. Even underwater or in a vacuum, a vanometrically-powered scrubber recycles carbon dioxide into oxygen. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechLung.description>TODO</SoSArchotechLung.description>
-  
+  <SoSArchotechLung.description>アルコテック製の人工肺。通常の人間なら致命的な大気中から微量の酸素を抽出でき、腐食性ガスにも耐性がある。水中や真空でも、バノメトリック駆動のスクラバーが二酸化炭素を酸素に再生する。見た目は生体に似るがプラステールより損傷に強く、損傷しても自己修復する。その内部は謎である。</SoSArchotechLung.description>
+
   <!-- EN: archotech nose -->
-  <SoSArchotechNose.label>TODO</SoSArchotechNose.label>
+  <SoSArchotechNose.label>アルコテック鼻</SoSArchotechNose.label>
   <!-- EN: An artifical nose built by an archotech. The outer portion can reshape itself at will to match a viewer's sense of beauty, improving the user's appearance. Its sensory apparatus is more sensitive than a bloodhound's, allowing pheromone-based communication with animals - and hence improving taming and training chances. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechNose.description>TODO</SoSArchotechNose.description>
-  
+  <SoSArchotechNose.description>アルコテック製の人工鼻。外郭が自在に形を変え、美的評価に合わせて外見を向上させる。感覚装置は猟犬より高感度で、動物とのフェロモンベースの通信を可能にし、調教や馴致の成功率を高める。見た目は生体に似るがプラステールより損傷に強く、損傷があっても時間とともに修復する。その内部は謎に包まれている。</SoSArchotechNose.description>
+
   <!-- EN: archotech skin -->
-  <SoSArchotechSkin.label>TODO</SoSArchotechSkin.label>
+  <SoSArchotechSkin.label>アルコテック皮膚</SoSArchotechSkin.label>
   <!-- EN: This small patch of artificial skin quickly spreads to cover the user's body. Archotech skin resists pressure changes and offers complete immunity to vaccum depressurization, as well as providing significant armor and temperature insulation. In conjunction with archotech lungs, it offers the ability to survive vacuum indefinitely. It looks and feels like natural flesh, but is harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechSkin.description>TODO</SoSArchotechSkin.description>
-  
+  <SoSArchotechSkin.description>小さな人工皮膚のパッチが瞬く間に使用者の体表を覆う。アルコテック皮膚は気圧変化に耐え、真空による減圧にも完全に耐性を持ち、優れた防護力と保温性を提供する。アルコテック肺と組み合わせれば真空下での無期限生存が可能となる。見た目は生体に似るがプラステールより損傷に強く、損傷があっても自己修復する。その内部は理解を超える。</SoSArchotechSkin.description>
+
   <!-- EN: archotech spine -->
-  <SoSArchotechSpine.label>TODO</SoSArchotechSpine.label>
+  <SoSArchotechSpine.label>アルコテック脊椎</SoSArchotechSpine.label>
   <!-- EN: An artifical spine built by an archotech. Capable of bending in ways that would make a cat jealous, yet rigid enough to carry a small car if necessary. The user's drastically increased core strength improves their manipulation ability. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechSpine.description>TODO</SoSArchotechSpine.description>
-  
+  <SoSArchotechSpine.description>アルコテック製の人工脊椎。猫も嫉妬するような可動性を持ちつつ、小型車を支えられるほどの剛性も備える。使用者の体幹筋力が大幅に増加し、操作能力が向上する。見た目は生体に似るがプラステールより損傷に強く、損傷しても自己修復する。その内部は謎めいている。</SoSArchotechSpine.description>
+
   <!-- EN: archotech stomach -->
-  <SoSArchotechStomach.label>TODO</SoSArchotechStomach.label>
+  <SoSArchotechStomach.label>アルコテック胃</SoSArchotechStomach.label>
   <!-- EN: An artifical stomach built by an archotech. It vanometrically provides almost all the power a body needs, and a module integrated with the lungs absorbs atoms from the air. The user rarely needs to eat and is immune to food poisoning. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <SoSArchotechStomach.description>TODO</SoSArchotechStomach.description>
-  
+  <SoSArchotechStomach.description>アルコテック製の人工胃。体が必要とするほとんどのエネルギーをヴァノメトリックに供給し、肺と統合されたモジュールが空気中の原子を吸収する。使用者はほとんど食事を必要とせず、食中毒にも免疫を持つ。見た目は生体に似るがプラステールより損傷に強く、損傷しても自己修復する。その内部は謎である。</SoSArchotechStomach.description>
+
 </LanguageData>

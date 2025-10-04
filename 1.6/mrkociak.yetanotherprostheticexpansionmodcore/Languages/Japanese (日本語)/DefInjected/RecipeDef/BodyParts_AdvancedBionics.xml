@@ -1,228 +1,228 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: install advanced bionic ear -->
-  <BIE_InstallAdvancedBionicEar.label>TODO</BIE_InstallAdvancedBionicEar.label>
+  <BIE_InstallAdvancedBionicEar.label>先進人工耳を取り付ける</BIE_InstallAdvancedBionicEar.label>
   <!-- EN: Install an advanced bionic ear. -->
-  <BIE_InstallAdvancedBionicEar.description>TODO</BIE_InstallAdvancedBionicEar.description>
+  <BIE_InstallAdvancedBionicEar.description>高性能の先進人工耳を外科的に取り付け、聴力を強化します。</BIE_InstallAdvancedBionicEar.description>
   <!-- EN: Installing advanced bionic ear. -->
-  <BIE_InstallAdvancedBionicEar.jobString>TODO</BIE_InstallAdvancedBionicEar.jobString>
-  
+  <BIE_InstallAdvancedBionicEar.jobString>先進人工耳の取り付け中</BIE_InstallAdvancedBionicEar.jobString>
+
   <!-- EN: install advanced bionic finger -->
-  <BIE_InstallAdvancedBionicFinger.label>TODO</BIE_InstallAdvancedBionicFinger.label>
+  <BIE_InstallAdvancedBionicFinger.label>先進人工指を取り付ける</BIE_InstallAdvancedBionicFinger.label>
   <!-- EN: Install an advanced bionic finger. -->
-  <BIE_InstallAdvancedBionicFinger.description>TODO</BIE_InstallAdvancedBionicFinger.description>
+  <BIE_InstallAdvancedBionicFinger.description>高機能の先進人工指を外科的に取り付けます。</BIE_InstallAdvancedBionicFinger.description>
   <!-- EN: Installing advanced bionic finger. -->
-  <BIE_InstallAdvancedBionicFinger.jobString>TODO</BIE_InstallAdvancedBionicFinger.jobString>
-  
+  <BIE_InstallAdvancedBionicFinger.jobString>先進人工指の取り付け中</BIE_InstallAdvancedBionicFinger.jobString>
+
   <!-- EN: install advanced bionic foot -->
-  <BIE_InstallAdvancedBionicFoot.label>TODO</BIE_InstallAdvancedBionicFoot.label>
+  <BIE_InstallAdvancedBionicFoot.label>先進人工足を取り付ける</BIE_InstallAdvancedBionicFoot.label>
   <!-- EN: Install an advanced bionic foot. -->
-  <BIE_InstallAdvancedBionicFoot.description>TODO</BIE_InstallAdvancedBionicFoot.description>
+  <BIE_InstallAdvancedBionicFoot.description>高性能の先進人工足を外科的に取り付けます。</BIE_InstallAdvancedBionicFoot.description>
   <!-- EN: Installing advanced bionic foot. -->
-  <BIE_InstallAdvancedBionicFoot.jobString>TODO</BIE_InstallAdvancedBionicFoot.jobString>
-  
+  <BIE_InstallAdvancedBionicFoot.jobString>先進人工足の取り付け中</BIE_InstallAdvancedBionicFoot.jobString>
+
   <!-- EN: install advanced bionic hand -->
-  <BIE_InstallAdvancedBionicHand.label>TODO</BIE_InstallAdvancedBionicHand.label>
+  <BIE_InstallAdvancedBionicHand.label>先進人工手を取り付ける</BIE_InstallAdvancedBionicHand.label>
   <!-- EN: Install an advanced bionic hand. -->
-  <BIE_InstallAdvancedBionicHand.description>TODO</BIE_InstallAdvancedBionicHand.description>
+  <BIE_InstallAdvancedBionicHand.description>高機能の先進人工手を外科的に取り付けます。</BIE_InstallAdvancedBionicHand.description>
   <!-- EN: Installing advanced bionic hand. -->
-  <BIE_InstallAdvancedBionicHand.jobString>TODO</BIE_InstallAdvancedBionicHand.jobString>
-  
+  <BIE_InstallAdvancedBionicHand.jobString>先進人工手の取り付け中</BIE_InstallAdvancedBionicHand.jobString>
+
   <!-- EN: install advanced bionic heart -->
-  <BIE_InstallAdvancedBionicHeart.label>TODO</BIE_InstallAdvancedBionicHeart.label>
+  <BIE_InstallAdvancedBionicHeart.label>先進人工心臓を取り付ける</BIE_InstallAdvancedBionicHeart.label>
   <!-- EN: Install an advanced bionic heart. -->
-  <BIE_InstallAdvancedBionicHeart.description>TODO</BIE_InstallAdvancedBionicHeart.description>
+  <BIE_InstallAdvancedBionicHeart.description>高度な補助機能を持つ先進人工心臓を取り付けます。</BIE_InstallAdvancedBionicHeart.description>
   <!-- EN: Installing advanced bionic heart. -->
-  <BIE_InstallAdvancedBionicHeart.jobString>TODO</BIE_InstallAdvancedBionicHeart.jobString>
-  
+  <BIE_InstallAdvancedBionicHeart.jobString>先進人工心臓の取り付け中</BIE_InstallAdvancedBionicHeart.jobString>
+
   <!-- EN: install advanced bionic jaw -->
-  <BIE_InstallAdvancedBionicJaw.label>TODO</BIE_InstallAdvancedBionicJaw.label>
+  <BIE_InstallAdvancedBionicJaw.label>先進人工顎を取り付ける</BIE_InstallAdvancedBionicJaw.label>
   <!-- EN: Install an advanced bionic jaw. -->
-  <BIE_InstallAdvancedBionicJaw.description>TODO</BIE_InstallAdvancedBionicJaw.description>
+  <BIE_InstallAdvancedBionicJaw.description>先進人工顎を外科的に取り付けます。</BIE_InstallAdvancedBionicJaw.description>
   <!-- EN: Installing advanced bionic jaw. -->
-  <BIE_InstallAdvancedBionicJaw.jobString>TODO</BIE_InstallAdvancedBionicJaw.jobString>
-  
+  <BIE_InstallAdvancedBionicJaw.jobString>先進人工顎の取り付け中</BIE_InstallAdvancedBionicJaw.jobString>
+
   <!-- EN: install advanced bionic kidney -->
-  <BIE_InstallAdvancedBionicKidney.label>TODO</BIE_InstallAdvancedBionicKidney.label>
+  <BIE_InstallAdvancedBionicKidney.label>先進人工腎臓を取り付ける</BIE_InstallAdvancedBionicKidney.label>
   <!-- EN: Install an advanced bionic kidney. -->
-  <BIE_InstallAdvancedBionicKidney.description>TODO</BIE_InstallAdvancedBionicKidney.description>
+  <BIE_InstallAdvancedBionicKidney.description>高性能な先進人工腎臓を取り付けます。</BIE_InstallAdvancedBionicKidney.description>
   <!-- EN: Installing advanced bionic kidney. -->
-  <BIE_InstallAdvancedBionicKidney.jobString>TODO</BIE_InstallAdvancedBionicKidney.jobString>
-  
+  <BIE_InstallAdvancedBionicKidney.jobString>先進人工腎臓の取り付け中</BIE_InstallAdvancedBionicKidney.jobString>
+
   <!-- EN: install advanced bionic liver -->
-  <BIE_InstallAdvancedBionicLiver.label>TODO</BIE_InstallAdvancedBionicLiver.label>
+  <BIE_InstallAdvancedBionicLiver.label>先進人工肝臓を取り付ける</BIE_InstallAdvancedBionicLiver.label>
   <!-- EN: Install an advanced bionic liver. -->
-  <BIE_InstallAdvancedBionicLiver.description>TODO</BIE_InstallAdvancedBionicLiver.description>
+  <BIE_InstallAdvancedBionicLiver.description>高性能の先進人工肝臓を取り付けます。</BIE_InstallAdvancedBionicLiver.description>
   <!-- EN: Installing advanced bionic liver. -->
-  <BIE_InstallAdvancedBionicLiver.jobString>TODO</BIE_InstallAdvancedBionicLiver.jobString>
-  
+  <BIE_InstallAdvancedBionicLiver.jobString>先進人工肝臓の取り付け中</BIE_InstallAdvancedBionicLiver.jobString>
+
   <!-- EN: install advanced bionic lung -->
-  <BIE_InstallAdvancedBionicLung.label>TODO</BIE_InstallAdvancedBionicLung.label>
+  <BIE_InstallAdvancedBionicLung.label>先進人工肺を取り付ける</BIE_InstallAdvancedBionicLung.label>
   <!-- EN: Install an advanced bionic lung. -->
-  <BIE_InstallAdvancedBionicLung.description>TODO</BIE_InstallAdvancedBionicLung.description>
+  <BIE_InstallAdvancedBionicLung.description>高性能の先進人工肺を取り付けます。</BIE_InstallAdvancedBionicLung.description>
   <!-- EN: Installing advanced bionic lung. -->
-  <BIE_InstallAdvancedBionicLung.jobString>TODO</BIE_InstallAdvancedBionicLung.jobString>
-  
+  <BIE_InstallAdvancedBionicLung.jobString>先進人工肺の取り付け中</BIE_InstallAdvancedBionicLung.jobString>
+
   <!-- EN: install advanced bionic nose -->
-  <BIE_InstallAdvancedBionicNose.label>TODO</BIE_InstallAdvancedBionicNose.label>
+  <BIE_InstallAdvancedBionicNose.label>先進人工鼻を取り付ける</BIE_InstallAdvancedBionicNose.label>
   <!-- EN: Install an advanced bionic nose. -->
-  <BIE_InstallAdvancedBionicNose.description>TODO</BIE_InstallAdvancedBionicNose.description>
+  <BIE_InstallAdvancedBionicNose.description>先進人工鼻を取り付け、嗅覚や呼吸機能を補強します。</BIE_InstallAdvancedBionicNose.description>
   <!-- EN: Installing advanced bionic nose. -->
-  <BIE_InstallAdvancedBionicNose.jobString>TODO</BIE_InstallAdvancedBionicNose.jobString>
-  
+  <BIE_InstallAdvancedBionicNose.jobString>先進人工鼻の取り付け中</BIE_InstallAdvancedBionicNose.jobString>
+
   <!-- EN: install advanced bionic stomach -->
-  <BIE_InstallAdvancedBionicStomach.label>TODO</BIE_InstallAdvancedBionicStomach.label>
+  <BIE_InstallAdvancedBionicStomach.label>先進人工胃を取り付ける</BIE_InstallAdvancedBionicStomach.label>
   <!-- EN: Install a advanced bionic stomach. -->
-  <BIE_InstallAdvancedBionicStomach.description>TODO</BIE_InstallAdvancedBionicStomach.description>
+  <BIE_InstallAdvancedBionicStomach.description>先進人工胃を取り付け、消化機能を補助します。</BIE_InstallAdvancedBionicStomach.description>
   <!-- EN: Installing advanced bionic stomach. -->
-  <BIE_InstallAdvancedBionicStomach.jobString>TODO</BIE_InstallAdvancedBionicStomach.jobString>
-  
+  <BIE_InstallAdvancedBionicStomach.jobString>先進人工胃の取り付け中</BIE_InstallAdvancedBionicStomach.jobString>
+
   <!-- EN: install advanced bionic toe -->
-  <BIE_InstallAdvancedBionicToe.label>TODO</BIE_InstallAdvancedBionicToe.label>
+  <BIE_InstallAdvancedBionicToe.label>先進人工趾を取り付ける</BIE_InstallAdvancedBionicToe.label>
   <!-- EN: Install an advanced bionic toe. -->
-  <BIE_InstallAdvancedBionicToe.description>TODO</BIE_InstallAdvancedBionicToe.description>
+  <BIE_InstallAdvancedBionicToe.description>先進人工趾を外科的に取り付けます。</BIE_InstallAdvancedBionicToe.description>
   <!-- EN: Installing advanced bionic toe. -->
-  <BIE_InstallAdvancedBionicToe.jobString>TODO</BIE_InstallAdvancedBionicToe.jobString>
-  
+  <BIE_InstallAdvancedBionicToe.jobString>先進人工趾の取り付け中</BIE_InstallAdvancedBionicToe.jobString>
+
   <!-- EN: make advanced bionic arm -->
-  <BIE_MakeAdvancedBionicArm.label>TODO</BIE_MakeAdvancedBionicArm.label>
+  <BIE_MakeAdvancedBionicArm.label>先進人工上肢を作る</BIE_MakeAdvancedBionicArm.label>
   <!-- EN: Make an advanced bionic arm. -->
-  <BIE_MakeAdvancedBionicArm.description>TODO</BIE_MakeAdvancedBionicArm.description>
+  <BIE_MakeAdvancedBionicArm.description>先進的な機能を備えた先進人工上肢を製作します。</BIE_MakeAdvancedBionicArm.description>
   <!-- EN: Making advanced bionic arm. -->
-  <BIE_MakeAdvancedBionicArm.jobString>TODO</BIE_MakeAdvancedBionicArm.jobString>
-  
+  <BIE_MakeAdvancedBionicArm.jobString>先進人工上肢の製作中</BIE_MakeAdvancedBionicArm.jobString>
+
   <!-- EN: make advanced bionic ear -->
-  <BIE_MakeAdvancedBionicEar.label>TODO</BIE_MakeAdvancedBionicEar.label>
+  <BIE_MakeAdvancedBionicEar.label>先進人工耳を作る</BIE_MakeAdvancedBionicEar.label>
   <!-- EN: Make an advanced bionic ear. -->
-  <BIE_MakeAdvancedBionicEar.description>TODO</BIE_MakeAdvancedBionicEar.description>
+  <BIE_MakeAdvancedBionicEar.description>先進的な機能を持つ先進人工耳を製作します。</BIE_MakeAdvancedBionicEar.description>
   <!-- EN: Making advanced bionic ear. -->
-  <BIE_MakeAdvancedBionicEar.jobString>TODO</BIE_MakeAdvancedBionicEar.jobString>
-  
+  <BIE_MakeAdvancedBionicEar.jobString>先進人工耳の製作中</BIE_MakeAdvancedBionicEar.jobString>
+
   <!-- EN: make advanced bionic eye -->
-  <BIE_MakeAdvancedBionicEye.label>TODO</BIE_MakeAdvancedBionicEye.label>
+  <BIE_MakeAdvancedBionicEye.label>先進人工眼を作る</BIE_MakeAdvancedBionicEye.label>
   <!-- EN: Make an advanced bionic eye. -->
-  <BIE_MakeAdvancedBionicEye.description>TODO</BIE_MakeAdvancedBionicEye.description>
+  <BIE_MakeAdvancedBionicEye.description>高性能の先進人工眼を製作します。</BIE_MakeAdvancedBionicEye.description>
   <!-- EN: Making advanced bionic eye. -->
-  <BIE_MakeAdvancedBionicEye.jobString>TODO</BIE_MakeAdvancedBionicEye.jobString>
-  
+  <BIE_MakeAdvancedBionicEye.jobString>先進人工眼の製作中</BIE_MakeAdvancedBionicEye.jobString>
+
   <!-- EN: make advanced bionic finger -->
-  <BIE_MakeAdvancedBionicFinger.label>TODO</BIE_MakeAdvancedBionicFinger.label>
+  <BIE_MakeAdvancedBionicFinger.label>先進人工指を作る</BIE_MakeAdvancedBionicFinger.label>
   <!-- EN: Make an advanced bionic finger. -->
-  <BIE_MakeAdvancedBionicFinger.description>TODO</BIE_MakeAdvancedBionicFinger.description>
+  <BIE_MakeAdvancedBionicFinger.description>高機能の先進人工指を製作します。</BIE_MakeAdvancedBionicFinger.description>
   <!-- EN: Making advanced bionic finger. -->
-  <BIE_MakeAdvancedBionicFinger.jobString>TODO</BIE_MakeAdvancedBionicFinger.jobString>
-  
+  <BIE_MakeAdvancedBionicFinger.jobString>先進人工指の製作中</BIE_MakeAdvancedBionicFinger.jobString>
+
   <!-- EN: make advanced bionic foot -->
-  <BIE_MakeAdvancedBionicFoot.label>TODO</BIE_MakeAdvancedBionicFoot.label>
+  <BIE_MakeAdvancedBionicFoot.label>先進人工足を作る</BIE_MakeAdvancedBionicFoot.label>
   <!-- EN: Make an advanced bionic foot. -->
-  <BIE_MakeAdvancedBionicFoot.description>TODO</BIE_MakeAdvancedBionicFoot.description>
+  <BIE_MakeAdvancedBionicFoot.description>高性能の先進人工足を製作します。</BIE_MakeAdvancedBionicFoot.description>
   <!-- EN: Making advanced bionic foot. -->
-  <BIE_MakeAdvancedBionicFoot.jobString>TODO</BIE_MakeAdvancedBionicFoot.jobString>
-  
+  <BIE_MakeAdvancedBionicFoot.jobString>先進人工足の製作中</BIE_MakeAdvancedBionicFoot.jobString>
+
   <!-- EN: make advanced bionic hand -->
-  <BIE_MakeAdvancedBionicHand.label>TODO</BIE_MakeAdvancedBionicHand.label>
+  <BIE_MakeAdvancedBionicHand.label>先進人工手を作る</BIE_MakeAdvancedBionicHand.label>
   <!-- EN: Make an advanced bionic hand. -->
-  <BIE_MakeAdvancedBionicHand.description>TODO</BIE_MakeAdvancedBionicHand.description>
+  <BIE_MakeAdvancedBionicHand.description>高機能の先進人工手を製作します。</BIE_MakeAdvancedBionicHand.description>
   <!-- EN: Making advanced bionic hand. -->
-  <BIE_MakeAdvancedBionicHand.jobString>TODO</BIE_MakeAdvancedBionicHand.jobString>
-  
+  <BIE_MakeAdvancedBionicHand.jobString>先進人工手の製作中</BIE_MakeAdvancedBionicHand.jobString>
+
   <!-- EN: make advanced bionic heart -->
-  <BIE_MakeAdvancedBionicHeart.label>TODO</BIE_MakeAdvancedBionicHeart.label>
+  <BIE_MakeAdvancedBionicHeart.label>先進人工心臓を作る</BIE_MakeAdvancedBionicHeart.label>
   <!-- EN: Make an advanced bionic heart. -->
-  <BIE_MakeAdvancedBionicHeart.description>TODO</BIE_MakeAdvancedBionicHeart.description>
+  <BIE_MakeAdvancedBionicHeart.description>高度な補助機能を持つ先進人工心臓を製作します。</BIE_MakeAdvancedBionicHeart.description>
   <!-- EN: Making advanced bionic heart. -->
-  <BIE_MakeAdvancedBionicHeart.jobString>TODO</BIE_MakeAdvancedBionicHeart.jobString>
-  
+  <BIE_MakeAdvancedBionicHeart.jobString>先進人工心臓の製作中</BIE_MakeAdvancedBionicHeart.jobString>
+
   <!-- EN: make advanced bionic jaw -->
-  <BIE_MakeAdvancedBionicJaw.label>TODO</BIE_MakeAdvancedBionicJaw.label>
+  <BIE_MakeAdvancedBionicJaw.label>先進人工顎を作る</BIE_MakeAdvancedBionicJaw.label>
   <!-- EN: Make an advanced bionic jaw. -->
-  <BIE_MakeAdvancedBionicJaw.description>TODO</BIE_MakeAdvancedBionicJaw.description>
+  <BIE_MakeAdvancedBionicJaw.description>先進人工顎を製作します。</BIE_MakeAdvancedBionicJaw.description>
   <!-- EN: Making advanced bionic jaw. -->
-  <BIE_MakeAdvancedBionicJaw.jobString>TODO</BIE_MakeAdvancedBionicJaw.jobString>
-  
+  <BIE_MakeAdvancedBionicJaw.jobString>先進人工顎の製作中</BIE_MakeAdvancedBionicJaw.jobString>
+
   <!-- EN: make advanced bionic kidney -->
-  <BIE_MakeAdvancedBionicKidney.label>TODO</BIE_MakeAdvancedBionicKidney.label>
+  <BIE_MakeAdvancedBionicKidney.label>先進人工腎臓を作る</BIE_MakeAdvancedBionicKidney.label>
   <!-- EN: Make an advanced bionic kidney. -->
-  <BIE_MakeAdvancedBionicKidney.description>TODO</BIE_MakeAdvancedBionicKidney.description>
+  <BIE_MakeAdvancedBionicKidney.description>高性能の先進人工腎臓を製作します。</BIE_MakeAdvancedBionicKidney.description>
   <!-- EN: Making advanced bionic kidney. -->
-  <BIE_MakeAdvancedBionicKidney.jobString>TODO</BIE_MakeAdvancedBionicKidney.jobString>
-  
+  <BIE_MakeAdvancedBionicKidney.jobString>先進人工腎臓の製作中</BIE_MakeAdvancedBionicKidney.jobString>
+
   <!-- EN: make advanced bionic leg -->
-  <BIE_MakeAdvancedBionicLeg.label>TODO</BIE_MakeAdvancedBionicLeg.label>
+  <BIE_MakeAdvancedBionicLeg.label>先進人工下肢を作る</BIE_MakeAdvancedBionicLeg.label>
   <!-- EN: Make an advanced bionic leg. -->
-  <BIE_MakeAdvancedBionicLeg.description>TODO</BIE_MakeAdvancedBionicLeg.description>
+  <BIE_MakeAdvancedBionicLeg.description>高機能の先進人工下肢を製作します。</BIE_MakeAdvancedBionicLeg.description>
   <!-- EN: Making advanced bionic leg. -->
-  <BIE_MakeAdvancedBionicLeg.jobString>TODO</BIE_MakeAdvancedBionicLeg.jobString>
-  
+  <BIE_MakeAdvancedBionicLeg.jobString>先進人工下肢の製作中</BIE_MakeAdvancedBionicLeg.jobString>
+
   <!-- EN: make advanced bionic liver -->
-  <BIE_MakeAdvancedBionicLiver.label>TODO</BIE_MakeAdvancedBionicLiver.label>
+  <BIE_MakeAdvancedBionicLiver.label>先進人工肝臓を作る</BIE_MakeAdvancedBionicLiver.label>
   <!-- EN: Make an advanced bionic liver. -->
-  <BIE_MakeAdvancedBionicLiver.description>TODO</BIE_MakeAdvancedBionicLiver.description>
+  <BIE_MakeAdvancedBionicLiver.description>先進人工肝臓を製作します。</BIE_MakeAdvancedBionicLiver.description>
   <!-- EN: Making advanced bionic liver. -->
-  <BIE_MakeAdvancedBionicLiver.jobString>TODO</BIE_MakeAdvancedBionicLiver.jobString>
-  
+  <BIE_MakeAdvancedBionicLiver.jobString>先進人工肝臓の製作中</BIE_MakeAdvancedBionicLiver.jobString>
+
   <!-- EN: make advanced bionic lung -->
-  <BIE_MakeAdvancedBionicLung.label>TODO</BIE_MakeAdvancedBionicLung.label>
+  <BIE_MakeAdvancedBionicLung.label>先進人工肺を作る</BIE_MakeAdvancedBionicLung.label>
   <!-- EN: Make an advanced bionic lung. -->
-  <BIE_MakeAdvancedBionicLung.description>TODO</BIE_MakeAdvancedBionicLung.description>
+  <BIE_MakeAdvancedBionicLung.description>先進人工肺を製作します。</BIE_MakeAdvancedBionicLung.description>
   <!-- EN: Making advanced bionic lung. -->
-  <BIE_MakeAdvancedBionicLung.jobString>TODO</BIE_MakeAdvancedBionicLung.jobString>
-  
+  <BIE_MakeAdvancedBionicLung.jobString>先進人工肺の製作中</BIE_MakeAdvancedBionicLung.jobString>
+
   <!-- EN: make advanced bionic nose -->
-  <BIE_MakeAdvancedBionicNose.label>TODO</BIE_MakeAdvancedBionicNose.label>
+  <BIE_MakeAdvancedBionicNose.label>先進人工鼻を作る</BIE_MakeAdvancedBionicNose.label>
   <!-- EN: Make an advanced bionic nose. -->
-  <BIE_MakeAdvancedBionicNose.description>TODO</BIE_MakeAdvancedBionicNose.description>
+  <BIE_MakeAdvancedBionicNose.description>先進人工鼻を製作します。</BIE_MakeAdvancedBionicNose.description>
   <!-- EN: Making advanced bionic nose. -->
-  <BIE_MakeAdvancedBionicNose.jobString>TODO</BIE_MakeAdvancedBionicNose.jobString>
-  
+  <BIE_MakeAdvancedBionicNose.jobString>先進人工鼻の製作中</BIE_MakeAdvancedBionicNose.jobString>
+
   <!-- EN: make advanced bionic spine -->
-  <BIE_MakeAdvancedBionicSpine.label>TODO</BIE_MakeAdvancedBionicSpine.label>
+  <BIE_MakeAdvancedBionicSpine.label>先進人工脊椎を作る</BIE_MakeAdvancedBionicSpine.label>
   <!-- EN: Make an advanced bionic spine. -->
-  <BIE_MakeAdvancedBionicSpine.description>TODO</BIE_MakeAdvancedBionicSpine.description>
+  <BIE_MakeAdvancedBionicSpine.description>先進人工脊椎を製作します。</BIE_MakeAdvancedBionicSpine.description>
   <!-- EN: Making advanced bionic spine. -->
-  <BIE_MakeAdvancedBionicSpine.jobString>TODO</BIE_MakeAdvancedBionicSpine.jobString>
-  
+  <BIE_MakeAdvancedBionicSpine.jobString>先進人工脊椎の製作中</BIE_MakeAdvancedBionicSpine.jobString>
+
   <!-- EN: make advanced bionic stomach -->
-  <BIE_MakeAdvancedBionicStomach.label>TODO</BIE_MakeAdvancedBionicStomach.label>
+  <BIE_MakeAdvancedBionicStomach.label>先進人工胃を作る</BIE_MakeAdvancedBionicStomach.label>
   <!-- EN: Make an advanced bionic stomach. -->
-  <BIE_MakeAdvancedBionicStomach.description>TODO</BIE_MakeAdvancedBionicStomach.description>
+  <BIE_MakeAdvancedBionicStomach.description>先進人工胃を製作します。</BIE_MakeAdvancedBionicStomach.description>
   <!-- EN: Making advanced bionic stomach. -->
-  <BIE_MakeAdvancedBionicStomach.jobString>TODO</BIE_MakeAdvancedBionicStomach.jobString>
-  
+  <BIE_MakeAdvancedBionicStomach.jobString>先進人工胃の製作中</BIE_MakeAdvancedBionicStomach.jobString>
+
   <!-- EN: make advanced bionic toe -->
-  <BIE_MakeAdvancedBionicToe.label>TODO</BIE_MakeAdvancedBionicToe.label>
+  <BIE_MakeAdvancedBionicToe.label>先進人工趾を作る</BIE_MakeAdvancedBionicToe.label>
   <!-- EN: Make an advanced bionic toe. -->
-  <BIE_MakeAdvancedBionicToe.description>TODO</BIE_MakeAdvancedBionicToe.description>
+  <BIE_MakeAdvancedBionicToe.description>先進人工趾を製作します。</BIE_MakeAdvancedBionicToe.description>
   <!-- EN: Making advanced bionic toe. -->
-  <BIE_MakeAdvancedBionicToe.jobString>TODO</BIE_MakeAdvancedBionicToe.jobString>
-  
+  <BIE_MakeAdvancedBionicToe.jobString>先進人工趾の製作中</BIE_MakeAdvancedBionicToe.jobString>
+
   <!-- EN: install advanced bionic arm -->
-  <InstallBIE_AdvancedBionicArm.label>TODO</InstallBIE_AdvancedBionicArm.label>
+  <InstallBIE_AdvancedBionicArm.label>先進人工上肢を取り付ける</InstallBIE_AdvancedBionicArm.label>
   <!-- EN: Install an advanced bionic arm. -->
-  <InstallBIE_AdvancedBionicArm.description>TODO</InstallBIE_AdvancedBionicArm.description>
+  <InstallBIE_AdvancedBionicArm.description>先進人工の上肢を外科的に移植します。</InstallBIE_AdvancedBionicArm.description>
   <!-- EN: Installing advanced bionic arm. -->
-  <InstallBIE_AdvancedBionicArm.jobString>TODO</InstallBIE_AdvancedBionicArm.jobString>
-  
+  <InstallBIE_AdvancedBionicArm.jobString>先進人工上肢の取り付け中</InstallBIE_AdvancedBionicArm.jobString>
+
   <!-- EN: install advanced bionic eye -->
-  <InstallBIE_AdvancedBionicEye.label>TODO</InstallBIE_AdvancedBionicEye.label>
+  <InstallBIE_AdvancedBionicEye.label>先進人工眼を取り付ける</InstallBIE_AdvancedBionicEye.label>
   <!-- EN: Install an advanced bionic eye. -->
-  <InstallBIE_AdvancedBionicEye.description>TODO</InstallBIE_AdvancedBionicEye.description>
+  <InstallBIE_AdvancedBionicEye.description>先進人工眼を外科的に移植し、視力を強化します。</InstallBIE_AdvancedBionicEye.description>
   <!-- EN: Installing advanced bionic eye. -->
-  <InstallBIE_AdvancedBionicEye.jobString>TODO</InstallBIE_AdvancedBionicEye.jobString>
-  
+  <InstallBIE_AdvancedBionicEye.jobString>先進人工眼の取り付け中</InstallBIE_AdvancedBionicEye.jobString>
+
   <!-- EN: install advanced bionic leg -->
-  <InstallBIE_AdvancedBionicLeg.label>TODO</InstallBIE_AdvancedBionicLeg.label>
+  <InstallBIE_AdvancedBionicLeg.label>先進人工下肢を取り付ける</InstallBIE_AdvancedBionicLeg.label>
   <!-- EN: Install an advanced bionic leg. -->
-  <InstallBIE_AdvancedBionicLeg.description>TODO</InstallBIE_AdvancedBionicLeg.description>
+  <InstallBIE_AdvancedBionicLeg.description>先進人工の下肢を外科的に移植します。</InstallBIE_AdvancedBionicLeg.description>
   <!-- EN: Installing advanced bionic leg. -->
-  <InstallBIE_AdvancedBionicLeg.jobString>TODO</InstallBIE_AdvancedBionicLeg.jobString>
-  
+  <InstallBIE_AdvancedBionicLeg.jobString>先進人工下肢の取り付け中</InstallBIE_AdvancedBionicLeg.jobString>
+
   <!-- EN: install advanced bionic spine -->
-  <InstallBIE_AdvancedBionicSpine.label>TODO</InstallBIE_AdvancedBionicSpine.label>
+  <InstallBIE_AdvancedBionicSpine.label>先進人工脊椎を取り付ける</InstallBIE_AdvancedBionicSpine.label>
   <!-- EN: Install an advanced bionic spine. -->
-  <InstallBIE_AdvancedBionicSpine.description>TODO</InstallBIE_AdvancedBionicSpine.description>
+  <InstallBIE_AdvancedBionicSpine.description>先進人工脊椎を外科的に移植し、運動機能を改善します。</InstallBIE_AdvancedBionicSpine.description>
   <!-- EN: Installing advanced bionic spine. -->
-  <InstallBIE_AdvancedBionicSpine.jobString>TODO</InstallBIE_AdvancedBionicSpine.jobString>
-  
+  <InstallBIE_AdvancedBionicSpine.jobString>先進人工脊椎の取り付け中</InstallBIE_AdvancedBionicSpine.jobString>
+
 </LanguageData>

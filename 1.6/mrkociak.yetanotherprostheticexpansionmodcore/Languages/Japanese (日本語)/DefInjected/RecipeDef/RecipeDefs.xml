@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: salvage advanced bionics -->
-  <BIE_SalvageAdvancedBionics.label>TODO</BIE_SalvageAdvancedBionics.label>
+  <BIE_SalvageAdvancedBionics.label>先進人工部品を回収する</BIE_SalvageAdvancedBionics.label>
   <!-- EN: Salvage advanced bionic body parts for resources. -->
-  <BIE_SalvageAdvancedBionics.description>TODO</BIE_SalvageAdvancedBionics.description>
+  <BIE_SalvageAdvancedBionics.description>先進人工の身体部品を解体して資源を回収します。</BIE_SalvageAdvancedBionics.description>
   <!-- EN: Salvaging advanced bionic body part. -->
-  <BIE_SalvageAdvancedBionics.jobString>TODO</BIE_SalvageAdvancedBionics.jobString>
-  
+  <BIE_SalvageAdvancedBionics.jobString>先進人工部品の回収中</BIE_SalvageAdvancedBionics.jobString>
+
   <!-- EN: salvage bionics -->
-  <BIE_SalvageBionics.label>TODO</BIE_SalvageBionics.label>
+  <BIE_SalvageBionics.label>人工部品を回収する</BIE_SalvageBionics.label>
   <!-- EN: Salvage bionic body parts for resources. -->
-  <BIE_SalvageBionics.description>TODO</BIE_SalvageBionics.description>
+  <BIE_SalvageBionics.description>人工の身体部品を解体して資源を回収します。</BIE_SalvageBionics.description>
   <!-- EN: Salvaging bionic body part. -->
-  <BIE_SalvageBionics.jobString>TODO</BIE_SalvageBionics.jobString>
-  
+  <BIE_SalvageBionics.jobString>人工部品の回収中</BIE_SalvageBionics.jobString>
+
   <!-- EN: salvage prostheses -->
-  <BIE_SalvageProstheses.label>TODO</BIE_SalvageProstheses.label>
+  <BIE_SalvageProstheses.label>義肢を回収する</BIE_SalvageProstheses.label>
   <!-- EN: Salvage prosthetic body parts for resources. -->
-  <BIE_SalvageProstheses.description>TODO</BIE_SalvageProstheses.description>
+  <BIE_SalvageProstheses.description>義肢や義手などの義体部品を解体して資源を回収します。</BIE_SalvageProstheses.description>
   <!-- EN: Salvaging prosthetic body part. -->
-  <BIE_SalvageProstheses.jobString>TODO</BIE_SalvageProstheses.jobString>
-  
+  <BIE_SalvageProstheses.jobString>義肢の回収中</BIE_SalvageProstheses.jobString>
+
 </LanguageData>

@@ -1,97 +1,97 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: ultratech arm -->
-  <BIE_UltratechBionicArm.label>TODO</BIE_UltratechBionicArm.label>
+  <BIE_UltratechBionicArm.label>ウルトラテック上肢</BIE_UltratechBionicArm.label>
   <!-- EN: An installed ultratech arm. -->
-  <BIE_UltratechBionicArm.description>TODO</BIE_UltratechBionicArm.description>
+  <BIE_UltratechBionicArm.description>装着されたウルトラテック級の上肢。</BIE_UltratechBionicArm.description>
   <!-- EN: fist -->
-  <BIE_UltratechBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BIE_UltratechBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BIE_UltratechBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>拳</BIE_UltratechBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an ultratech arm -->
-  <BIE_UltratechBionicArm.labelNoun>TODO</BIE_UltratechBionicArm.labelNoun>
-  
+  <BIE_UltratechBionicArm.labelNoun>ウルトラテック上肢</BIE_UltratechBionicArm.labelNoun>
+
   <!-- EN: ultratech ear -->
-  <BIE_UltratechBionicEar.label>TODO</BIE_UltratechBionicEar.label>
+  <BIE_UltratechBionicEar.label>ウルトラテック耳</BIE_UltratechBionicEar.label>
   <!-- EN: An installed ultratech ear. -->
-  <BIE_UltratechBionicEar.description>TODO</BIE_UltratechBionicEar.description>
+  <BIE_UltratechBionicEar.description>装着されたウルトラテック級の耳。</BIE_UltratechBionicEar.description>
   <!-- EN: an ultratech ear -->
-  <BIE_UltratechBionicEar.labelNoun>TODO</BIE_UltratechBionicEar.labelNoun>
-  
+  <BIE_UltratechBionicEar.labelNoun>ウルトラテック耳</BIE_UltratechBionicEar.labelNoun>
+
   <!-- EN: ultratech eye -->
-  <BIE_UltratechBionicEye.label>TODO</BIE_UltratechBionicEye.label>
+  <BIE_UltratechBionicEye.label>ウルトラテック眼</BIE_UltratechBionicEye.label>
   <!-- EN: An installed ultratech eye. -->
-  <BIE_UltratechBionicEye.description>TODO</BIE_UltratechBionicEye.description>
+  <BIE_UltratechBionicEye.description>装着されたウルトラテック級の眼。</BIE_UltratechBionicEye.description>
   <!-- EN: an ultratech eye -->
-  <BIE_UltratechBionicEye.labelNoun>TODO</BIE_UltratechBionicEye.labelNoun>
-  
+  <BIE_UltratechBionicEye.labelNoun>ウルトラテック眼</BIE_UltratechBionicEye.labelNoun>
+
   <!-- EN: ultratech heart -->
-  <BIE_UltratechBionicHeart.label>TODO</BIE_UltratechBionicHeart.label>
+  <BIE_UltratechBionicHeart.label>ウルトラテック心臓</BIE_UltratechBionicHeart.label>
   <!-- EN: An installed ultratech heart. -->
-  <BIE_UltratechBionicHeart.description>TODO</BIE_UltratechBionicHeart.description>
+  <BIE_UltratechBionicHeart.description>装着されたウルトラテック級の心臓。</BIE_UltratechBionicHeart.description>
   <!-- EN: an ultratech heart -->
-  <BIE_UltratechBionicHeart.labelNoun>TODO</BIE_UltratechBionicHeart.labelNoun>
-  
+  <BIE_UltratechBionicHeart.labelNoun>ウルトラテック心臓</BIE_UltratechBionicHeart.labelNoun>
+
   <!-- EN: ultratech jaw -->
-  <BIE_UltratechBionicJaw.label>TODO</BIE_UltratechBionicJaw.label>
+  <BIE_UltratechBionicJaw.label>ウルトラテック顎</BIE_UltratechBionicJaw.label>
   <!-- EN: An installed ultratech jaw. -->
-  <BIE_UltratechBionicJaw.description>TODO</BIE_UltratechBionicJaw.description>
+  <BIE_UltratechBionicJaw.description>装着されたウルトラテック級の顎。</BIE_UltratechBionicJaw.description>
   <!-- EN: teeth -->
-  <BIE_UltratechBionicJaw.comps.HediffComp_VerbGiver.tools.teeth.label>TODO</BIE_UltratechBionicJaw.comps.HediffComp_VerbGiver.tools.teeth.label>
+  <BIE_UltratechBionicJaw.comps.HediffComp_VerbGiver.tools.teeth.label>歯</BIE_UltratechBionicJaw.comps.HediffComp_VerbGiver.tools.teeth.label>
   <!-- EN: an ultratech jaw -->
-  <BIE_UltratechBionicJaw.labelNoun>TODO</BIE_UltratechBionicJaw.labelNoun>
-  
+  <BIE_UltratechBionicJaw.labelNoun>ウルトラテック顎</BIE_UltratechBionicJaw.labelNoun>
+
   <!-- EN: ultratech kidney -->
-  <BIE_UltratechBionicKidney.label>TODO</BIE_UltratechBionicKidney.label>
+  <BIE_UltratechBionicKidney.label>ウルトラテック腎臓</BIE_UltratechBionicKidney.label>
   <!-- EN: An installed ultratech kidney. -->
-  <BIE_UltratechBionicKidney.description>TODO</BIE_UltratechBionicKidney.description>
+  <BIE_UltratechBionicKidney.description>装着されたウルトラテック級の腎臓。</BIE_UltratechBionicKidney.description>
   <!-- EN: an ultratech kidney -->
-  <BIE_UltratechBionicKidney.labelNoun>TODO</BIE_UltratechBionicKidney.labelNoun>
-  
+  <BIE_UltratechBionicKidney.labelNoun>ウルトラテック腎臓</BIE_UltratechBionicKidney.labelNoun>
+
   <!-- EN: ultratech leg -->
-  <BIE_UltratechBionicLeg.label>TODO</BIE_UltratechBionicLeg.label>
+  <BIE_UltratechBionicLeg.label>ウルトラテック下肢</BIE_UltratechBionicLeg.label>
   <!-- EN: An installed ultratech leg. -->
-  <BIE_UltratechBionicLeg.description>TODO</BIE_UltratechBionicLeg.description>
+  <BIE_UltratechBionicLeg.description>装着されたウルトラテック級の下肢。</BIE_UltratechBionicLeg.description>
   <!-- EN: an ultratech leg -->
-  <BIE_UltratechBionicLeg.labelNoun>TODO</BIE_UltratechBionicLeg.labelNoun>
-  
+  <BIE_UltratechBionicLeg.labelNoun>ウルトラテック下肢</BIE_UltratechBionicLeg.labelNoun>
+
   <!-- EN: ultratech liver -->
-  <BIE_UltratechBionicLiver.label>TODO</BIE_UltratechBionicLiver.label>
+  <BIE_UltratechBionicLiver.label>ウルトラテック肝臓</BIE_UltratechBionicLiver.label>
   <!-- EN: An installed ultratech liver. -->
-  <BIE_UltratechBionicLiver.description>TODO</BIE_UltratechBionicLiver.description>
+  <BIE_UltratechBionicLiver.description>装着されたウルトラテック級の肝臓。</BIE_UltratechBionicLiver.description>
   <!-- EN: an ultratech liver -->
-  <BIE_UltratechBionicLiver.labelNoun>TODO</BIE_UltratechBionicLiver.labelNoun>
-  
+  <BIE_UltratechBionicLiver.labelNoun>ウルトラテック肝臓</BIE_UltratechBionicLiver.labelNoun>
+
   <!-- EN: ultratech lung -->
-  <BIE_UltratechBionicLung.label>TODO</BIE_UltratechBionicLung.label>
+  <BIE_UltratechBionicLung.label>ウルトラテック肺</BIE_UltratechBionicLung.label>
   <!-- EN: An installed ultratech lung. -->
-  <BIE_UltratechBionicLung.description>TODO</BIE_UltratechBionicLung.description>
+  <BIE_UltratechBionicLung.description>装着されたウルトラテック級の肺。</BIE_UltratechBionicLung.description>
   <!-- EN: an ultratech lung -->
-  <BIE_UltratechBionicLung.labelNoun>TODO</BIE_UltratechBionicLung.labelNoun>
-  
+  <BIE_UltratechBionicLung.labelNoun>ウルトラテック肺</BIE_UltratechBionicLung.labelNoun>
+
   <!-- EN: ultratech nose -->
-  <BIE_UltratechBionicNose.label>TODO</BIE_UltratechBionicNose.label>
-  <!-- EN: An installed ultratechnose. -->
-  <BIE_UltratechBionicNose.description>TODO</BIE_UltratechBionicNose.description>
+  <BIE_UltratechBionicNose.label>ウルトラテック鼻</BIE_UltratechBionicNose.label>
+  <!-- EN: An installed ultratech nose. -->
+  <BIE_UltratechBionicNose.description>装着されたウルトラテック級の鼻。</BIE_UltratechBionicNose.description>
   <!-- EN: an ultratech nose -->
-  <BIE_UltratechBionicNose.labelNoun>TODO</BIE_UltratechBionicNose.labelNoun>
-  
+  <BIE_UltratechBionicNose.labelNoun>ウルトラテック鼻</BIE_UltratechBionicNose.labelNoun>
+
   <!-- EN: ultratech skin -->
-  <BIE_UltratechBionicSkin.label>TODO</BIE_UltratechBionicSkin.label>
+  <BIE_UltratechBionicSkin.label>ウルトラテック皮膚</BIE_UltratechBionicSkin.label>
   <!-- EN: Installed ultratech skin. -->
-  <BIE_UltratechBionicSkin.description>TODO</BIE_UltratechBionicSkin.description>
-  
+  <BIE_UltratechBionicSkin.description>装着されたウルトラテック皮膚。</BIE_UltratechBionicSkin.description>
+
   <!-- EN: ultratech spine -->
-  <BIE_UltratechBionicSpine.label>TODO</BIE_UltratechBionicSpine.label>
+  <BIE_UltratechBionicSpine.label>ウルトラテック脊椎</BIE_UltratechBionicSpine.label>
   <!-- EN: An installed ultratech spine. -->
-  <BIE_UltratechBionicSpine.description>TODO</BIE_UltratechBionicSpine.description>
+  <BIE_UltratechBionicSpine.description>装着されたウルトラテック級の脊椎。</BIE_UltratechBionicSpine.description>
   <!-- EN: an ultratech spine -->
-  <BIE_UltratechBionicSpine.labelNoun>TODO</BIE_UltratechBionicSpine.labelNoun>
-  
+  <BIE_UltratechBionicSpine.labelNoun>ウルトラテック脊椎</BIE_UltratechBionicSpine.labelNoun>
+
   <!-- EN: ultratech stomach -->
-  <BIE_UltratechStomach.label>TODO</BIE_UltratechStomach.label>
+  <BIE_UltratechStomach.label>ウルトラテック胃</BIE_UltratechStomach.label>
   <!-- EN: An installed ultratech stomach. -->
-  <BIE_UltratechStomach.description>TODO</BIE_UltratechStomach.description>
+  <BIE_UltratechStomach.description>装着されたウルトラテック級の胃。</BIE_UltratechStomach.description>
   <!-- EN: a ultratech stomach -->
-  <BIE_UltratechStomach.labelNoun>TODO</BIE_UltratechStomach.labelNoun>
-  
+  <BIE_UltratechStomach.labelNoun>ウルトラテック胃</BIE_UltratechStomach.labelNoun>
+
 </LanguageData>

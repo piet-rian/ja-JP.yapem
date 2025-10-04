@@ -1,84 +1,84 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: advanced bionic arm -->
-  <BIE_AdvancedBionicArm.label>TODO</BIE_AdvancedBionicArm.label>
+  <BIE_AdvancedBionicArm.label>先進人工上肢</BIE_AdvancedBionicArm.label>
   <!-- EN: An upgraded model of an advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BIE_AdvancedBionicArm.description>TODO</BIE_AdvancedBionicArm.description>
-  
+  <BIE_AdvancedBionicArm.description>アップグレードされた先進的な人工上肢。静音ミニサーボにより強力な駆動力を発揮し、バイオジェル神経リンクが精密な制御を提供する。ラティスダスト治癒システムにより損傷から回復し、生体の上肢をほとんど全ての面で上回る。</BIE_AdvancedBionicArm.description>
+
   <!-- EN: advanced bionic ear -->
-  <BIE_AdvancedBionicEar.label>TODO</BIE_AdvancedBionicEar.label>
+  <BIE_AdvancedBionicEar.label>先進人工耳</BIE_AdvancedBionicEar.label>
   <!-- EN: An upgraded model of an advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BIE_AdvancedBionicEar.description>TODO</BIE_AdvancedBionicEar.description>
-  
+  <BIE_AdvancedBionicEar.description>アップグレードされた先進的な人工耳。皮下に配置された不可視のマイク群が音を拾い、バイオジェル神経インターフェースを介して聴神経に伝達する。猫の存在を視認する前に聞き取れるほど高感度で、過大な騒音で損傷せず、雑音環境でも自動的に重要な音を抽出するよう調整される。</BIE_AdvancedBionicEar.description>
+
   <!-- EN: advanced bionic eye -->
-  <BIE_AdvancedBionicEye.label>TODO</BIE_AdvancedBionicEye.label>
+  <BIE_AdvancedBionicEye.label>先進人工眼</BIE_AdvancedBionicEye.label>
   <!-- EN: An upgraded model of an advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BIE_AdvancedBionicEye.description>TODO</BIE_AdvancedBionicEye.description>
-  
+  <BIE_AdvancedBionicEye.description>アップグレードされた先進的な人工眼。バイオジェル神経リンク、内部信号前処理器、広帯域センサーを備え、生体の眼をほとんど全ての面で上回る。ラティスダスト治癒システムで損傷から回復する。</BIE_AdvancedBionicEye.description>
+
   <!-- EN: advanced bionic finger -->
-  <BIE_AdvancedBionicFinger.label>TODO</BIE_AdvancedBionicFinger.label>
+  <BIE_AdvancedBionicFinger.label>先進人工指</BIE_AdvancedBionicFinger.label>
   <!-- EN: An upgraded model of an advanced artificial finger. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological finger in almost every way. -->
-  <BIE_AdvancedBionicFinger.description>TODO</BIE_AdvancedBionicFinger.description>
-  
+  <BIE_AdvancedBionicFinger.description>アップグレードされた先進的な人工指。静音ミニサーボで高い把持力を発揮し、バイオジェル神経リンクが精密な制御を可能にする。ラティスダスト治癒システムで損傷から回復し、生体の指をほとんど全ての面で上回る。</BIE_AdvancedBionicFinger.description>
+
   <!-- EN: advanced bionic foot -->
-  <BIE_AdvancedBionicFoot.label>TODO</BIE_AdvancedBionicFoot.label>
+  <BIE_AdvancedBionicFoot.label>先進人工足</BIE_AdvancedBionicFoot.label>
   <!-- EN: An upgraded model of an advanced artificial foot. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological foot in almost every way. -->
-  <BIE_AdvancedBionicFoot.description>TODO</BIE_AdvancedBionicFoot.description>
-  
+  <BIE_AdvancedBionicFoot.description>アップグレードされた先進的な人工足。静音ミニサーボが優れた駆動力を発揮し、バイオジェル神経リンクが精密な運動制御を提供する。ラティスダスト治癒システムで損傷から回復し、生体の足をほとんど全ての面で上回る。</BIE_AdvancedBionicFoot.description>
+
   <!-- EN: advanced bionic hand -->
-  <BIE_AdvancedBionicHand.label>TODO</BIE_AdvancedBionicHand.label>
+  <BIE_AdvancedBionicHand.label>先進人工手</BIE_AdvancedBionicHand.label>
   <!-- EN: An upgraded model of an advanced artificial hand. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological hand in almost every way. -->
-  <BIE_AdvancedBionicHand.description>TODO</BIE_AdvancedBionicHand.description>
-  
+  <BIE_AdvancedBionicHand.description>アップグレードされた先進的な人工手。静音ミニサーボにより高い把持力を実現し、バイオジェル神経リンクが精密な指先操作を可能にする。ラティスダスト治癒システムで損傷から回復し、生体の手をほとんど全ての面で上回る。</BIE_AdvancedBionicHand.description>
+
   <!-- EN: advanced bionic heart -->
-  <BIE_AdvancedBionicHeart.label>TODO</BIE_AdvancedBionicHeart.label>
+  <BIE_AdvancedBionicHeart.label>先進人工心臓</BIE_AdvancedBionicHeart.label>
   <!-- EN: An upgraded model of an advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BIE_AdvancedBionicHeart.description>TODO</BIE_AdvancedBionicHeart.description>
-  
+  <BIE_AdvancedBionicHeart.description>アップグレードされた先進的な人工心臓。合成筋繊維で自然な鼓動を再現し、高流量ポンプにより高負荷時の循環を迅速に行う。生体の心臓をほとんど全ての面で上回る。</BIE_AdvancedBionicHeart.description>
+
   <!-- EN: advanced bionic jaw -->
-  <BIE_AdvancedBionicJaw.label>TODO</BIE_AdvancedBionicJaw.label>
+  <BIE_AdvancedBionicJaw.label>先進人工顎</BIE_AdvancedBionicJaw.label>
   <!-- EN: An upgraded model of an advanced artificial jaw. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological jaw in almost every way. -->
-  <BIE_AdvancedBionicJaw.description>TODO</BIE_AdvancedBionicJaw.description>
-  
+  <BIE_AdvancedBionicJaw.description>アップグレードされた先進的な人工顎。静音ミニサーボで高い咀嚼力を発揮し、バイオジェル神経リンクが精密な制御を提供する。ラティスダスト治癒システムで損傷から回復し、生体の顎をほとんど全ての面で上回る。</BIE_AdvancedBionicJaw.description>
+
   <!-- EN: advanced bionic kidney -->
-  <BIE_AdvancedBionicKidney.label>TODO</BIE_AdvancedBionicKidney.label>
+  <BIE_AdvancedBionicKidney.label>先進人工腎臓</BIE_AdvancedBionicKidney.label>
   <!-- EN: An upgraded model of an advanced artificial kidney. It has a variety of synthetic tissues that simulate the work of a real kidney, plus a set of advanced filtering units for better protection against harmful substances. It is better than a biological kidney in almost every way. -->
-  <BIE_AdvancedBionicKidney.description>TODO</BIE_AdvancedBionicKidney.description>
-  
+  <BIE_AdvancedBionicKidney.description>アップグレードされた先進的な人工腎臓。実臓器の機能を模した合成組織と高度なろ過ユニットを備え、有害物質からの防護性が高い。生体の腎臓をほとんど全ての面で上回る。</BIE_AdvancedBionicKidney.description>
+
   <!-- EN: advanced bionic leg -->
-  <BIE_AdvancedBionicLeg.label>TODO</BIE_AdvancedBionicLeg.label>
+  <BIE_AdvancedBionicLeg.label>先進人工下肢</BIE_AdvancedBionicLeg.label>
   <!-- EN: An upgraded model of an advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BIE_AdvancedBionicLeg.description>TODO</BIE_AdvancedBionicLeg.description>
-  
+  <BIE_AdvancedBionicLeg.description>アップグレードされた先進的な人工下肢。バイオジェル神経リンク、強力なミニサーボ、ラティスダスト治癒システムを備え、生体の下肢をほとんど全ての面で上回る。</BIE_AdvancedBionicLeg.description>
+
   <!-- EN: advanced bionic liver -->
-  <BIE_AdvancedBionicLiver.label>TODO</BIE_AdvancedBionicLiver.label>
+  <BIE_AdvancedBionicLiver.label>先進人工肝臓</BIE_AdvancedBionicLiver.label>
   <!-- EN: An upgraded model of an advanced artificial liver. It has a variety of synthetic tissues that simulate the work of a real liver, plus a set of advanced filtering units for better protection against harmful substances. It is better than a biological liver in almost every way. -->
-  <BIE_AdvancedBionicLiver.description>TODO</BIE_AdvancedBionicLiver.description>
-  
+  <BIE_AdvancedBionicLiver.description>アップグレードされた先進的な人工肝臓。実臓器の働きを模した合成組織と高度なろ過ユニットを備え、有害物質からの防御能力が高い。生体の肝臓をほとんど全ての面で上回る。</BIE_AdvancedBionicLiver.description>
+
   <!-- EN: advanced bionic lung -->
-  <BIE_AdvancedBionicLung.label>TODO</BIE_AdvancedBionicLung.label>
+  <BIE_AdvancedBionicLung.label>先進人工肺</BIE_AdvancedBionicLung.label>
   <!-- EN: An upgraded model of an advanced artificial lung. It has a variety of synthetic tissues for a realistic breathing experience. It is better than a biological lung in almost every way. -->
-  <BIE_AdvancedBionicLung.description>TODO</BIE_AdvancedBionicLung.description>
-  
+  <BIE_AdvancedBionicLung.description>アップグレードされた先進的な人工肺。呼吸感を再現する多様な合成組織を備え、生体の肺をほとんど全ての面で上回る。</BIE_AdvancedBionicLung.description>
+
   <!-- EN: advanced bionic nose -->
-  <BIE_AdvancedBionicNose.label>TODO</BIE_AdvancedBionicNose.label>
+  <BIE_AdvancedBionicNose.label>先進人工鼻</BIE_AdvancedBionicNose.label>
   <!-- EN: An upgraded model of an advanced artificial nose. Advanced sensors give the user a greater sense of smell and an ability to turn it off at will, while extra filters provide a superior breathing experience. A lattice-dust healing system allows it to recover from damage. It is better than a biological nose in almost every way. -->
-  <BIE_AdvancedBionicNose.description>TODO</BIE_AdvancedBionicNose.description>
-  
+  <BIE_AdvancedBionicNose.description>アップグレードされた先進的な人工鼻。高度なセンサーで嗅覚が拡張され、任意で感度を切り替えられるほか、追加フィルターにより優れた呼吸環境を提供する。ラティスダスト治癒システムで損傷から回復し、生体の鼻をほとんど全ての面で上回る。</BIE_AdvancedBionicNose.description>
+
   <!-- EN: advanced bionic spine -->
-  <BIE_AdvancedBionicSpine.label>TODO</BIE_AdvancedBionicSpine.label>
+  <BIE_AdvancedBionicSpine.label>先進人工脊椎</BIE_AdvancedBionicSpine.label>
   <!-- EN: An upgraded model of an advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It is better than a biological spine in almost every way. -->
-  <BIE_AdvancedBionicSpine.description>TODO</BIE_AdvancedBionicSpine.description>
-  
+  <BIE_AdvancedBionicSpine.description>アップグレードされた先進的な人工脊椎。多関節のプラステールコアに沿ってバイオジェル神経束が走り、ラティスダスト治癒システムで囲まれている。生体の脊椎をほとんど全ての面で上回る。</BIE_AdvancedBionicSpine.description>
+
   <!-- EN: advanced bionic stomach -->
-  <BIE_AdvancedBionicStomach.label>TODO</BIE_AdvancedBionicStomach.label>
+  <BIE_AdvancedBionicStomach.label>先進人工胃</BIE_AdvancedBionicStomach.label>
   <!-- EN: An upgraded model of an advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
-  <BIE_AdvancedBionicStomach.description>TODO</BIE_AdvancedBionicStomach.description>
-  
+  <BIE_AdvancedBionicStomach.description>アップグレードされた先進的な人工胃。各種センサーと化学合成器がほとんどのエネルギー含有食品を効率的に消化し、統合されたラティスダスト治癒システムが強酸による損傷を自動的に修復する。生体の胃をほとんど全ての面で上回る。</BIE_AdvancedBionicStomach.description>
+
   <!-- EN: advanced bionic toe -->
-  <BIE_AdvancedBionicToe.label>TODO</BIE_AdvancedBionicToe.label>
+  <BIE_AdvancedBionicToe.label>先進人工趾</BIE_AdvancedBionicToe.label>
   <!-- EN: An upgraded model of an advanced artificial toe. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological toe in almost every way. -->
-  <BIE_AdvancedBionicToe.description>TODO</BIE_AdvancedBionicToe.description>
-  
+  <BIE_AdvancedBionicToe.description>アップグレードされた先進的な人工趾。静音ミニサーボが優れた駆動力を発揮し、バイオジェル神経リンクが精密な制御を提供する。ラティスダスト治癒システムで損傷から回復し、生体の趾をほとんど全ての面で上回る。</BIE_AdvancedBionicToe.description>
+
 </LanguageData>
