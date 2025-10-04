@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <packageId>ja.JP.depended.mod.package.id</packageId>
+    <name>RimworldTranslationMod</name>
+    <!-- <name>depended mod name(ja-JP)</name> -->
+    <authors>
+        <li>piet-rian</li>
+        <li>...</li>
+    </authors>
+    <description>personal use ja-JP translation.</description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+
+    <modVersion>1.0</modVersion>
+
+
+    <!-- see. https://rimworldwiki.com/wiki/Modding_Tutorials/About.xml -->
+
+    <modDependencies>
+        <li>
+            <packageId>depended.mod.package.id</packageId>
+            <displayName>depended mod name</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/_workshopnumber_</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+
+    <loadAfter>
+        <li>depended.mod.package.id</li>
+        <!-- <li>additional.mod.package.id</li> -->
+    </loadAfter>
+
+</ModMetaData>

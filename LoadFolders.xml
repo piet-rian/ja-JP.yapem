@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+
+  <v1.6>
+    <!-- 翻訳対象 -->
+    <li>1.6/depended.mod.package.id</li>
+
+    <!-- ファイル構成が被らない派生Modは同時翻訳可能, 基本的にはやらないがやるとなったときのためのメモとして残す -->
+    <!--
+      ! 構造が同じ場合は `File overriding` ルールにより同時翻訳不可
+      ! あとから読み込んだ側(==派生Mod)の翻訳が優先される(==メインModの翻訳が無視される)
+      * ファイル名を変える等で対応可能だが、Extract translationの出力結果をそのまま使えなくなる
+    -->
+    <!-- <li IfModActive="additional.mod.package.id">1.6/additional.mod.package.id</li> -->
+
+    <!--  否定ルールもあるので、何かの時のために一応コメントとして記法を残しておく -->
+    <!-- <li IfModNotActive="Ludeon.RimWorld.Ideology">...</li> -->
+  </v1.6>
+
+  <!-- バージョン上がったらここに追加していく -->
+</loadFolders>
