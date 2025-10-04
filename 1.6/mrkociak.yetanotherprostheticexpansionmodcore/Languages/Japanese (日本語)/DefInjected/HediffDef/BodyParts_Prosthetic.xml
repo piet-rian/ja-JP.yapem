@@ -2,75 +2,75 @@
 <LanguageData>
 
   <!-- EN: prosthetic eye -->
-  <SimpleProstheticBIE_Eye.label>人工義眼</SimpleProstheticBIE_Eye.label>
+  <SimpleProstheticBIE_Eye.label>人造義眼</SimpleProstheticBIE_Eye.label>
   <!-- EN: An installed prosthetic eye. -->
   <SimpleProstheticBIE_Eye.description>装着された義眼。</SimpleProstheticBIE_Eye.description>
   <!-- EN: a prosthetic eye -->
-  <SimpleProstheticBIE_Eye.labelNoun>義眼</SimpleProstheticBIE_Eye.labelNoun>
+  <SimpleProstheticBIE_Eye.labelNoun>人造義眼</SimpleProstheticBIE_Eye.labelNoun>
 
   <!-- EN: prosthetic finger -->
-  <SimpleProstheticBIE_Finger.label>義指</SimpleProstheticBIE_Finger.label>
+  <SimpleProstheticBIE_Finger.label>人造義指</SimpleProstheticBIE_Finger.label>
   <!-- EN: An installed prosthetic finger. -->
   <SimpleProstheticBIE_Finger.description>装着された義指。</SimpleProstheticBIE_Finger.description>
   <!-- EN: a prosthetic finger -->
-  <SimpleProstheticBIE_Finger.labelNoun>義指</SimpleProstheticBIE_Finger.labelNoun>
+  <SimpleProstheticBIE_Finger.labelNoun>人造義指</SimpleProstheticBIE_Finger.labelNoun>
 
   <!-- EN: prosthetic foot -->
-  <SimpleProstheticBIE_Foot.label>義足</SimpleProstheticBIE_Foot.label>
+  <SimpleProstheticBIE_Foot.label>人造義足</SimpleProstheticBIE_Foot.label>
   <!-- EN: An installed prosthetic foot. -->
   <SimpleProstheticBIE_Foot.description>装着された義足。</SimpleProstheticBIE_Foot.description>
   <!-- EN: a prosthetic foot -->
-  <SimpleProstheticBIE_Foot.labelNoun>義足</SimpleProstheticBIE_Foot.labelNoun>
+  <SimpleProstheticBIE_Foot.labelNoun>人造義足</SimpleProstheticBIE_Foot.labelNoun>
 
   <!-- EN: prosthetic hand -->
-  <SimpleProstheticBIE_Hand.label>義手</SimpleProstheticBIE_Hand.label>
+  <SimpleProstheticBIE_Hand.label>人造義手</SimpleProstheticBIE_Hand.label>
   <!-- EN: An installed prosthetic hand. -->
   <SimpleProstheticBIE_Hand.description>装着された義手。</SimpleProstheticBIE_Hand.description>
   <!-- EN: fist -->
   <SimpleProstheticBIE_Hand.comps.HediffComp_VerbGiver.tools.fist.label>拳</SimpleProstheticBIE_Hand.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a prosthetic hand -->
-  <SimpleProstheticBIE_Hand.labelNoun>義手</SimpleProstheticBIE_Hand.labelNoun>
+  <SimpleProstheticBIE_Hand.labelNoun>人造義手</SimpleProstheticBIE_Hand.labelNoun>
 
   <!-- EN: prosthetic kidney -->
-  <SimpleProstheticBIE_Kidney.label>義腎</SimpleProstheticBIE_Kidney.label>
+  <SimpleProstheticBIE_Kidney.label>人造腎臓</SimpleProstheticBIE_Kidney.label>
   <!-- EN: An installed prosthetic kidney. -->
-  <SimpleProstheticBIE_Kidney.description>装着された義腎。</SimpleProstheticBIE_Kidney.description>
+  <SimpleProstheticBIE_Kidney.description>装着された人造腎臓。</SimpleProstheticBIE_Kidney.description>
   <!-- EN: a prosthetic kidney -->
-  <SimpleProstheticBIE_Kidney.labelNoun>義腎</SimpleProstheticBIE_Kidney.labelNoun>
+  <SimpleProstheticBIE_Kidney.labelNoun>人造腎臓</SimpleProstheticBIE_Kidney.labelNoun>
 
   <!-- EN: prosthetic liver -->
-  <SimpleProstheticBIE_Liver.label>義肝</SimpleProstheticBIE_Liver.label>
+  <SimpleProstheticBIE_Liver.label>人造肝臓</SimpleProstheticBIE_Liver.label>
   <!-- EN: An installed prosthetic liver. -->
-  <SimpleProstheticBIE_Liver.description>装着された義肝。</SimpleProstheticBIE_Liver.description>
+  <SimpleProstheticBIE_Liver.description>装着された人造肝臓。</SimpleProstheticBIE_Liver.description>
   <!-- EN: a prosthetic liver -->
-  <SimpleProstheticBIE_Liver.labelNoun>義肝</SimpleProstheticBIE_Liver.labelNoun>
+  <SimpleProstheticBIE_Liver.labelNoun>人造肝臓</SimpleProstheticBIE_Liver.labelNoun>
 
   <!-- EN: prosthetic lung -->
-  <SimpleProstheticBIE_Lung.label>義肺</SimpleProstheticBIE_Lung.label>
+  <SimpleProstheticBIE_Lung.label>人造肺</SimpleProstheticBIE_Lung.label>
   <!-- EN: An installed prosthetic lung. -->
-  <SimpleProstheticBIE_Lung.description>装着された義肺。</SimpleProstheticBIE_Lung.description>
+  <SimpleProstheticBIE_Lung.description>装着された人造肺。</SimpleProstheticBIE_Lung.description>
   <!-- EN: a prosthetic lung -->
-  <SimpleProstheticBIE_Lung.labelNoun>義肺</SimpleProstheticBIE_Lung.labelNoun>
+  <SimpleProstheticBIE_Lung.labelNoun>人造肺</SimpleProstheticBIE_Lung.labelNoun>
 
   <!-- EN: prosthetic nose -->
-  <SimpleProstheticBIE_Nose.label>義鼻</SimpleProstheticBIE_Nose.label>
+  <SimpleProstheticBIE_Nose.label>人造義鼻</SimpleProstheticBIE_Nose.label>
   <!-- EN: An installed prosthetic nose. -->
-  <SimpleProstheticBIE_Nose.description>装着された義鼻。</SimpleProstheticBIE_Nose.description>
+  <SimpleProstheticBIE_Nose.description>装着された人造義鼻。</SimpleProstheticBIE_Nose.description>
   <!-- EN: a prosthetic nose -->
-  <SimpleProstheticBIE_Nose.labelNoun>義鼻</SimpleProstheticBIE_Nose.labelNoun>
+  <SimpleProstheticBIE_Nose.labelNoun>人造義鼻</SimpleProstheticBIE_Nose.labelNoun>
 
   <!-- EN: prosthetic stomach -->
-  <SimpleProstheticBIE_Stomach.label>義胃</SimpleProstheticBIE_Stomach.label>
+  <SimpleProstheticBIE_Stomach.label>人造胃</SimpleProstheticBIE_Stomach.label>
   <!-- EN: An installed prosthetic stomach. -->
-  <SimpleProstheticBIE_Stomach.description>装着された義胃。</SimpleProstheticBIE_Stomach.description>
+  <SimpleProstheticBIE_Stomach.description>装着された人造胃。</SimpleProstheticBIE_Stomach.description>
   <!-- EN: a prosthetic stomach -->
-  <SimpleProstheticBIE_Stomach.labelNoun>義胃</SimpleProstheticBIE_Stomach.labelNoun>
+  <SimpleProstheticBIE_Stomach.labelNoun>人造胃</SimpleProstheticBIE_Stomach.labelNoun>
 
   <!-- EN: prosthetic toe -->
-  <SimpleProstheticBIE_Toe.label>義趾</SimpleProstheticBIE_Toe.label>
+  <SimpleProstheticBIE_Toe.label>人造義趾</SimpleProstheticBIE_Toe.label>
   <!-- EN: An installed prosthetic toe. -->
-  <SimpleProstheticBIE_Toe.description>装着された義趾。</SimpleProstheticBIE_Toe.description>
+  <SimpleProstheticBIE_Toe.description>装着された人造義趾。</SimpleProstheticBIE_Toe.description>
   <!-- EN: a prosthetic toe -->
-  <SimpleProstheticBIE_Toe.labelNoun>義趾</SimpleProstheticBIE_Toe.labelNoun>
+  <SimpleProstheticBIE_Toe.labelNoun>人造義趾</SimpleProstheticBIE_Toe.labelNoun>
 
 </LanguageData>

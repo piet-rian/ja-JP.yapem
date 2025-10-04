@@ -2,52 +2,52 @@
 <LanguageData>
 
   <!-- EN: prosthetic eye -->
-  <SimpleProstheticBIE_Eye.label>人工義眼</SimpleProstheticBIE_Eye.label>
+  <SimpleProstheticBIE_Eye.label>人造義眼</SimpleProstheticBIE_Eye.label>
   <!-- EN: A eye prosthesis. It contains simple light sensors and video recorders. The lower image quality and slight delay quickly become noticeable, but it's better than being blind. -->
-  <SimpleProstheticBIE_Eye.description>義眼のプロステーシス。簡易的な光センサーと映像記録装置を内蔵する。画質の低さと僅かな遅延は目立ちやすいが、失明よりはましである。</SimpleProstheticBIE_Eye.description>
+  <SimpleProstheticBIE_Eye.description>義眼。簡易的な光センサーと映像記録装置を内蔵する。画質の低さと僅かな遅延は目立ちやすいが、失明よりはましである。</SimpleProstheticBIE_Eye.description>
 
   <!-- EN: prosthetic finger -->
-  <SimpleProstheticBIE_Finger.label>義指</SimpleProstheticBIE_Finger.label>
+  <SimpleProstheticBIE_Finger.label>人造義指</SimpleProstheticBIE_Finger.label>
   <!-- EN: A finger prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real finger. -->
   <SimpleProstheticBIE_Finger.description>神経インターフェースは無いが、複雑な内部関節構造により自然な動きをかなり巧妙に模倣する義指。それでも実指には劣る。</SimpleProstheticBIE_Finger.description>
 
   <!-- EN: prosthetic foot -->
-  <SimpleProstheticBIE_Foot.label>義足</SimpleProstheticBIE_Foot.label>
+  <SimpleProstheticBIE_Foot.label>人造義足</SimpleProstheticBIE_Foot.label>
   <!-- EN: A foot prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real foot. -->
   <SimpleProstheticBIE_Foot.description>神経インターフェースを持たない義足。内部の複雑な関節配置で自然な動きをある程度再現するが、実足には及ばない。</SimpleProstheticBIE_Foot.description>
 
   <!-- EN: prosthetic hand -->
-  <SimpleProstheticBIE_Hand.label>義手</SimpleProstheticBIE_Hand.label>
+  <SimpleProstheticBIE_Hand.label>人造義手</SimpleProstheticBIE_Hand.label>
   <!-- EN: A hand prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real hand. -->
   <SimpleProstheticBIE_Hand.description>神経インターフェースを持たない義手。複雑な内部関節により自然な動作を模倣するが、実手には劣る。</SimpleProstheticBIE_Hand.description>
 
   <!-- EN: prosthetic kidney -->
-  <SimpleProstheticBIE_Kidney.label>義腎</SimpleProstheticBIE_Kidney.label>
+  <SimpleProstheticBIE_Kidney.label>人造腎臓</SimpleProstheticBIE_Kidney.label>
   <!-- EN: A kidney prosthesis. It contains simple sensors and a set of filters for the purpose of filtering out any toxins from the body. Users often report struggling with sicknesses, but it's better than the alternative. -->
   <SimpleProstheticBIE_Kidney.description>簡易的なセンサーと一連のフィルターを備えた義腎。体内の毒素をろ過する目的があり、使用者は病気に悩まされることがあるが、放置よりは優れる。</SimpleProstheticBIE_Kidney.description>
 
   <!-- EN: prosthetic liver -->
-  <SimpleProstheticBIE_Liver.label>義肝</SimpleProstheticBIE_Liver.label>
+  <SimpleProstheticBIE_Liver.label>人造肝臓</SimpleProstheticBIE_Liver.label>
   <!-- EN: A liver prosthesis. It contains simple sensors and chemical synthesizers that help in digestion. Users often report its inefficiency, but it's better than the alternative. -->
   <SimpleProstheticBIE_Liver.description>簡易的なセンサーと化学合成器を備えた義肝。消化を助けるが、効率が悪いと報告されることが多い。それでも代替がないよりは優れている。</SimpleProstheticBIE_Liver.description>
 
   <!-- EN: prosthetic lung -->
-  <SimpleProstheticBIE_Lung.label>義肺</SimpleProstheticBIE_Lung.label>
+  <SimpleProstheticBIE_Lung.label>人造肺</SimpleProstheticBIE_Lung.label>
   <!-- EN: A lung prosthesis. It contains simple filters and miniature tanks for storing oxygen. Users often report feeling exhausted after simple physical tasks, but it's better than the alternative. -->
   <SimpleProstheticBIE_Lung.description>簡易的なフィルターと小型酸素タンクを備えた義肺。軽い作業でも疲労を感じやすいと報告されるが、ないよりはマシである。</SimpleProstheticBIE_Lung.description>
 
   <!-- EN: prosthetic nose -->
-  <SimpleProstheticBIE_Nose.label>義鼻</SimpleProstheticBIE_Nose.label>
+  <SimpleProstheticBIE_Nose.label>人造義鼻</SimpleProstheticBIE_Nose.label>
   <!-- EN: A modular nose prosthesis. Looks almost like a natural nose, though it quickly becomes noticeable that aesthetics have been prioritized over functionality. -->
   <SimpleProstheticBIE_Nose.description>モジュール式の義鼻。見た目はほとんど自然の鼻に近いが、機能より美観が優先されていることがすぐに分かる。</SimpleProstheticBIE_Nose.description>
 
   <!-- EN: prosthetic stomach -->
-  <SimpleProstheticBIE_Stomach.label>義胃</SimpleProstheticBIE_Stomach.label>
+  <SimpleProstheticBIE_Stomach.label>人造胃</SimpleProstheticBIE_Stomach.label>
   <!-- EN: A stomach prosthesis. It contains simple sensors and chemical synthesizers that help in digestion. Users often report its inefficiency, but it's better than the alternative. -->
   <SimpleProstheticBIE_Stomach.description>簡易的なセンサーと化学合成器を備えた義胃。消化を補助するが効率は限定的である。それでも代替がないよりは優れている。</SimpleProstheticBIE_Stomach.description>
 
   <!-- EN: prosthetic toe -->
-  <SimpleProstheticBIE_Toe.label>義趾</SimpleProstheticBIE_Toe.label>
+  <SimpleProstheticBIE_Toe.label>人造義趾</SimpleProstheticBIE_Toe.label>
   <!-- EN: A toe prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real toe. -->
   <SimpleProstheticBIE_Toe.description>神経インターフェースを持たない義趾。内部の関節配置で自然な動きを模倣するが、実趾には及ばない。</SimpleProstheticBIE_Toe.description>
 

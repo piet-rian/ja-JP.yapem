@@ -23,7 +23,7 @@ applyTo: \**\Languages\Japanese (日本語)\**\*.xml
 | quest expired | クエスト期限切れ | 発生したクエストの有効期限が切れたことを示すメッセージ | approved | 2025-10-04 |
 | chemfuel | バイオ液化燃料, 液化燃料, 燃料, 油 | 架空の化学物質、可燃性の高い揮発性の液体 | approved | 2025-10-04 |
 | Hidden *** | 埋設型*** | 配管、配線などの場合はHiddenを埋設型とする | approved | 2025-10-04 |
-| prosthetic | 人工, 人造 | 義肢関連の修飾子として登場する | approved | 2025-10-04 |
+| prosthetic | 人造 | 義肢関連の修飾子として登場する | approved | 2025-10-04 |
 | Bionich | 強化 | 義肢関連の修飾子として登場する | approved | 2025-10-04 |
 | Spacer | スペーサー | 文明等の技術レベルを表す架空用語、星系間宇宙航行が可能となった技術レベル | approved | 2025-10-04 |
 | ultratech | ウルトラテック | 文明等の技術レベルを表す架空用語、rimworld世界における人類の科学技術の頂点に相当する | approved | 2025-10-04 |
