@@ -1,0 +1,5 @@
+# github上の使用言語判定においてshellを除外する
+*.sh linguist-generated
+
+# xmlが使われていると言語判定させる
+*.xml linguist-detectable=true
